@@ -1,0 +1,9 @@
+/author/leskov/form.2 --- Повести
+/author/leskov/form.8 --- Рассказы
+/author/leskov/text/986/p.1 --- Левша
+/author/leskov/text/439/p.1 --- Леди Макбет Мценского уезда
+/author/leskov/text/15/p.1 --- Очарованный странник
+/author/leskov/text/2401/p.1 --- Старый гений
+/author/leskov/text/1156/p.1 --- Тупейный художник
+/author/leskov/text/1155/p.1 --- Человек на часах
+/author/leskov/text/1157/p.1 --- Штопальщик

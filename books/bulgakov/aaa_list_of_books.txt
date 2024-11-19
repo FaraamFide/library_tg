@@ -1,0 +1,3 @@
+/author/bulgakov/form.1 --- Романы
+/author/bulgakov/form.9 --- Пьесы
+/author/bulgakov/text/1287/p.1 --- Дни Турбиных

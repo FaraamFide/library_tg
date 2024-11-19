@@ -1,0 +1,21 @@
+/author/platonov/theme.2 --- О детях
+/author/platonov/theme.22 --- О войне
+/author/platonov/form.2 --- Повести
+/author/platonov/form.8 --- Рассказы
+/author/platonov/form.13 --- Сказки
+/author/platonov/text/1193/p.1 --- В прекрасном и яростном мире
+/author/platonov/text/2160/p.1 --- Возвращение
+/author/platonov/text/2377/p.1 --- Волшебное кольцо
+/author/platonov/text/2376/p.1 --- Еще мама
+/author/platonov/text/2159/p.1 --- Иван Великий
+/author/platonov/text/2375/p.1 --- Июльская гроза
+/author/platonov/text/1191/p.1 --- Корова
+/author/platonov/text/1010/p.1 --- Котлован
+/author/platonov/text/1197/p.1 --- Неизвестный цветок
+/author/platonov/text/2374/p.1 --- Никита
+/author/platonov/text/1195/p.1 --- Песчаная учительница
+/author/platonov/text/1011/p.1 --- Сокровенный человек
+/author/platonov/text/1012/p.1 --- Усомнившийся Макар
+/author/platonov/text/1194/p.1 --- Фро
+/author/platonov/text/1196/p.1 --- Цветок на земле
+/author/platonov/text/1192/p.1 --- Юшка

@@ -1,0 +1,15 @@
+/author/landreev/theme.2 --- О детях
+/author/landreev/theme.3 --- О животных
+/author/landreev/theme.19 --- О жизни
+/author/landreev/theme.22 --- О войне
+/author/landreev/form.2 --- Повести
+/author/landreev/form.8 --- Рассказы
+/author/landreev/form.9 --- Пьесы
+/author/landreev/text/2157/p.1 --- Ангелочек
+/author/landreev/text/2154/p.1 --- Баргамот и Гараська
+/author/landreev/text/2156/p.1 --- Большой шлем
+/author/landreev/text/1645/p.1 --- Жизнь человека
+/author/landreev/text/1203/p.1 --- Иуда Искариот
+/author/landreev/text/1646/p.1 --- Красный смех
+/author/landreev/text/2158/p.1 --- Кусака
+/author/landreev/text/2155/p.1 --- Петька на даче

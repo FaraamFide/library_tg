@@ -1,0 +1,5 @@
+/author/fonvizin/theme.18 --- Сатирические
+/author/fonvizin/form.9 --- Пьесы
+/author/fonvizin/form.19 --- Комедии
+/author/fonvizin/text/1643/p.1 --- Бригадир
+/author/fonvizin/text/1098/p.1 --- Недоросль
