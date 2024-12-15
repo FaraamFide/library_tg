@@ -1,0 +1,4 @@
+All these files inside the parsing_files folder were
+needed only to create a books folder and a list of
+authors authors.txt Inside the books folder there are
+folders for each author, with all works and a list of works
