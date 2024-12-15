@@ -26,13 +26,12 @@ def get_list_of_books(author_name):
     data = ""
     for book in books:
         book = book.find('a')
-        href = book.get('href').replace("/index.html", "")#.replace('/p.1', '')
+        href = book.get('href').replace("/index.html", "")
         text = book.get_text()
 
         if "/author" not in href:
             href = f"/author/{author_name}" + href    
 
-        #print(f'{href} --- {text}')
         data += f"{href} --- {text}\n"
     
     data = data.removesuffix("\n")
