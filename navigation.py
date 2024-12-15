@@ -10,12 +10,10 @@ def works_menu(author_key, page=0):
     end = start + MAX_BOOKS_PER_PAGE
     books_on_page = books[start:end]
 
-    # Add book titles first
     for book in books_on_page:
         link, title = book.split(" --- ")
         markup.add(InlineKeyboardButton(title, callback_data=f"work_{link}"))
 
-    # Add navigation buttons at the bottom
     if page > 0:
         markup.row(InlineKeyboardButton("⬅️ Предыдущая страница", callback_data=f"page_{author_key}_{page-1}"))
     if end < len(books):
@@ -31,14 +29,12 @@ def books_menu(found_books, page=0, query=""):
 
     books_on_page = found_books[start:end]
 
-    # Add book titles or authors list first
     for link, title, author_name in books_on_page:
         if query == "MimeAuthors":
             markup.add(InlineKeyboardButton(f"{title}", callback_data=f"author_{author_name}"))
         else:
             markup.add(InlineKeyboardButton(f"{title} ({author_name})", callback_data=f"work_{link}"))
 
-    # Add navigation buttons at the bottom
     if page > 0:
         markup.row(InlineKeyboardButton("⬅️ Предыдущая страница", callback_data=f"bookpage_{page-1}_{query}"))
     if end < len(found_books):
