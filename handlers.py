@@ -9,24 +9,18 @@ from config import MAX_BOOKS_PER_PAGE, MAX_FOUND_BOOKS, MAX_AUTHORS_PER_PAGE
 from navigation import works_menu, books_menu
 
 
-# Глобальные переменные для отслеживания состояния
 authors = get_authors()
 authors_list = [[key, name] for key, name in authors.items()]
 
-#from data_store import mes_to_execute_and_position
-
-#user_positions = {}
 last_mes = None
 chapters = []
-#messages_to_execute = {} #{"work":[], "author_works":[], "author": [],"authors":[], "found_works":[], "work_name": [], "start":[]}
-#user_positions[user_id] = {'chapter': 0, 'part': 0, 'chapters': chapters}
 
-# Функция регистрации обработчиков
+
 def register_handlers(dp):
     dp.register_message_handler(send_welcome, commands=['start'])
     dp.register_message_handler(choose_author, commands=['author'])
     dp.register_message_handler(choose_book, commands=['book'])
-    dp.register_message_handler(list_authors, commands=['authors'])     # NEW
+    dp.register_message_handler(list_authors, commands=['authors'])
 
     dp.register_callback_query_handler(process_callback, lambda c: c.data in ["prev_part", "next_part", "select_chapter", "next_chapter", "prev_chapter"])
     dp.register_callback_query_handler(process_chapter_selection, lambda c: c.data.startswith("chapter_"))
@@ -39,8 +33,7 @@ def register_handlers(dp):
 from data_store import load_data
 mes_to_execute_and_position = load_data()
 
-# ---------------- NEW OPTIONS, ADDED TO WORK CODE
-async def list_authors(message: types.Message, page=0, query=""):  # i can try copy logic from /book and try to use reply_markup(books_menu(authors, query)) so i need to optimize authots -> found_books
+async def list_authors(message: types.Message, page=0, query=""):
     authors1 = [("", i[1], i[0]) for i in authors_list]
     run_in_all()
     user_id = message.from_user.id
@@ -56,12 +49,9 @@ async def list_authors(message: types.Message, page=0, query=""):  # i can try c
 
 
 import inspect
-def run_in_all():
-    # Получаем текущий кадр
+def run_in_all():  # Func for debug
     frame = inspect.currentframe()
-    # Получаем информацию о кадре
     frame_info = inspect.getframeinfo(frame.f_back)
-    # Извлекаем название функции
     function_name = frame_info.function
     print(f"Название функции: {function_name}")
 
@@ -75,25 +65,15 @@ async def delete_bot_message(tag, u_id, max_count=1):
             await bot.delete_message(chat_id=u_id, message_id=mes_to_execute_and_position[str(u_id)][tag].pop(0))        
         except:
             print("ERROR WHILE DELETING MESSAGE")
-# --------------------------------------------------------------------
-
-#user_positions[user_id] = {'chapter': 0, 'part': 0, 'chapters': chapters}
-
-
-# messages_to_execute[user_id] = {"work":[], "author_works":[], "author": [],"authors":[], "authors_user":[],  "found_works":[], "work_name": [], "start":[], "start_user": []}
 
 async def send_welcome(message: types.Message):
     from bot import bot
     run_in_all()
     user_id = message.from_user.id
-    #message_to_delete_user = message.message_id
     
     if str(user_id) not in mes_to_execute_and_position.keys():
         mes_to_execute_and_position[str(user_id)] = {"work":[], "author_works":[], "author": [],"authors":[], "authors_user":[],
           "found_works":[], "found_works_user":[], "work_name": [], "start":[], "start_user": [],  "user_position": None}
-    #delete_bot_message("start", user_id)
-    
-
 
     welcome_text = (
         "Привет! Я помогу вам найти произведения по авторам и названиям. Доступные команды:\n"
@@ -150,16 +130,14 @@ async def choose_author(message: types.Message):
 async def show_author_works(callback_query: types.CallbackQuery):
     run_in_all()
     user_id = callback_query.from_user.id
-    if  mes_to_execute_and_position[str(user_id)]["author"] != []:  # Заменю Author_works на author
-        #await delete_bot_message("authors_user", user_id)
+    if  mes_to_execute_and_position[str(user_id)]["author"] != []: 
         await delete_bot_message("author", user_id, max_count=2)
+        
     author_key = callback_query.data.split("_")[1]
     message_to_delete = await callback_query.message.answer(escape_markdown(f"Произведения {authors[author_key]}:"), reply_markup=works_menu(author_key))
     await callback_query.answer()
 
     mes_to_execute_and_position[str(user_id)]["author"].append(message_to_delete.message_id)
-    #mes_to_execute_and_position[user_id]["authors_user"].append(message.message_id)
-
 
 async def change_page(callback_query: types.CallbackQuery):
     run_in_all()
@@ -209,14 +187,13 @@ async def change_book_page(callback_query: types.CallbackQuery):
     data = callback_query.data.split("_")
     page = int(data[1])
     query = data[2]
-    #print(page, query)
-# ---------- ADDED
+
     if query == "MimeAuthors":
         authors1 = [("", i[1], i[0]) for i in authors_list]
         await callback_query.message.edit_text(escape_markdown("Авторы:"), reply_markup=books_menu(authors1, page, query))
         await callback_query.answer()
+        
     else:
-# -------------------
         found_books = []
         for author_key, author_name in authors.items():
             books = get_list_of_books(author_key)
@@ -236,19 +213,7 @@ async def show_work(callback_query: types.CallbackQuery):
     chapters = split_to_chapters(href_to_path(work_link))
 
     user_id = callback_query.from_user.id
-    #user_positions[user_id] = {'chapter': 0, 'part': 0, 'chapters': chapters}
     mes_to_execute_and_position[str(user_id)]["user_position"] = {'chapter': 0, 'part': 0, 'chapters': chapters}
-
-    # if messages_to_execute["work"] != []:
-    #     await bot.delete_message(chat_id=user_id, message_id=messages_to_execute["work"].pop(0))
-
-    # if messages_to_execute["work_name"] != []:
-    #     await bot.delete_message(chat_id=user_id, message_id=messages_to_execute["work_name"].pop(0))
-
-    #message = await bot.send_message(user_id, escape_markdown(f"{work_link}")) 
-    #messages_to_execute["work_name"].append(message.message_id) 
-
-
 
     await send_chapter_part(user_id, chapters)
     await callback_query.answer()
@@ -259,14 +224,10 @@ async def send_chapter_part(user_id, chapters=None):
 
     
     if not chapters:
-        #chapters = user_positions[user_id].get('chapters')
         chapters = mes_to_execute_and_position[str(user_id)]["user_position"].get("chapters")
-
-    # chapter_index = user_positions[user_id]['chapter']
-    # part_index = user_positions[user_id]['part']
+        
     chapter_index = mes_to_execute_and_position[str(user_id)]["user_position"]["chapter"]
     part_index = mes_to_execute_and_position[str(user_id)]["user_position"]["part"]
-    #print(len(chapters), chapter_index)
     chapter_parts = split_text_into_chunks(chapters[chapter_index])
     
     if part_index >= len(chapter_parts):
@@ -287,18 +248,14 @@ async def send_chapter_part(user_id, chapters=None):
     elif chapter_index < len(chapters) - 1:
         keyboard.insert(InlineKeyboardButton("Далее", callback_data="next_chapter"))
 
-    # if last_mes:
-        
-    #     await bot.delete_message(chat_id=user_id, message_id=last_mes)
+    
     if mes_to_execute_and_position[str(user_id)]["work"] != []:
         try:
             await bot.delete_message(chat_id=user_id, message_id=mes_to_execute_and_position[str(user_id)]["work"].pop(0))
         except:
             pass
-    #await delete_bot_message("work", user_id, 1)
 
     message_to_delete = await bot.send_message(user_id, part_text, reply_markup=keyboard)
-    #last_mes = message.message_id
     mes_to_execute_and_position[str(user_id)]["work"].append(message_to_delete.message_id) 
 
 
@@ -312,23 +269,17 @@ async def process_callback(callback_query: types.CallbackQuery):
         return
 
     if action == "next_part":
-        #user_positions[user_id]['part'] += 1
-        #print(user_id, type(user_id))
-        #print(mes_to_execute_and_position.keys())
         mes_to_execute_and_position[str(user_id)]["user_position"]["part"] += 1
+        
     elif action == "prev_part":
-        # user_positions[user_id]['part'] -= 1
         mes_to_execute_and_position[str(user_id)]["user_position"]["part"] -= 1
+        
     elif action == "next_chapter":
-        # user_positions[user_id]['chapter'] += 1
-        # user_positions[user_id]['part'] = 0
         mes_to_execute_and_position[str(user_id)]["user_position"]["chapter"] += 1
         mes_to_execute_and_position[str(user_id)]["user_position"]["part"] = 0
+        
     elif action == "prev_chapter":
-        # user_positions[user_id]['chapter'] -= 1
-        # user_positions[user_id]['part'] = len(split_text_into_chunks(chapters[user_positions[user_id]['chapter']])) - 1
         mes_to_execute_and_position[str(user_id)]["user_position"]["chapter"] -= 1
-        #chapters = mes_to_execute_and_position[str(user_id)]["user_position"]["chapters"]
         mes_to_execute_and_position[str(user_id)]["user_position"]["part"] = len(split_text_into_chunks(mes_to_execute_and_position[str(user_id)]["user_position"]["chapters"][mes_to_execute_and_position[str(user_id)]["user_position"]["chapter"]])) -1
 
     await send_chapter_part(user_id, chapters)
@@ -337,7 +288,6 @@ async def show_chapter_selection(user_id, message_id):
     run_in_all()
     from bot import bot
     keyboard = InlineKeyboardMarkup(row_width=2)
-    #chapters = mes_to_execute_and_position[str(user_id)]["user_position"]["chapters"]
     for i in range(len(mes_to_execute_and_position[str(user_id)]["user_position"]["chapters"])):
         chapter_button = InlineKeyboardButton(escape_markdown(f"ГЛАВА {i + 1}"), callback_data=f"chapter_{i}")
         keyboard.add(chapter_button)
@@ -348,9 +298,6 @@ async def process_chapter_selection(callback_query: types.CallbackQuery):
     run_in_all()
     chapter_index = int(callback_query.data.split("_")[1])
     user_id = callback_query.from_user.id
-    #print(user_positions)
-    # user_positions[user_id]['chapter'] = chapter_index
-    # user_positions[user_id]['part'] = 0
     mes_to_execute_and_position[str(user_id)]["user_position"]["chapter"] = chapter_index
     mes_to_execute_and_position[str(user_id)]["user_position"]["part"] = 0
     await send_chapter_part(user_id, chapters)
