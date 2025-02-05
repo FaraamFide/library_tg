@@ -1,0 +1,5 @@
+/author/karamzin/theme.23 --- Исторические
+/author/karamzin/form.2 --- Повести
+/author/karamzin/text/1087/p.1 --- Бедная Лиза
+/author/karamzin/text/1483/p.1 --- Марфа-Посадница или Покорение Новагорода
+/author/karamzin/text/1230/p.1 --- Остров Борнгольм

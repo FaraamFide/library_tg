@@ -1,0 +1,1330 @@
+/author/pushkin/theme.1 --- О любви
+/author/pushkin/theme.5 --- Об осени
+/author/pushkin/theme.6 --- О весне
+/author/pushkin/theme.8 --- О зиме
+/author/pushkin/theme.10 --- Юмористические
+/author/pushkin/theme.11 --- О дружбе
+/author/pushkin/theme.13 --- О женщине
+/author/pushkin/theme.14 --- О смерти
+/author/pushkin/theme.15 --- О России
+/author/pushkin/theme.17 --- О поэтах и поэзии
+/author/pushkin/theme.18 --- Сатирические
+/author/pushkin/theme.19 --- О жизни
+/author/pushkin/theme.20 --- О море
+/author/pushkin/theme.23 --- Исторические
+/author/pushkin/theme.24 --- О вине
+/author/pushkin/theme.30 --- О ночи
+/author/pushkin/theme.31 --- Об утре
+/author/pushkin/form.1 --- Романы
+/author/pushkin/form.2 --- Повести
+/author/pushkin/form.5 --- Стихотворения
+/author/pushkin/form.6 --- Поэмы
+/author/pushkin/form.7 --- Очерки
+/author/pushkin/form.9 --- Пьесы
+/author/pushkin/form.13 --- Сказки
+/author/pushkin/form.14 --- Эпиграммы
+/author/pushkin/form.18 --- Элегии
+/author/pushkin/text/629/p.1 --- 19 октября 1827
+/author/pushkin/text/658/p.1 --- 19 октября 1828
+/author/pushkin/text/566/p.1 --- 19 октября
+/author/pushkin/text/387/p.1 --- 27 мая 1819
+/author/pushkin/text/423/p.1 --- A son amant Eglé sans résistance
+/author/pushkin/text/274/p.1 --- Avez-vous vu la tendre rose
+/author/pushkin/text/370/p.1 --- Couplets
+/author/pushkin/text/585/p.1 --- Ex ungue leonem
+/author/pushkin/text/424/p.1 --- Jai posséedée maitesse honêtte
+/author/pushkin/text/275/p.1 --- Mon portrait
+/author/pushkin/text/152/p.1 --- NN
+/author/pushkin/text/313/p.1 --- On peut très bien mademoiselle
+/author/pushkin/text/840/p.1 --- Quand au front du convive au beau sein de Délie
+/author/pushkin/text/370/p.1 --- Quand un poète en son extase
+/author/pushkin/text/274/p.1 --- Stances
+/author/pushkin/text/399/p.1 --- Tien et mien  dit Lafontainе
+/author/pushkin/text/639/p.1 --- To Dawe Esqr
+/author/pushkin/text/275/p.1 --- Vous me demandez mon portrait
+/author/pushkin/text/889/p.1 --- А в ненастные дни
+/author/pushkin/text/245/p.1 --- Адели
+/author/pushkin/text/623/p.1 --- Акафист Екатерине Николаевне Карамзиной
+/author/pushkin/text/539/p.1 --- Аквилон
+/author/pushkin/text/225/p.1 --- Алексееву
+/author/pushkin/text/952/p.1 --- Альфонс садится на коня
+/author/pushkin/text/118/p.1 --- Амур и Гименей
+/author/pushkin/text/620/p.1 --- Ангел
+/author/pushkin/text/450/p.1 --- Анджело
+/author/pushkin/text/556/p.1 --- Андрей Шенье
+/author/pushkin/text/852/p.1 --- Анне Н Вульф
+/author/pushkin/text/660/p.1 --- Анчар
+/author/pushkin/text/195/p.1 --- Аптеку позабудь ты для венков лавровых
+/author/pushkin/text/476/p.1 --- Арап Петра Великого
+/author/pushkin/text/619/p.1 --- Арион
+/author/pushkin/text/253/p.1 --- Арист и ты в толпе служителей Парнаса
+/author/pushkin/text/260/p.1 --- Арист нам обещал трагедию такую
+/author/pushkin/text/339/p.1 --- Ах боже мой какую
+/author/pushkin/text/174/p.1 --- Бакуниной
+/author/pushkin/text/400/p.1 --- Баллада
+/author/pushkin/text/234/p.1 --- Баратынскому Из Бессарабии
+/author/pushkin/text/247/p.1 --- Баратынскому
+/author/pushkin/text/89/p.6 --- Барышня-крестьянка
+/author/pushkin/text/282/p.1 --- Батюшкову
+/author/pushkin/text/444/p.1 --- Бахчисарайский фонтан
+/author/pushkin/text/132/p.1 --- Беги сокройся от очей
+/author/pushkin/text/352/p.1 --- Безверие
+/author/pushkin/text/716/p.1 --- Безумных лет угасшее веселье
+/author/pushkin/text/147/p.1 --- Бессмертною рукой раздавленный зоил
+/author/pushkin/text/715/p.1 --- Бесы
+/author/pushkin/text/891/p.1 --- Благословен твой подвиг новый
+/author/pushkin/text/316/p.1 --- Благослови поэт В тиши парнасской сени
+/author/pushkin/text/711/p.1 --- Благословляю новоселье
+/author/pushkin/text/834/p.1 --- Благочестивая жена
+/author/pushkin/text/628/p.1 --- Блажен в златом кругу вельмож
+/author/pushkin/text/159/p.1 --- Блажен кто в отдаленной сени
+/author/pushkin/text/309/p.1 --- Блажен кто в шуме городском
+/author/pushkin/text/264/p.1 --- Блаженство
+/author/pushkin/text/843/p.1 --- Блестит луна недвижно море спит
+/author/pushkin/text/682/p.1 --- Блеща средь полей широких
+/author/pushkin/text/625/p.1 --- Близ мест где царствует Венеция златая
+/author/pushkin/text/760/p.1 --- Бог веселый винограда
+/author/pushkin/text/341/p.1 --- Бог весть за что философы пииты
+/author/pushkin/text/629/p.1 --- Бог помочь вам друзья мои
+/author/pushkin/text/117/p.1 --- Богами вам еще даны
+/author/pushkin/text/349/p.1 --- Боже царя храни
+/author/pushkin/text/336/p.1 --- Больны вы дядюшка Нет мочи
+/author/pushkin/text/465/p.1 --- Борис Годунов
+/author/pushkin/text/745/p.1 --- Бородинская годовщина
+/author/pushkin/text/883/p.1 --- Брадатый староста Авдей
+/author/pushkin/text/434/p.1 --- Бранись ворчи болван болванов
+/author/pushkin/text/806/p.1 --- Брат милый отроком расстался ты со мной
+/author/pushkin/text/443/p.1 --- Братья разбойники
+/author/pushkin/text/851/p.1 --- Брови царь нахмуря
+/author/pushkin/text/688/p.1 --- Брожу ли я вдоль улиц шумных
+/author/pushkin/text/766/p.1 --- Будрыс и его сыновья
+/author/pushkin/text/863/p.1 --- Будь подобен полной чаше
+/author/pushkin/text/572/p.1 --- Буря
+/author/pushkin/text/569/p.1 --- Буря мглою небо кроет
+/author/pushkin/text/813/p.1 --- Бывало в сладком ослепленье
+/author/pushkin/text/271/p.1 --- Бывало прежних лет герой
+/author/pushkin/text/681/p.1 --- Был и я среди донцов
+/author/pushkin/text/1301/p.1 --- Была пора наш праздник молодой
+/author/pushkin/text/554/p.1 --- Быть может уж недолго мне
+/author/pushkin/text/790/p.1 --- В Академии наук
+/author/pushkin/text/151/p.1 --- В Дориде нравятся и локоны златые
+/author/pushkin/text/208/p.1 --- В Л Давыдову
+/author/pushkin/text/890/p.1 --- В Л Пушкину
+/author/pushkin/text/124/p.1 --- В Л Пушкину
+/author/pushkin/text/638/p.1 --- В С Филимонову при получении поэмы его Дурацкий колпак
+/author/pushkin/text/431/p.1 --- В Ф Раевскому
+/author/pushkin/text/430/p.1 --- В Ф Раевскому
+/author/pushkin/text/432/p.1 --- В Ф Раевскому
+/author/pushkin/text/584/p.1 --- В Элизии Василий Тредьяковский
+/author/pushkin/text/751/p.1 --- В альбом А О Смирновой
+/author/pushkin/text/756/p.1 --- В альбом
+/author/pushkin/text/757/p.1 --- В альбом
+/author/pushkin/text/357/p.1 --- В альбом Илличевскому
+/author/pushkin/text/356/p.1 --- В альбом
+/author/pushkin/text/876/p.1 --- В альбом Павлу Вяземскому
+/author/pushkin/text/360/p.1 --- В альбом Пущину
+/author/pushkin/text/173/p.1 --- В альбом Сосницкой
+/author/pushkin/text/752/p.1 --- В альбом кж А Д Абамелек
+/author/pushkin/text/613/p.1 --- В безмолвии садов весной во мгле ночей
+/author/pushkin/text/420/p.1 --- В беспечных радостях в живом очарованье
+/author/pushkin/text/849/p.1 --- В глуши измучась жизнью постной
+/author/pushkin/text/926/p.1 --- В голубом небесном поле
+/author/pushkin/text/620/p.1 --- В дверях эдема ангел нежный
+/author/pushkin/text/215/p.1 --- В дыму в крови сквозь тучи стрел
+/author/pushkin/text/146/p.1 --- В его „Истории“ изящность простота
+/author/pushkin/text/199/p.1 --- В жизни мрачной и презренной
+/author/pushkin/text/896/p.1 --- В журнал совсем не европейский
+/author/pushkin/text/571/p.1 --- В крови горит огонь желанья
+/author/pushkin/text/587/p.1 --- В лесах во мраке ночи праздной
+/author/pushkin/text/202/p.1 --- В младенчестве моем она меня любила
+/author/pushkin/text/937/p.1 --- В мои осенние досуги
+/author/pushkin/text/314/p.1 --- В молчанье пред тобой сижу
+/author/pushkin/text/606/p.1 --- В надежде славы и добра
+/author/pushkin/text/732/p.1 --- В начале жизни школу помню я
+/author/pushkin/text/330/p.1 --- В неволе скучной увядает
+/author/pushkin/text/361/p.1 --- В нем пунша и войны кипит всегдашний жар
+/author/pushkin/text/362/p.1 --- В нем радости мои когда померкну я
+/author/pushkin/text/617/p.1 --- В отдалении от вас
+/author/pushkin/text/131/p.1 --- В печальной праздности я лиру забывал
+/author/pushkin/text/282/p.1 --- В пещерах Геликона
+/author/pushkin/text/857/p.1 --- В пещере тайной в день гоненья
+/author/pushkin/text/922/p.1 --- В поле чистом серебрится
+/author/pushkin/text/125/p.1 --- В последний раз в сени уединенья
+/author/pushkin/text/722/p.1 --- В последний раз твой образ милый
+/author/pushkin/text/659/p.1 --- В прохладе сладостной фонтанов
+/author/pushkin/text/912/p.1 --- В пустыне
+/author/pushkin/text/660/p.1 --- В пустыне чахлой и скупой
+/author/pushkin/text/301/p.1 --- В раю за грустным Ахероном
+/author/pushkin/text/874/p.1 --- В роще карийской любезной ловцам таится пещера
+/author/pushkin/text/264/p.1 --- В роще сумрачной тенистой
+/author/pushkin/text/888/p.1 --- В рюмке светлой предо мною
+/author/pushkin/text/385/p.1 --- В себе все блага заключая
+/author/pushkin/text/673/p.1 --- В сиянье в радостном покое
+/author/pushkin/text/618/p.1 --- В степи мирской печальной и безбрежной
+/author/pushkin/text/401/p.1 --- В столице он  капрал в Чугуеве  Нерон
+/author/pushkin/text/206/p.1 --- В стране где Юлией венчанный
+/author/pushkin/text/211/p.1 --- В стране где я забыл тревоги прежних лет
+/author/pushkin/text/226/p.1 --- В твою светлицу друг мой нежный
+/author/pushkin/text/513/p.1 --- В те дни когда мне были новы
+/author/pushkin/text/751/p.1 --- В тревоге пестрой и бесплодной
+/author/pushkin/text/708/p.1 --- В часы забав иль праздной скуки
+/author/pushkin/text/507/p.1 --- В чужбине свято наблюдаю
+/author/pushkin/text/562/p.1 --- Вакхическая песня
+/author/pushkin/text/299/p.1 --- Вам восемь лет а мне семнадцать било
+/author/pushkin/text/638/p.1 --- Вам музы милые старушки
+/author/pushkin/text/518/p.1 --- Ваш дед портной ваш дядя повар
+/author/pushkin/text/421/p.1 --- Вдали тех пропастей глубоких
+/author/pushkin/text/255/p.1 --- Вдали ты зришь утес уединенный
+/author/pushkin/text/930/p.1 --- Везувий зев открыл  дым хлынул клубом  пламя
+/author/pushkin/text/745/p.1 --- Великий день Бородина
+/author/pushkin/text/405/p.1 --- Великим быть желаю
+/author/pushkin/text/373/p.1 --- Венец желаниям Итак я вижу вас
+/author/pushkin/text/570/p.1 --- Вертоград моей сестры
+/author/pushkin/text/387/p.1 --- Веселый вечер в жизни нашей
+/author/pushkin/text/160/p.1 --- Веселый пир
+/author/pushkin/text/871/p.1 --- Весна весна пора любви
+/author/pushkin/text/283/p.1 --- Вечерняя заря в пучине догорала
+/author/pushkin/text/201/p.1 --- Взгляни на милую когда свое чело
+/author/pushkin/text/360/p.1 --- Взглянув когда-нибудь на верный сей листок
+/author/pushkin/text/277/p.1 --- Взошла луна над дремлющим заливом
+/author/pushkin/text/762/p.1 --- Вино (Ион Хиосский)
+/author/pushkin/text/530/p.1 --- Виноград
+/author/pushkin/text/305/p.1 --- Вишня
+/author/pushkin/text/391/p.1 --- Вкруг я Стурдзы хожу
+/author/pushkin/text/808/p.1 --- Внемли о Гелиос серебряным луком звенящий
+/author/pushkin/text/149/p.1 --- Внимает он привычным ухом
+/author/pushkin/text/833/p.1 --- „Внимай что я тебе вещаю
+/author/pushkin/text/785/p.1 --- Вновь я посетил
+/author/pushkin/text/251/p.1 --- Внук Тредьяковского Клит гекзаметром песенки пишет
+/author/pushkin/text/612/p.1 --- Во глубине сибирских руд
+/author/pushkin/text/280/p.1 --- Вода и вино
+/author/pushkin/text/957/p.1 --- Воды глубокие
+/author/pushkin/text/767/p.1 --- Воевода
+/author/pushkin/text/259/p.1 --- Возможно ль вместо роз Амуром насажденных
+/author/pushkin/text/165/p.1 --- Возрождение
+/author/pushkin/text/204/p.1 --- Война
+/author/pushkin/text/887/p.1 --- Волненьем жизни утомленный
+/author/pushkin/text/132/p.1 --- Вольность
+/author/pushkin/text/656/p.1 --- Ворон к ворону летит
+/author/pushkin/text/589/p.1 --- Воспитанный под барабаном
+/author/pushkin/text/290/p.1 --- Воспоминание (К Пущину)
+/author/pushkin/text/640/p.1 --- Воспоминание
+/author/pushkin/text/686/p.1 --- Воспоминания в Царском селе
+/author/pushkin/text/110/p.1 --- Воспоминания в Царском селе
+/author/pushkin/text/386/p.1 --- Воспоминаньем упоенный
+/author/pushkin/text/686/p.1 --- Воспоминаньями смущенный
+/author/pushkin/text/535/p.1#p7 --- Восстань боязливый
+/author/pushkin/text/866/p.1 --- Восстань восстань пророк России
+/author/pushkin/text/895/p.1 --- Восстань о Греция восстань
+/author/pushkin/text/338/p.1 --- Вот Виля  он любовью дышит
+/author/pushkin/text/594/p.1 --- Вот Зина вам совет играйте
+/author/pushkin/text/546/p.1 --- Вот Хвостовой покровитель
+/author/pushkin/text/359/p.1 --- Вот здесь лежит больной студент
+/author/pushkin/text/265/p.1 --- Вот зеркало мое — прими его Киприда
+/author/pushkin/text/368/p.1 --- Вот карапузик наш монах
+/author/pushkin/text/214/p.1 --- Вот муза резвая болтунья
+/author/pushkin/text/579/p.1 --- Враги мои покамест я ни слова
+/author/pushkin/text/567/p.1 --- Всё в жертву памяти твоей
+/author/pushkin/text/754/p.1 --- Всё в ней гармония всё диво
+/author/pushkin/text/611/p.1 --- „Всё мое“ — сказало злато
+/author/pushkin/text/114/p.1 --- Все в таинственном молчанье
+/author/pushkin/text/520/p.1 --- Все кончено меж нами связи нет
+/author/pushkin/text/281/p.1 --- „Все миновалось
+/author/pushkin/text/175/p.1 --- Все пленяет нас в Эсфири
+/author/pushkin/text/396/p.1 --- Все призрак суета
+/author/pushkin/text/406/p.1 --- Все так же ль осеняют своды
+/author/pushkin/text/162/p.1 --- Всеволожскому
+/author/pushkin/text/193/p.1 --- Всей России притеснитель
+/author/pushkin/text/626/p.1 --- Всем красны боярские конюшни
+/author/pushkin/text/355/p.1 --- Встречаюсь я с осьмнадцатой весной
+/author/pushkin/text/541/p.1 --- Второе послание к цензору
+/author/pushkin/text/235/p.1 --- Вчера был день разлуки шумной
+/author/pushkin/text/297/p.1 --- Вчера за чашей пуншевою
+/author/pushkin/text/306/p.1 --- Вчера мне Маша приказала
+/author/pushkin/text/936/p.1 --- Вы за „Онегина“ советуете други
+/author/pushkin/text/669/p.1 --- Вы избалованы природой
+/author/pushkin/text/173/p.1 --- Вы съединить могли с холодностью сердечной
+/author/pushkin/text/138/p.1 --- Выздоровление
+/author/pushkin/text/691/p.1 --- Высоко над семьею гор
+/author/pushkin/text/89/p.2 --- Выстрел
+/author/pushkin/text/413/p.1 --- Вяземскому
+/author/pushkin/text/266/p.1 --- Вянет вянет лето красно
+/author/pushkin/text/442/p.1 --- Гавриилиада
+/author/pushkin/text/277/p.1 --- Гараль и Гальвина
+/author/pushkin/text/113/p.1 --- Где наша роза
+/author/pushkin/text/291/p.1 --- Где ты ленивец мой
+/author/pushkin/text/215/p.1 --- Генералу Пущину
+/author/pushkin/text/731/p.1 --- Герой
+/author/pushkin/text/308/p.1 --- Глаза скосив на ус кудрявый
+/author/pushkin/text/720/p.1 --- Глухой глухого звал к суду судьи глухого
+/author/pushkin/text/188/p.1 --- Гляжу как безумный на черную шаль
+/author/pushkin/text/753/p.1 --- Гнедичу
+/author/pushkin/text/756/p.1 --- Гонимый рока самовластьем
+/author/pushkin/extract/33 --- Горит восток зарею новой
+/author/pushkin/text/239/p.1 --- Горишь ли ты лампада наша
+/author/pushkin/text/657/p.1 --- Город пышный город бедный
+/author/pushkin/text/279/p.1 --- Городок (К)
+/author/pushkin/text/834/p.1 --- Гр Орловой-Чесменской
+/author/pushkin/text/446/p.1 --- Граф Нулин
+/author/pushkin/text/822/p.1 --- Графу Олизару
+/author/pushkin/text/220/p.1 --- Гречанка верная не плачь  он пал героем
+/author/pushkin/text/238/p.1 --- Гречанке
+/author/pushkin/text/114/p.1 --- Гроб Анакреона
+/author/pushkin/text/218/p.1 --- Гроб юноши
+/author/pushkin/text/89/p.4 --- Гробовщик
+/author/pushkin/text/187/p.1 --- Гроза луны свободы воин
+/author/pushkin/text/798/p.1 --- Грустен и весел вхожу ваятель в твою мастерскую
+/author/pushkin/text/763/p.1 --- Гусар
+/author/pushkin/text/791/p.1 --- Д В Давыдову
+/author/pushkin/text/731/p.1 --- Да слава в прихотях вольна
+/author/pushkin/text/856/p.1 --- Да сохранит тебя твой добрый гений
+/author/pushkin/text/181/p.1 --- Давайте пить и веселиться
+/author/pushkin/text/516/p.1 --- Давно об ней воспоминанье
+/author/pushkin/text/521/p.1 --- Давыдову
+/author/pushkin/text/435/p.1 --- Дай Никита мне одеться
+/author/pushkin/text/642/p.1 --- Дар напрасный дар случайный
+/author/pushkin/text/906/p.1 --- Два чувства дивно близки нам
+/author/pushkin/text/588/p.1 --- Движение
+/author/pushkin/text/252/p.1 --- Двум Александрам Павловичам
+/author/pushkin/text/209/p.1 --- Дева
+/author/pushkin/text/692/p.1 --- Делибаш
+/author/pushkin/text/334/p.1 --- Делия
+/author/pushkin/text/205/p.1 --- Дельвигу
+/author/pushkin/text/122/p.1 --- Дельвигу
+/author/pushkin/text/907/p.1 --- Дельвигу
+/author/pushkin/text/513/p.1 --- Демон
+/author/pushkin/text/393/p.1 --- Денису Давыдову
+/author/pushkin/text/418/p.1 --- Денису Давыдову
+/author/pushkin/text/155/p.1 --- Деревня
+/author/pushkin/text/227/p.1 --- Десятая заповедь
+/author/pushkin/text/213/p.1 --- Дионея
+/author/pushkin/text/828/p.1 --- Дитя не смею над тобой
+/author/pushkin/text/303/p.1 --- Дитя харит и вдохновенья
+/author/pushkin/text/734/p.1 --- Для берегов отчизны дальной
+/author/pushkin/extract/31 --- Дни поздней осени бранят обыкновенно
+/author/pushkin/text/227/p.1 --- Добра чужого не желать
+/author/pushkin/text/181/p.1 --- Добрый совет
+/author/pushkin/text/167/p.1 --- Добрый человек
+/author/pushkin/text/311/p.1 --- Довольно битвы мчался гром
+/author/pushkin/text/721/p.1 --- Долго ль мне гулять на свете
+/author/pushkin/text/757/p.1 --- Долго сих листов заветных
+/author/pushkin/text/449/p.1 --- Домик в Коломне
+/author/pushkin/text/156/p.1 --- Домовому
+/author/pushkin/text/682/p.1 --- Дон
+/author/pushkin/text/151/p.1 --- Дорида
+/author/pushkin/text/178/p.1 --- Дориде
+/author/pushkin/text/721/p.1 --- Дорожные жалобы
+/author/pushkin/text/187/p.1 --- Дочери Карагеоргия
+/author/pushkin/text/690/p.1 --- Дробясь о мрачные скалы
+/author/pushkin/text/205/p.1 --- Друг Дельвиг мой парнасский брат
+/author/pushkin/text/955/p.1 --- Друг сердечный мне намедни говорил
+/author/pushkin/text/534/p.1 --- Дружба
+/author/pushkin/text/267/p.1 --- Друзья досужный час настал
+/author/pushkin/text/347/p.1 --- Друзья простите Завещаю
+/author/pushkin/text/117/p.1 --- Друзьям
+/author/pushkin/text/235/p.1 --- Друзьям
+/author/pushkin/text/634/p.1 --- Друзьям
+/author/pushkin/text/377/p.1 --- Дубравы где в тиши свободы
+/author/pushkin/text/479/p.1 --- Дубровский
+/author/pushkin/text/600/p.1 --- Духовной жаждою томим
+/author/pushkin/text/876/p.1 --- Душа моя Павел
+/author/pushkin/text/321/p.1 --- Дяде назвавшему сочинителя братом
+/author/pushkin/text/669/p.1 --- Е Н Ушаковой
+/author/pushkin/text/670/p.1 --- Е П Полторацкой
+/author/pushkin/text/436/p.1 --- Евгений Онегин
+/author/pushkin/text/482/p.1 --- Египетские ночи
+/author/pushkin/text/140/p.1 --- Его стихов пленительная сладость
+/author/pushkin/text/646/p.1 --- Ее глаза
+/author/pushkin/text/617/p.1 --- Ек Н Ушаковой
+/author/pushkin/text/615/p.1 --- Ек Н Ушаковой
+/author/pushkin/text/939/p.1 --- Если ехать вам случится
+/author/pushkin/text/560/p.1 --- Если жизнь тебя обманет
+/author/pushkin/text/417/p.1 --- Если с нежной красотой
+/author/pushkin/text/134/p.1 --- Есть в России город Луга
+/author/pushkin/text/614/p.1 --- Есть роза дивная она
+/author/pushkin/text/959/p.1 --- Еще в ребячестве бессмысленный и злой
+/author/pushkin/text/644/p.1 --- Еще дуют холодные ветры
+/author/pushkin/text/900/p.1 --- Еще одной высокой важной песни
+/author/pushkin/text/518/p.1 --- Жалоба
+/author/pushkin/text/403/p.1 --- Желал бы быть твоим Семенова покровом
+/author/pushkin/text/328/p.1 --- Желание
+/author/pushkin/text/553/p.1 --- Желание славы
+/author/pushkin/text/559/p.1 --- Жених
+/author/pushkin/text/583/p.1 --- Жив жив курилка
+/author/pushkin/text/677/p.1 --- Жил на свете рыцарь бедный
+/author/pushkin/text/154/p.1 --- Житье тому любезный друг
+/author/pushkin/text/665/p.1 --- Житье тому мой милый друг
+/author/pushkin/text/139/p.1 --- Жуковскому
+/author/pushkin/text/695/p.1 --- Журналами обиженный жестоко
+/author/pushkin/text/884/p.1 --- За Netty сердцем я летаю
+/author/pushkin/text/384/p.1 --- За старые грехи наказанный судьбой
+/author/pushkin/text/177/p.1 --- За ужином объелся я
+/author/pushkin/text/123/p.1 --- Забудь любезный мой Каверин
+/author/pushkin/text/803/p.1 --- Забыв и рощу и свободу
+/author/pushkin/text/347/p.1 --- Завещание Кюхельбекера
+/author/pushkin/text/511/p.1 --- Завидую тебе питомец моря смелый
+/author/pushkin/text/331/p.1 --- Заздравный кубок
+/author/pushkin/text/728/p.1 --- Заклинание
+/author/pushkin/text/176/p.1 --- Записка к Жуковскому
+/author/pushkin/text/194/p.1 --- Записка к Жуковскому
+/author/pushkin/text/844/p.1 --- Заступники кнута и плети
+/author/pushkin/text/307/p.1 --- Заутра с свечкой грошевою
+/author/pushkin/text/899/p.1 --- Зачем Елена так пугливо
+/author/pushkin/text/184/p.1 --- Зачем безвременную скуку
+/author/pushkin/text/375/p.1 --- Зачем забывши славу
+/author/pushkin/text/324/p.1 --- Зачем из облака выходишь
+/author/pushkin/text/320/p.1 --- Зачем кричишь ты что ты дева
+/author/pushkin/text/639/p.1 --- Зачем твой дивный карандаш
+/author/pushkin/text/539/p.1 --- Зачем ты грозный аквилон
+/author/pushkin/text/820/p.1 --- Зачем ты послан был и кто тебя послал
+/author/pushkin/text/925/p.1 --- Зачем я ею очарован
+/author/pushkin/text/292/p.1 --- Здесь Пушкин погребен он с музой молодою
+/author/pushkin/text/392/p.1 --- Здорово Юрьев именинник
+/author/pushkin/text/523/p.1 --- Здравствуй Вульф приятель мой
+/author/pushkin/text/623/p.1 --- Земли достигнув наконец
+/author/pushkin/text/200/p.1 --- Земля и море
+/author/pushkin/text/535/p.1#p5 --- Земля недвижна — неба своды
+/author/pushkin/text/102/p.1 --- Зима Что делать нам в деревне Я встречаю
+/author/pushkin/text/805/p.1 --- Зима мне рыхлою стеною
+/author/pushkin/text/684/p.1 --- Зимнее утро
+/author/pushkin/text/569/p.1 --- Зимний вечер
+/author/pushkin/text/608/p.1 --- Зимняя дорога
+/author/pushkin/text/762/p.1 --- Злое дитя старик молодой властелин добронравный
+/author/pushkin/text/611/p.1 --- Золото и булат
+/author/pushkin/text/680/p.1 --- Зорю бьют из рук моих
+/author/pushkin/text/643/p.1 --- И В Слёнину
+/author/pushkin/text/605/p.1 --- И И Пущину
+/author/pushkin/text/902/p.1 --- И вот ущелье мрачных скал
+/author/pushkin/text/223/p.1 --- И вы поверить мне могли
+/author/pushkin/text/749/p.1 --- И дале мы пошли  и страх обнял меня
+/author/pushkin/text/662/p.1 --- И недоверчиво и жадно
+/author/pushkin/text/371/p.1 --- И останешься с вопросом
+/author/pushkin/text/535/p.1#p9 --- И путник усталый на бога роптал
+/author/pushkin/text/270/p.1 --- И ты любезный друг оставил
+/author/pushkin/text/379/p.1 --- И я слыхал что божий свет
+/author/pushkin/text/245/p.1 --- Играй Адель
+/author/pushkin/text/853/p.1 --- Играй прелестное дитя
+/author/pushkin/text/873/p.1 --- Из Alfieri
+/author/pushkin/text/736/p.1 --- Из Barry Cornwall
+/author/pushkin/text/781/p.1 --- Из А Шенье
+/author/pushkin/text/775/p.1 --- (Из Анакреона) Отрывок
+/author/pushkin/text/861/p.1 --- Из Ариостова Orlando furioso
+/author/pushkin/text/759/p.1 --- (Из Афенея)
+/author/pushkin/text/422/p.1 --- Из Байрона
+/author/pushkin/text/678/p.1 --- Из Гафиза
+/author/pushkin/text/758/p.1 --- (Из Ксенофана Колофонского)
+/author/pushkin/text/794/p.1 --- (Из Пиндемонти)
+/author/pushkin/text/881/p.1 --- Из альбома А П Керн
+/author/pushkin/text/917/p.1 --- Из письма к А О Россет
+/author/pushkin/text/865/p.1 --- Из письма к Алексееву
+/author/pushkin/text/310/p.1 --- Из письма к В Л Пушкину
+/author/pushkin/text/805/p.1 --- Из письма к В П Горчакову
+/author/pushkin/text/860/p.1 --- Из письма к Великопольскому
+/author/pushkin/text/811/p.1 --- Из письма к Вигелю
+/author/pushkin/text/523/p.1 --- Из письма к Вульфу
+/author/pushkin/text/849/p.1 --- Из письма к Вяземскому
+/author/pushkin/text/916/p.1 --- Из письма к Вяземскому
+/author/pushkin/text/575/p.1 --- Из письма к Вяземскому
+/author/pushkin/text/206/p.1 --- Из письма к Гнедичу
+/author/pushkin/text/823/p.1 --- Из письма к Плетневу
+/author/pushkin/text/829/p.1 --- Из письма к Родзянке
+/author/pushkin/text/864/p.1 --- Из письма к Соболевскому
+/author/pushkin/text/239/p.1 --- Из письма к Я Н Толстому
+/author/pushkin/text/961/p.1 --- Из письма к Яковлеву
+/author/pushkin/text/309/p.1 --- Из письма к кн П А Вяземскому
+/author/pushkin/text/304/p.1 --- Известно буди всем кто только ходит к нам
+/author/pushkin/text/319/p.1 --- Издавна мудрые искали
+/author/pushkin/text/524/p.1 --- Издревле сладостный союз
+/author/pushkin/text/281/p.1 --- Измены
+/author/pushkin/text/171/p.1 --- Именины
+/author/pushkin/text/248/p.1 --- Иной имел мою Аглаю
+/author/pushkin/text/241/p.1 --- Иностранке
+/author/pushkin/text/278/p.1 --- Исповедь бедного стихотворца
+/author/pushkin/text/319/p.1 --- Истина
+/author/pushkin/text/477/p.1 --- История села Горюхина
+/author/pushkin/text/149/p.1 --- История стихотворца
+/author/pushkin/text/254/p.1 --- Источник быстрый Каломоны
+/author/pushkin/text/296/p.1 --- Итак я счастлив был итак я наслаждался
+/author/pushkin/text/649/p.1 --- Ищи в чужом краю здоровья и свободы
+/author/pushkin/text/184/p.1 --- К 
+/author/pushkin/text/129/p.1 --- К 
+/author/pushkin/text/755/p.1 --- К 
+/author/pushkin/text/378/p.1 --- К 
+/author/pushkin/text/172/p.1 --- К А Б
+/author/pushkin/text/601/p.1 --- К А Тимашевой
+/author/pushkin/text/593/p.1 --- К Баратынскому
+/author/pushkin/text/268/p.1 --- К Батюшкову
+/author/pushkin/text/596/p.1 --- К Вяземскому
+/author/pushkin/text/285/p.1 --- К Галичу
+/author/pushkin/text/342/p.1 --- К Делии
+/author/pushkin/text/294/p.1 --- К Дельвигу (Ответ)
+/author/pushkin/text/594/p.1 --- К Е Н Вульф
+/author/pushkin/text/316/p.1 --- К Жуковскому
+/author/pushkin/text/123/p.1 --- К Каверину
+/author/pushkin/text/306/p.1 --- К Маше
+/author/pushkin/text/116/p.1 --- К Морфею
+/author/pushkin/text/270/p.1 --- К Н Г Ломоносову
+/author/pushkin/text/142/p.1 --- К Н Я Плюсковой
+/author/pushkin/text/250/p.1 --- К Наталье
+/author/pushkin/text/266/p.1 --- К Наташе
+/author/pushkin/text/221/p.1 --- К Овидию
+/author/pushkin/text/127/p.1 --- К Огаревой которой митрополит прислал плодов из своего саду
+/author/pushkin/text/284/p.1 --- К Пущину (4 мая)
+/author/pushkin/text/557/p.1 --- К Родзянке
+/author/pushkin/text/831/p.1 --- К Сабурову
+/author/pushkin/text/145/p.1 --- К Чаадаеву
+/author/pushkin/text/154/p.1 --- К Щербинину
+/author/pushkin/text/524/p.1 --- К Языкову
+/author/pushkin/text/648/p.1 --- К Языкову
+/author/pushkin/text/597/p.1 --- К Языкову
+/author/pushkin/text/299/p.1 --- К бар М А Дельвиг
+/author/pushkin/text/694/p.1 --- К бюсту завоевателя
+/author/pushkin/text/710/p.1 --- К вельможе
+/author/pushkin/text/253/p.1 --- К другу стихотворцу
+/author/pushkin/text/303/p.1 --- К живописцу
+/author/pushkin/text/943/p.1 --- К кастрату раз пришел скрыпач
+/author/pushkin/text/410/p.1 --- К моей чернильнице
+/author/pushkin/text/289/p.1 --- К молодой актрисе
+/author/pushkin/text/351/p.1 --- К молодой вдове
+/author/pushkin/text/526/p.1 --- К морю
+/author/pushkin/text/131/p.1 --- К ней
+/author/pushkin/text/288/p.1 --- К ней
+/author/pushkin/text/742/p.1 --- К переводу Илиады
+/author/pushkin/text/362/p.1 --- К письму
+/author/pushkin/text/192/p.1 --- К портрету Вяземского
+/author/pushkin/text/168/p.1 --- К портрету Дельвига
+/author/pushkin/text/140/p.1 --- К портрету Жуковского
+/author/pushkin/text/361/p.1 --- К портрету Каверина
+/author/pushkin/text/191/p.1 --- К портрету Чаадаева
+/author/pushkin/text/258/p.1 --- К сестре
+/author/pushkin/text/267/p.1 --- К студентам
+/author/pushkin/text/648/p.1 --- К тебе сбирался я давно
+/author/pushkin/text/144/p.1 --- К чему нескромным сим убором
+/author/pushkin/text/538/p.1 --- К чему холодные сомненья
+/author/pushkin/text/609/p.1 --- К
+/author/pushkin/text/558/p.1 --- К
+/author/pushkin/text/689/p.1 --- Кавказ
+/author/pushkin/text/441/p.1 --- Кавказский пленник
+/author/pushkin/text/261/p.1 --- Казак
+/author/pushkin/text/198/p.1 --- Как брань тебе не надоела
+/author/pushkin/text/885/p.1 --- Как быстро в поле вкруг открытом
+/author/pushkin/text/824/p.1 --- Как жениться задумал царский арап
+/author/pushkin/text/583/p.1 --- Как жив еще Курилка журналист
+/author/pushkin/text/815/p.1 --- Как наше сердце своенравно
+/author/pushkin/text/236/p.1 --- Как ныне сбирается вещий Олег
+/author/pushkin/text/598/p.1#p1 --- Как по Волге-реке по широкой
+/author/pushkin/text/945/p.1 --- Как редко плату получает
+/author/pushkin/text/793/p.1 --- Как с древа сорвался предатель ученик
+/author/pushkin/text/698/p.1 --- Как сатирой безымянной
+/author/pushkin/text/380/p.1 --- Как сладостно но боги как опасно
+/author/pushkin/text/603/p.1 --- Как счастлив я когда могу покинуть
+/author/pushkin/text/836/p.1 --- Как узник Байроном воспетый
+/author/pushkin/text/621/p.1 --- Какая ночь Мороз трескучий
+/author/pushkin/text/604/p.1 --- Каков я прежде был таков и ныне я
+/author/pushkin/text/676/p.1 --- Калмычке
+/author/pushkin/text/468/p.1 --- Каменный гость
+/author/pushkin/text/963/p.1 --- Канон в честь М И Глинки
+/author/pushkin/text/107/p.1 --- Капитанская дочка
+/author/pushkin/text/701/p.1 --- Картину раз высматривал сапожник
+/author/pushkin/text/210/p.1 --- Катенину
+/author/pushkin/text/313/p.1 --- Кж В М Волконской
+/author/pushkin/text/870/p.1 --- Кж Урусовой
+/author/pushkin/text/207/p.1 --- Кинжал
+/author/pushkin/text/622/p.1 --- Кипренскому
+/author/pushkin/text/481/p.1 --- Кирджали
+/author/pushkin/text/233/p.1 --- Клеветник без дарованья
+/author/pushkin/text/744/p.1 --- Клеветникам России
+/author/pushkin/text/535/p.1#p1 --- Клянусь четой и нечетой
+/author/pushkin/text/136/p.1 --- Кн Голицыной посылая ей оду Вольность
+/author/pushkin/text/516/p.1 --- Кн М А Голицыной
+/author/pushkin/text/375/p.1 --- Кн П А Вяземскому
+/author/pushkin/text/616/p.1 --- Княгине З А Волконской
+/author/pushkin/text/228/p.1 --- Князь Г со мною не знаком
+/author/pushkin/text/879/p.1 --- Князь Шаликов газетчик наш печальный
+/author/pushkin/text/355/p.1 --- Князю А М Горчакову
+/author/pushkin/text/262/p.1 --- Князю А М Горчакову
+/author/pushkin/text/645/p.1 --- Кобылица молодая
+/author/pushkin/text/527/p.1 --- Коварность
+/author/pushkin/text/910/p.1 --- Когда Потемкину в потемках
+/author/pushkin/text/768/p.1 --- Когда б не смутное влеченье
+/author/pushkin/text/196/p.1 --- Когда б писать ты начал сдуру
+/author/pushkin/text/615/p.1 --- Когда бывало в старину
+/author/pushkin/text/712/p.1 --- Когда в объятия мои
+/author/pushkin/text/792/p.1 --- Когда великое свершалось торжество
+/author/pushkin/text/640/p.1 --- Когда для смертного умолкнет шумный день
+/author/pushkin/text/796/p.1 --- Когда за городом задумчив я брожу
+/author/pushkin/text/139/p.1 --- Когда к мечтательному миру
+/author/pushkin/text/679/p.1 --- Когда ко граду Константина
+/author/pushkin/text/553/p.1 --- Когда любовию и негой упоенный
+/author/pushkin/text/333/p.1 --- Когда на поклоненье
+/author/pushkin/text/285/p.1 --- Когда печальный стихотвор
+/author/pushkin/text/200/p.1 --- Когда по синеве морей
+/author/pushkin/text/356/p.1 --- Когда погаснут дни мечтанья
+/author/pushkin/text/670/p.1 --- Когда помилует нас бог
+/author/pushkin/text/908/p.1 --- Когда порой воспоминанье
+/author/pushkin/text/137/p.1 --- Когда сожмешь ты снова руку
+/author/pushkin/text/243/p.1 --- Когда средь оргий жизни шумной
+/author/pushkin/text/960/p.1 --- Когда так нежно так сердечно
+/author/pushkin/text/693/p.1 --- Когда твои младые лета
+/author/pushkin/text/527/p.1 --- Когда твой друг на глас твоих речей
+/author/pushkin/text/752/p.1 --- Когда-то (помню с умиленьем)
+/author/pushkin/text/552/p.1 --- Козлову
+/author/pushkin/text/223/p.1 --- Кокетке
+/author/pushkin/text/769/p.1 --- Колокольчики звенят
+/author/pushkin/text/381/p.1 --- Колосовой
+/author/pushkin/text/962/p.1 --- Коль ты к Смирдину войдешь
+/author/pushkin/text/254/p.1 --- Кольна (Подражание Оссиану)
+/author/pushkin/text/956/p.1 --- Конечно презирать не трудно
+/author/pushkin/text/819/p.1 --- Кораблю
+/author/pushkin/text/845/p.1 --- Короче дни а ночи доле
+/author/pushkin/text/130/p.1 --- Краев чужих неопытный любитель
+/author/pushkin/text/754/p.1 --- Красавица
+/author/pushkin/text/201/p.1 --- Красавица перед зеркалом
+/author/pushkin/text/259/p.1 --- Красавице которая нюхала табак
+/author/pushkin/text/393/p.1 --- Красноречивый забияка
+/author/pushkin/text/742/p.1 --- Крив был Гнедич поэт преложитель слепого Гомера
+/author/pushkin/text/133/p.1 --- Кривцову
+/author/pushkin/text/862/p.1 --- Кристал поэтом обновленный
+/author/pushkin/text/892/p.1 --- Критон роскошный гражданин
+/author/pushkin/text/212/p.1 --- Кто видел край где роскошью природы
+/author/pushkin/text/509/p.1 --- Кто волны вас остановил
+/author/pushkin/text/637/p.1 --- Кто знает край где небо блещет
+/author/pushkin/text/783/p.1 --- Кто из богов мне возвратил
+/author/pushkin/text/210/p.1 --- Кто мне пришлет ее портрет
+/author/pushkin/text/674/p.1 --- Кто на снегах возрастил Феокритовы нежные розы
+/author/pushkin/text/263/p.1 --- Кто с минуту переможет
+/author/pushkin/text/278/p.1 --- Кто ты мой сын
+/author/pushkin/text/331/p.1 --- Кубок янтарный
+/author/pushkin/text/807/p.1 --- „Куда вы за город конечно
+/author/pushkin/text/633/p.1 --- Куда ты холоден и cyx
+/author/pushkin/text/348/p.1 --- Куплеты (На слова С позволения сказать)
+/author/pushkin/text/856/p.1 --- Кюхельбекеру
+/author/pushkin/text/806/p.1 --- Л Пушкину
+/author/pushkin/text/265/p.1 --- Лаиса Венере посвящая ей свое зеркало
+/author/pushkin/text/383/p.1 --- Лаиса я люблю твой смелый вольный взор
+/author/pushkin/text/273/p.1 --- Леда (Кантата)
+/author/pushkin/text/207/p.1 --- Лемносский бог тебя сковал
+/author/pushkin/text/231/p.1 --- Лечись  иль быть тебе Панглосом
+/author/pushkin/text/351/p.1 --- Лида друг мой неизменный
+/author/pushkin/text/536/p.1 --- Лизе страшно полюбить
+/author/pushkin/text/161/p.1 --- Лила Лила я страдаю
+/author/pushkin/text/584/p.1 --- Литературное известие
+/author/pushkin/text/548/p.1 --- Лихой товарищ наших дедов
+/author/pushkin/text/111/p.1 --- Лициний зришь ли ты на быстрой колеснице
+/author/pushkin/text/354/p.1 --- Лишь благосклонный мрак раскинет
+/author/pushkin/text/550/p.1 --- Лишь розы увядают
+/author/pushkin/text/667/p.1 --- Лищинский околел  отечеству беда
+/author/pushkin/text/631/p.1 --- Лук звенит стрела трепещет
+/author/pushkin/text/145/p.1 --- Любви надежды тихой славы
+/author/pushkin/text/890/p.1 --- Любезнейший наш друг о ты Василий Львович
+/author/pushkin/text/916/p.1 --- Любезный Вяземский поэт и камергер
+/author/pushkin/text/284/p.1 --- Любезный именинник
+/author/pushkin/text/182/p.1 --- Любимец ветреных Лаис
+/author/pushkin/text/622/p.1 --- Любимец моды легкокрылой
+/author/pushkin/text/237/p.1 --- Люблю ваш сумрак неизвестный
+/author/pushkin/text/280/p.1 --- Люблю я в полдень воспаленный
+/author/pushkin/text/326/p.1 --- Любовь одна  веселье жизни хладной
+/author/pushkin/text/122/p.1 --- Любовью дружеством и ленью
+/author/pushkin/text/121/p.1 --- Любопытный
+/author/pushkin/text/809/p.1 --- М Е Эйхфельдт
+/author/pushkin/text/714/p.1 --- Мадона
+/author/pushkin/text/170/p.1 --- Мадригал Мой
+/author/pushkin/text/4253 --- Маленькие трагедии
+/author/pushkin/text/750/p.1 --- Мальчику (Из Катулла)
+/author/pushkin/text/703/p.1 --- Мальчишка Фебу гимн поднес
+/author/pushkin/text/388/p.1 --- Мансуров закадышный друг
+/author/pushkin/text/451/p.1 --- Медный всадник
+/author/pushkin/text/897/p.1 --- Медок
+/author/pushkin/text/901/p.1 --- Меж горных стен несется Терек
+/author/pushkin/text/208/p.1 --- Меж тем как генерал Орлов
+/author/pushkin/text/556/p.1 --- Меж тем как изумленный мир
+/author/pushkin/text/934/p.1 --- Менко Вуич грамоту пишет
+/author/pushkin/text/324/p.1 --- Месяц
+/author/pushkin/text/89/p.3 --- Метель
+/author/pushkin/text/286/p.1 --- Мечтатель
+/author/pushkin/text/141/p.1 --- Мечтателю
+/author/pushkin/text/120/p.1 --- Мечты мечты
+/author/pushkin/text/718/p.1 --- Миг вожделенный настал окончен мой труд многолетний
+/author/pushkin/text/382/p.1 --- Милый мой сегодня
+/author/pushkin/text/792/p.1 --- Мирская власть
+/author/pushkin/text/127/p.1 --- Митрополит хвастун бесстыдный
+/author/pushkin/text/828/p.1 --- Младенцу
+/author/pushkin/text/257/p.1 --- Младой Дафнис гоняясь за Доридой
+/author/pushkin/text/179/p.1 --- Мне бой знаком  люблю я звук мечей
+/author/pushkin/text/185/p.1 --- Мне вас не жаль года весны моей
+/author/pushkin/text/825/p.1 --- Мне жаль великия жены
+/author/pushkin/text/730/p.1 --- Мне не спится нет огня
+/author/pushkin/text/568/p.1 --- Мне скучно бес
+/author/pushkin/text/376/p.1 --- Могущий бог садов  паду перед тобой
+/author/pushkin/text/812/p.1 --- Мое беспечное незнанье
+/author/pushkin/text/287/p.1 --- Мое завещание Друзьям
+/author/pushkin/text/704/p.1 --- Мое собранье насекомых
+/author/pushkin/text/300/p.1 --- Моему Аристарху
+/author/pushkin/text/510/p.1 --- Мой голос для тебя и ласковый и томный
+/author/pushkin/text/217/p.1 --- Мой друг забыты мной следы минувших лет
+/author/pushkin/text/357/p.1 --- Мой друг не славный я поэт
+/author/pushkin/text/427/p.1 --- Мой друг уже три дня
+/author/pushkin/text/318/p.1 --- Мой милый друг расстался я с тобою
+/author/pushkin/text/225/p.1 --- Мой милый как несправедливы
+/author/pushkin/text/605/p.1 --- Мой первый друг мой друг бесценный
+/author/pushkin/text/817/p.1 --- Мой пленник вовсе не любезен
+/author/pushkin/text/419/p.1 --- Молдавская песня
+/author/pushkin/text/691/p.1 --- Монастырь на Казбеке
+/author/pushkin/text/610/p.1 --- Мордвинову
+/author/pushkin/text/819/p.1 --- Морей красавец окриленный
+/author/pushkin/text/684/p.1 --- Мороз и солнце день чудесный
+/author/pushkin/text/116/p.1 --- Морфей до утра дай отраду
+/author/pushkin/text/467/p.1 --- Моцарт и Сальери
+/author/pushkin/text/738/p.1 --- Моя родословная
+/author/pushkin/text/292/p.1 --- Моя эпитафия
+/author/pushkin/text/202/p.1 --- Муза
+/author/pushkin/text/715/p.1 --- Мчатся тучи вьются тучи
+/author/pushkin/text/402/p.1 --- Мы добрых граждан позабавим
+/author/pushkin/text/907/p.1 --- Мы рождены мой брат названый
+/author/pushkin/text/649/p.1 --- Н Д Киселеву
+/author/pushkin/text/563/p.1 --- Н Н
+/author/pushkin/text/248/p.1 --- На А А Давыдову
+/author/pushkin/text/401/p.1 --- На Аракчеева
+/author/pushkin/text/193/p.1 --- На Аракчеева
+/author/pushkin/text/340/p.1 --- На Баболовский дворец
+/author/pushkin/text/782/p.1 --- На Испанию родную
+/author/pushkin/text/146/p.1 --- На Карамзина
+/author/pushkin/text/147/p.1 --- На Каченовского
+/author/pushkin/text/233/p.1 --- На Каченовского
+/author/pushkin/text/197/p.1 --- На Каченовского
+/author/pushkin/text/175/p.1 --- На Колосову
+/author/pushkin/text/434/p.1 --- На Ланова
+/author/pushkin/text/320/p.1 --- На Пучкову
+/author/pushkin/text/276/p.1 --- На Пучкову
+/author/pushkin/text/271/p.1 --- На Рыбушкина
+/author/pushkin/text/391/p.1 --- На Стурдзу
+/author/pushkin/text/169/p.1 --- На Стурдзу
+/author/pushkin/text/835/p.1 --- На Фотия
+/author/pushkin/text/295/p.1 --- На возвращение государя императора из Парижа в 1815 году
+/author/pushkin/text/787/p.1 --- На выздоровление Лукулла (Подражание латинскому)
+/author/pushkin/text/339/p.1 --- На гр А К Разумовского
+/author/pushkin/text/893/p.1 --- На картинки к Евгению Онегину в Невском Альманахе
+/author/pushkin/text/142/p.1 --- На лире скромной благородной
+/author/pushkin/text/561/p.1 --- На небесах печальная луна
+/author/pushkin/text/733/p.1 --- На перевод Илиады
+/author/pushkin/text/541/p.1 --- На скользком поприще Тимковского наследник
+/author/pushkin/text/802/p.1 --- На статую играющего в бабки
+/author/pushkin/text/801/p.1 --- На статую играющего в свайку
+/author/pushkin/text/433/p.1 --- На тихих берегах Москвы
+/author/pushkin/text/590/p.1 --- На трагедию гр Хвостова изданную с портретом Колосовой
+/author/pushkin/text/675/p.1 --- На холмах Грузии лежит ночная мгла
+/author/pushkin/text/940/p.1 --- На это скажут мне с улыбкою неверной
+/author/pushkin/text/241/p.1 --- На языке тебе невнятном
+/author/pushkin/text/841/p.1 --- Наброски к замыслу о Фаусте
+/author/pushkin/text/110/p.1 --- Навис покров угрюмой нощи
+/author/pushkin/text/788/p.1 --- Над Невою резво вьются
+/author/pushkin/text/739/p.1 --- Над лесистыми брегами
+/author/pushkin/text/157/p.1 --- Над озером в глухих дубровах
+/author/pushkin/text/512/p.1 --- Надеждой сладостной младенчески дыша
+/author/pushkin/text/700/p.1 --- Надеясь на мое презренье
+/author/pushkin/text/915/p.1 --- Надо мной в лазури ясной
+/author/pushkin/text/928/p.1 --- Надо помянуть непременно помянуть надо
+/author/pushkin/text/337/p.1 --- Надпись к беседке
+/author/pushkin/text/932/p.1 --- Надпись к воротам Екатерингофа
+/author/pushkin/text/359/p.1 --- Надпись на стене больницы
+/author/pushkin/text/322/p.1 --- Наездники
+/author/pushkin/text/651/p.1 --- Наперсник
+/author/pushkin/text/242/p.1 --- Наперсница волшебной старины
+/author/pushkin/text/407/p.1 --- Наперсница моих сердечных дум
+/author/pushkin/text/219/p.1 --- Наполеон
+/author/pushkin/text/283/p.1 --- Наполеон на Эльбе (1815)
+/author/pushkin/text/581/p.1 --- Напрасно ахнула Европа
+/author/pushkin/text/694/p.1 --- Напрасно видишь тут ошибку
+/author/pushkin/text/174/p.1 --- Напрасно воспевать мне ваши именины
+/author/pushkin/text/397/p.1 --- Напрасно милый друг я мыслил утаить
+/author/pushkin/text/661/p.1 --- Напрасно пламенный поэт
+/author/pushkin/text/949/p.1 --- Напрасно я бегу к сионским высотам
+/author/pushkin/text/419/p.1 --- Нас было два брата — мы вместе росли
+/author/pushkin/text/619/p.1 --- Нас было много на челне
+/author/pushkin/text/330/p.1 --- Наслажденье
+/author/pushkin/text/846/p.1 --- Начало I песни Девственницы
+/author/pushkin/text/799/p.1 --- Начнем ab ovo
+/author/pushkin/text/577/p.1 --- Наш друг Фита Кутейкин в эполетах
+/author/pushkin/text/870/p.1 --- Не веровал я троице доныне
+/author/pushkin/text/942/p.1 --- Не видала ль девица
+/author/pushkin/text/948/p.1 --- Не вижу я твоих очей
+/author/pushkin/text/771/p.1 --- Не дай мне бог сойти с ума
+/author/pushkin/text/535/p.1#p6 --- Не даром вы приснились мне
+/author/pushkin/text/794/p.1 --- Не дорого ценю я громкие права
+/author/pushkin/text/545/p.1 --- Не знаю где но не у нас
+/author/pushkin/text/714/p.1 --- Не множеством картин старинных мастеров
+/author/pushkin/text/678/p.1 --- Не пленяйся бранной славой
+/author/pushkin/text/647/p.1 --- Не пой красавица при мне
+/author/pushkin/text/224/p.1 --- Не притворяйся милый друг
+/author/pushkin/text/133/p.1 --- Не пугай нас милый друг
+/author/pushkin/text/735/p.1 --- Не розу пафосскую
+/author/pushkin/text/129/p.1 --- Не спрашивай зачем унылой думой
+/author/pushkin/text/530/p.1 --- Не стану я жалеть о розах
+/author/pushkin/text/431/p.1 --- Не тем горжусь я мой певец
+/author/pushkin/text/741/p.1 --- Не то беда Авдей Флюгарин
+/author/pushkin/text/740/p.1 --- Не то беда что ты поляк
+/author/pushkin/text/372/p.1 --- Не угрожай ленивцу молодому
+/author/pushkin/text/345/p.1 --- Не хочешь ли узнать моя драгая
+/author/pushkin/text/727/p.1 --- Невод рыбак расстилал по брегу студеного моря
+/author/pushkin/text/412/p.1 --- Недавно бедный музульман
+/author/pushkin/text/363/p.1 --- Недавно обольщен прелестным сновиденьем
+/author/pushkin/text/315/p.1 --- Недавно темною порою
+/author/pushkin/text/244/p.1 --- Недавно я в часы свободы
+/author/pushkin/text/585/p.1 --- Недавно я стихами как-то свистнул
+/author/pushkin/text/430/p.1 --- Недаром ты ко мне воззвал
+/author/pushkin/text/519/p.1 --- Недвижный страж дремал на царственном пороге
+/author/pushkin/text/158/p.1 --- Недоконченная картина
+/author/pushkin/text/521/p.1 --- Нельзя мой толстый Аристип
+/author/pushkin/text/533/p.1 --- Ненастный день потух ненастной ночи мгла
+/author/pushkin/text/189/p.1 --- Нереида
+/author/pushkin/text/251/p.1 --- Несчастие Клита
+/author/pushkin/text/422/p.1 --- Нет ветра — синяя волна
+/author/pushkin/text/607/p.1 --- Нет не черкешенка она
+/author/pushkin/text/390/p.1 --- Нет нет напрасны ваши пени
+/author/pushkin/text/755/p.1 --- Нет нет не должен я не смею не могу
+/author/pushkin/text/592/p.1 --- Нет ни в чем вам благодати
+/author/pushkin/text/748/p.1 --- Нет я не дорожу мятежным наслажденьем
+/author/pushkin/text/634/p.1 --- Нет я не льстец когда царю
+/author/pushkin/text/809/p.1 --- Ни блеск ума ни стройность платья
+/author/pushkin/text/403/p.1 --- Нимфодоре Семеновой
+/author/pushkin/text/886/p.1 --- Но ты забудь меня мой друг
+/author/pushkin/text/711/p.1 --- Новоселье
+/author/pushkin/text/532/p.1 --- Ночной зефир
+/author/pushkin/text/510/p.1 --- Ночь
+/author/pushkin/text/869/p.1 --- Нравоучительные четверостишия
+/author/pushkin/text/919/p.1 --- Ну послушайте дети жил был в старые годы
+/author/pushkin/text/602/p.1 --- Няне
+/author/pushkin/text/342/p.1 --- О Делия драгая
+/author/pushkin/text/150/p.1 --- О Массон
+/author/pushkin/text/938/p.1 --- О бедность затвердил я наконец
+/author/pushkin/text/821/p.1 --- О боги мирные полей дубров и гор
+/author/pushkin/text/416/p.1 --- О вы которые любили
+/author/pushkin/text/170/p.1 --- О вы которые любовью не горели
+/author/pushkin/text/352/p.1 --- О вы которые с язвительным упреком
+/author/pushkin/text/528/p.1 --- О дева-роза я в оковах
+/author/pushkin/text/728/p.1 --- О если правда что в ночи
+/author/pushkin/text/535/p.1#p2 --- О жены чистые пророка
+/author/pushkin/text/717/p.1 --- О кто бы ни был ты чье ласковое пенье
+/author/pushkin/text/576/p.1 --- О муза пламенной сатиры
+/author/pushkin/text/954/p.1 --- О нет мне жизнь не надоела
+/author/pushkin/text/344/p.1 --- О сжальтесь надо мною
+/author/pushkin/text/904/p.1 --- О сколько нам открытий чудных
+/author/pushkin/text/872/p.1 --- О ты который сочетал
+/author/pushkin/text/381/p.1 --- О ты надежда нашей сцены
+/author/pushkin/text/582/p.1 --- О чем прозаик ты хлопочешь
+/author/pushkin/text/744/p.1 --- О чем шумите вы народные витии
+/author/pushkin/text/690/p.1 --- Обвал
+/author/pushkin/text/221/p.1 --- Овидий я живу близ тихих берегов
+/author/pushkin/text/776/p.1 --- Ода LVI (Из Анакреона)
+/author/pushkin/text/777/p.1 --- Ода LVII
+/author/pushkin/text/551/p.1 --- Ода его сият гр Дм Ив Хвостову
+/author/pushkin/text/429/p.1 --- Один один остался я
+/author/pushkin/text/784/p.1 --- Однажды странствуя среди долины дикой
+/author/pushkin/text/911/p.1 --- Одни стихи ему читала
+/author/pushkin/text/315/p.1 --- Окно
+/author/pushkin/text/770/p.1 --- Октябрь уж наступил — уж роща отряхает
+/author/pushkin/text/679/p.1 --- Олегов щит
+/author/pushkin/text/150/p.1 --- Ольга крестница Киприды
+/author/pushkin/text/854/p.1 --- Он вежлив был в иных прихожих
+/author/pushkin/text/773/p.1 --- Он между нами жил
+/author/pushkin/text/191/p.1 --- Он пышной волею небес
+/author/pushkin/text/364/p.1 --- Она
+/author/pushkin/text/646/p.1 --- Она мила — скажу меж нами
+/author/pushkin/text/263/p.1 --- Опытность
+/author/pushkin/text/894/p.1 --- Опять увенчаны мы славой
+/author/pushkin/text/350/p.1 --- Опять я ваш о юные друзья
+/author/pushkin/text/153/p.1 --- Орлову
+/author/pushkin/text/256/p.1 --- Осгар
+/author/pushkin/text/317/p.1 --- Осеннее утро
+/author/pushkin/text/770/p.1 --- Осень (Отрывок)
+/author/pushkin/text/398/p.1 --- Оставь о Лезбия лампаду
+/author/pushkin/text/425/p.1 --- Оставя честь судьбе на произвол
+/author/pushkin/text/917/p.1 --- От вас узнал я плен Варшавы
+/author/pushkin/text/365/p.1 --- От всенощной вечор идя домой
+/author/pushkin/text/950/p.1 --- От западных морей до самых врат восточных
+/author/pushkin/text/804/p.1 --- От меня вечор Леила
+/author/pushkin/text/591/p.1 --- От многоречия отрекшись добровольно
+/author/pushkin/text/710/p.1 --- От северных оков освобождая мир
+/author/pushkin/text/662/p.1 --- Ответ А И Готовцовой
+/author/pushkin/text/661/p.1 --- Ответ Катенину
+/author/pushkin/text/607/p.1 --- Ответ Ф Т
+/author/pushkin/text/707/p.1 --- Ответ
+/author/pushkin/text/717/p.1 --- Ответ анониму
+/author/pushkin/text/135/p.1 --- Откуда чудный шум неистовые клики
+/author/pushkin/text/727/p.1 --- Отрок
+/author/pushkin/text/789/p.1 --- Отрок милый отрок нежный
+/author/pushkin/text/735/p.1 --- Отрывок
+/author/pushkin/text/795/p.1 --- Отцы пустынники и жены непорочны
+/author/pushkin/extract/34 --- Ох лето красное любил бы я тебя
+/author/pushkin/text/859/p.1 --- Ох тетенька ох Анна Львовна
+/author/pushkin/text/547/p.1 --- Охотник до журнальной драки
+/author/pushkin/text/554/p.1 --- П А Осиповой
+/author/pushkin/text/723/p.1 --- Паж или Пятнадцатый год
+/author/pushkin/text/115/p.1 --- Певец
+/author/pushkin/text/822/p.1 --- Певец издревле меж собою
+/author/pushkin/text/552/p.1 --- Певец когда перед тобой
+/author/pushkin/text/544/p.1 --- Певец-Давид был ростом мал
+/author/pushkin/text/418/p.1 --- Певец-гусар ты пел биваки
+/author/pushkin/text/743/p.1 --- Перед гробницею святой
+/author/pushkin/text/692/p.1 --- Перестрелка за холмами
+/author/pushkin/text/774/p.1 --- Песни западных славян
+/author/pushkin/text/598/p.1 --- Песни о Стеньке Разине
+/author/pushkin/text/236/p.1 --- Песнь о вещем Олеге
+/author/pushkin/text/364/p.1 --- „Печален ты признайся что с тобой“
+/author/pushkin/text/480/p.1 --- Пиковая дама
+/author/pushkin/text/788/p.1 --- Пир Петра Первого
+/author/pushkin/text/469/p.1 --- Пир во время чумы
+/author/pushkin/text/374/p.1 --- Писать я не умею
+/author/pushkin/extract/4 --- Письмо Онегина к Татьяне
+/author/pushkin/extract/5 --- Письмо Татьяны к Онегину
+/author/pushkin/text/354/p.1 --- Письмо к Лиде
+/author/pushkin/text/166/p.1 --- Питомец мод большого света друг
+/author/pushkin/text/163/p.1 --- Платонизм
+/author/pushkin/text/935/p.1 --- Плетневу
+/author/pushkin/text/924/p.1 --- Плетневу
+/author/pushkin/text/522/p.1 --- Плещут волны Флегетона
+/author/pushkin/text/946/p.1 --- Плывет корабль как лебедь громовержец
+/author/pushkin/text/256/p.1 --- По камням гробовым в туманах полуночи
+/author/pushkin/text/286/p.1 --- По небу крадется луна
+/author/pushkin/text/580/p.1 --- Поверь когда слепней и комаров
+/author/pushkin/text/89/p.1 --- Повести покойного Ивана Петровича Белкина
+/author/pushkin/text/186/p.1 --- Погасло дневное светило
+/author/pushkin/text/344/p.1 --- Погреб
+/author/pushkin/text/272/p.1 --- Под вечер осенью ненастной
+/author/pushkin/text/847/p.1 --- Под каким созвездием
+/author/pushkin/text/595/p.1 --- Под небом голубым страны своей родной
+/author/pushkin/text/610/p.1 --- Под хладом старости угрюмо угасал
+/author/pushkin/text/317/p.1 --- Поднялся шум свирелью полевой
+/author/pushkin/text/590/p.1 --- Подобный жребий для поэта
+/author/pushkin/text/327/p.1 --- Подражание
+/author/pushkin/text/789/p.1 --- Подражание арабскому
+/author/pushkin/text/793/p.1 --- (Подражание италиянскому)
+/author/pushkin/text/535/p.1 --- Подражания Корану
+/author/pushkin/text/602/p.1 --- Подруга дней моих суровых
+/author/pushkin/text/410/p.1 --- Подруга думы праздной
+/author/pushkin/text/671/p.1 --- Подъезжая под Ижоры
+/author/pushkin/text/687/p.1 --- Поедем я готов куда бы вы друзья
+/author/pushkin/text/666/p.1 --- Пожалуй Федоров ко мне не приходи
+/author/pushkin/text/366/p.1 --- Пожарский Минин Гермоген
+/author/pushkin/text/389/p.1 --- Позволь душе моей открыться пред тобою
+/author/pushkin/text/767/p.1 --- Поздно ночью из похода
+/author/pushkin/text/963/p.1 --- Пой в восторге русский хор
+/author/pushkin/text/624/p.1 --- Пока не требует поэта
+/author/pushkin/text/826/p.1 --- Пока супруг тебя красавицу младую
+/author/pushkin/text/367/p.1 --- Покойник Клит в раю не будет
+/author/pushkin/text/668/p.1 --- Покойник автор сухощавый
+/author/pushkin/text/781/p.1 --- Покров упитанный язвительною кровью
+/author/pushkin/text/779/p.1 --- Полководец
+/author/pushkin/text/447/p.1 --- Полтава
+/author/pushkin/text/543/p.1 --- Полу-милорд полу-купец
+/author/pushkin/text/835/p.1 --- Полу-фанатик полу-плут
+/author/pushkin/text/909/p.1 --- Полюбуйтесь же вы дети
+/author/pushkin/text/156/p.1 --- Поместья мирного незримый покровитель
+/author/pushkin/text/300/p.1 --- Помилуй трезвый Аристарх
+/author/pushkin/text/290/p.1 --- Помнишь ли мой брат по чаше
+/author/pushkin/text/897/p.1 --- Попутный веет ветр — Идет корабль
+/author/pushkin/text/772/p.1 --- Пора мой друг пора покоя сердце просит
+/author/pushkin/text/776/p.1 --- Поредели побелели
+/author/pushkin/text/368/p.1 --- Портрет
+/author/pushkin/text/650/p.1 --- Портрет
+/author/pushkin/text/627/p.1 --- Послание Дельвигу
+/author/pushkin/text/332/p.1 --- Послание Лиде
+/author/pushkin/text/385/p.1 --- Послание к А И Тургеневу
+/author/pushkin/text/635/p.1 --- Послание к Великопольскому сочинителю Сатиры на игроков
+/author/pushkin/text/291/p.1 --- Послание к Галичу
+/author/pushkin/text/830/p.1 --- Послание к Л Пушкину
+/author/pushkin/text/302/p.1 --- Послание к Юдину
+/author/pushkin/text/166/p.1 --- Послание к кн Горчакову
+/author/pushkin/text/240/p.1 --- Послание цензору
+/author/pushkin/text/293/p.1 --- Последним сияньем за рощей горя
+/author/pushkin/text/780/p.1 --- Последняя туча рассеянной бури
+/author/pushkin/text/148/p.1 --- Послушай дедушка мне каждый раз
+/author/pushkin/text/294/p.1 --- Послушай муз невинных
+/author/pushkin/text/346/p.1 --- Послушайте я сказку вам начну
+/author/pushkin/text/624/p.1 --- Поэт
+/author/pushkin/text/664/p.1 --- Поэт и толпа
+/author/pushkin/text/713/p.1 --- Поэт не дорожи любовию народной
+/author/pushkin/text/664/p.1 --- Поэт по лире вдохновенной
+/author/pushkin/text/696/p.1 --- Поэт-игрок о Беверлей-Гораций
+/author/pushkin/text/713/p.1 --- Поэту
+/author/pushkin/text/737/p.1 --- Пред испанкой благородной
+/author/pushkin/text/861/p.1 --- Пред рыцарем блестит водами
+/author/pushkin/extract/4 --- Предвижу все вас оскорбит
+/author/pushkin/text/653/p.1 --- Предчувствие
+/author/pushkin/text/827/p.1 --- Презрев и голос укоризны
+/author/pushkin/text/340/p.1 --- Прекрасная пускай восторгом насладится
+/author/pushkin/text/144/p.1 --- Прелестнице
+/author/pushkin/text/654/p.1 --- Прибежали в избу дети
+/author/pushkin/text/155/p.1 --- Приветствую тебя пустынный уголок
+/author/pushkin/text/814/p.1 --- Придет ужасный час  твои небесны очи
+/author/pushkin/text/599/p.1 --- Признание
+/author/pushkin/text/222/p.1 --- Приметы
+/author/pushkin/text/672/p.1 --- Приметы
+/author/pushkin/text/627/p.1 --- Прими сей череп Дельвиг он
+/author/pushkin/text/563/p.1 --- Примите „Невский Альманах“
+/author/pushkin/text/415/p.1 --- Примите новую тетрадь
+/author/pushkin/text/311/p.1 --- Принцу Оранскому
+/author/pushkin/text/832/p.1 --- Приют любви он вечно полн
+/author/pushkin/text/224/p.1 --- Приятелю
+/author/pushkin/text/579/p.1 --- Приятелям
+/author/pushkin/text/405/p.1 --- Про себя
+/author/pushkin/text/120/p.1 --- Пробуждение
+/author/pushkin/text/582/p.1 --- Прозаик и поэт
+/author/pushkin/text/522/p.1 --- Прозерпина
+/author/pushkin/text/811/p.1 --- Проклятый город Кишенев
+/author/pushkin/text/358/p.1 --- Промчались годы заточенья
+/author/pushkin/text/600/p.1 --- Пророк
+/author/pushkin/text/279/p.1 --- Прости мне милый друг
+/author/pushkin/text/162/p.1 --- Прости счастливый сын пиров
+/author/pushkin/text/829/p.1 --- Прости украинский мудрец
+/author/pushkin/text/126/p.1 --- Простите верные дубравы
+/author/pushkin/text/514/p.1 --- Простишь ли мне ревнивые мечты
+/author/pushkin/text/136/p.1 --- Простой воспитанник природы
+/author/pushkin/text/676/p.1 --- Прощай любезная калмычка
+/author/pushkin/text/865/p.1 --- Прощай отшельник бессарабской
+/author/pushkin/text/549/p.1 --- Прощай письмо любви прощай она велела
+/author/pushkin/text/526/p.1 --- Прощай свободная стихия
+/author/pushkin/text/722/p.1 --- Прощание
+/author/pushkin/text/358/p.1 --- Прощанье
+/author/pushkin/text/507/p.1 --- Птичка
+/author/pushkin/extract/29 --- Птичка божия не знает
+/author/pushkin/text/312/p.1 --- Пускай Поэт с кадильницей наемной
+/author/pushkin/text/262/p.1 --- Пускай не знаясь с Аполлоном
+/author/pushkin/text/540/p.1 --- Пускай увенчанный любовью красоты
+/author/pushkin/text/641/p.1 --- Пустое вы сердечным ты
+/author/pushkin/text/483/p.1 --- Путешествие в Арзрум во время похода 1829 года
+/author/pushkin/text/276/p.1 --- Пучкова право не смешна
+/author/pushkin/text/736/p.1 --- Пью за здравие Мери
+/author/pushkin/text/750/p.1 --- Пьяной горечью Фалерна
+/author/pushkin/text/723/p.1 --- Пятнадцать лет мне скоро минет
+/author/pushkin/text/176/p.1 --- Раевский молоденец прежний
+/author/pushkin/text/261/p.1 --- Раз полунощной порою
+/author/pushkin/text/947/p.1 --- Развратник радуясь клевещет
+/author/pushkin/text/833/p.1 --- Разговор Фотия с гр Орловой
+/author/pushkin/text/525/p.1 --- Разговор книгопродавца с поэтом
+/author/pushkin/text/411/p.1 --- Раззевавшись от обедни
+/author/pushkin/text/125/p.1 --- Разлука
+/author/pushkin/text/257/p.1 --- Рассудок и любовь
+/author/pushkin/text/858/p.1 --- Расходились по поганскому граду
+/author/pushkin/text/746/p.1 --- Ревет ли зверь в лесу глухом
+/author/pushkin/text/190/p.1 --- Редеет облаков летучая гряда
+/author/pushkin/text/877/p.1 --- Рефутация г-на Беранжера
+/author/pushkin/text/726/p.1 --- Рифма
+/author/pushkin/text/655/p.1 --- Рифма звучная подруга
+/author/pushkin/text/799/p.1 --- Родословная моего героя (Отрывок из сатирической поэмы)
+/author/pushkin/text/941/p.1 --- Родриг
+/author/pushkin/text/113/p.1 --- Роза
+/author/pushkin/text/252/p.1 --- Романов и Зернов лихой
+/author/pushkin/text/272/p.1 --- Романс
+/author/pushkin/text/566/p.1 --- Роняет лес багряный свой убор
+/author/pushkin/text/478/p.1 --- Рославлев
+/author/pushkin/text/305/p.1 --- Румяной зарею
+/author/pushkin/text/724/p.1 --- Румяный критик мой насмешник толстопузый
+/author/pushkin/text/470/p.1 --- Русалка
+/author/pushkin/text/157/p.1 --- Русалка
+/author/pushkin/text/440/p.1 --- Руслан и Людмила
+/author/pushkin/text/633/p.1 --- Русскому  Геснеру
+/author/pushkin/text/753/p.1 --- С Гомером долго ты беседовал один
+/author/pushkin/text/337/p.1 --- С благоговейною душой
+/author/pushkin/text/838/p.1 --- С перегородкою коморки
+/author/pushkin/text/348/p.1 --- С позволения сказать
+/author/pushkin/text/574/p.1 --- С португальского
+/author/pushkin/text/335/p.1 --- С пятнадцатой весною
+/author/pushkin/text/650/p.1 --- С своей пылающей душой
+/author/pushkin/text/860/p.1 --- С тобой мне вновь считаться довелось
+/author/pushkin/text/535/p.1#p4 --- С тобою древле о всесильный
+/author/pushkin/text/831/p.1 --- Сабуров ты оклеветал
+/author/pushkin/text/701/p.1 --- Сапожник (Притча)
+/author/pushkin/text/575/p.1 --- Сатирик и поэт любовный
+/author/pushkin/text/564/p.1 --- Сафо
+/author/pushkin/text/765/p.1 --- Сват Иван как пить мы станем
+/author/pushkin/text/515/p.1 --- Свободы сеятель пустынный
+/author/pushkin/text/878/p.1 --- Сводня грустно за столом
+/author/pushkin/text/168/p.1 --- Се самый Дельвиг тот что нам всегда твердил
+/author/pushkin/text/118/p.1 --- Сегодня добрые мужья
+/author/pushkin/text/810/p.1 --- Сегодня я по утру дома
+/author/pushkin/text/702/p.1 --- Седой Свистов ты царствовал со славой
+/author/pushkin/text/958/p.1 --- Сей белокаменный фонтан
+/author/pushkin/text/850/p.1 --- Семейственной любви и нежной дружбы ради
+/author/pushkin/text/246/p.1 --- Сижу за решеткой в темнице сырой
+/author/pushkin/text/234/p.1 --- Сия пустынная страна
+/author/pushkin/text/818/p.1 --- Скажи  не я ль тебя заметил
+/author/pushkin/text/855/p.1 --- Скажи мне ночь зачем твой тихой мрак
+/author/pushkin/text/578/p.1 --- Сказали раз царю что наконец
+/author/pushkin/text/458/p.1 --- Сказка о золотом петушке
+/author/pushkin/text/454/p.1 --- Сказка о медведихе
+/author/pushkin/text/457/p.1 --- Сказка о мертвой царевне
+/author/pushkin/text/453/p.1 --- Сказка о попе и о работнике его Балде
+/author/pushkin/text/456/p.1 --- Сказка о рыбаке и рыбке
+/author/pushkin/text/455/p.1 --- Сказка о царе Салтане
+/author/pushkin/text/143/p.1 --- Сказки Noël
+/author/pushkin/text/608/p.1 --- Сквозь волнистые туманы
+/author/pushkin/text/763/p.1 --- Скребницей чистил он коня
+/author/pushkin/text/466/p.1 --- Скупой рыцарь
+/author/pushkin/text/837/p.1 --- Слаб и робок человек
+/author/pushkin/text/759/p.1 --- Славная флейта Феон здесь лежит Предводителя хоров
+/author/pushkin/text/297/p.1 --- Слеза
+/author/pushkin/text/586/p.1 --- Словесность русская больна
+/author/pushkin/text/325/p.1 --- Слово милой
+/author/pushkin/text/115/p.1 --- Слыхали ль вы за рощей глас ночной
+/author/pushkin/text/733/p.1 --- Слышу умолкнувший звук божественной эллинской речи
+/author/pushkin/text/738/p.1 --- Смеясь жестоко над собратом
+/author/pushkin/text/961/p.1 --- Смирдин меня в беду поверг
+/author/pushkin/text/535/p.1#p3 --- Смутясь нахмурился пророк
+/author/pushkin/text/653/p.1 --- Снова тучи надо мною
+/author/pushkin/text/363/p.1 --- Сновидение
+/author/pushkin/text/704/p.1 --- Собрание насекомых
+/author/pushkin/text/580/p.1 --- Совет
+/author/pushkin/text/549/p.1 --- Сожженное письмо
+/author/pushkin/text/218/p.1 ---  Сокрылся он
+/author/pushkin/text/587/p.1 --- Соловей и кукушка
+/author/pushkin/text/613/p.1 --- Соловей и роза
+/author/pushkin/text/873/p.1 --- Сомненье страх порочную надежду
+/author/pushkin/text/312/p.1 --- Сон (Отрывок)
+/author/pushkin/text/709/p.1 --- Сонет
+/author/pushkin/text/345/p.1 --- Сравнение
+/author/pushkin/text/293/p.1 --- Сраженный рыцарь
+/author/pushkin/text/189/p.1 --- Среди зеленых волн лобзающих Тавриду
+/author/pushkin/text/616/p.1 --- Среди рассеянной Москвы
+/author/pushkin/text/273/p.1 --- Средь темной рощицы под тенью лип душистых
+/author/pushkin/text/729/p.1 --- Стамбул гяуры нынче славят
+/author/pushkin/text/606/p.1 --- Стансы
+/author/pushkin/text/353/p.1 --- Стансы (Из Вольтера)
+/author/pushkin/text/164/p.1 --- Стансы Толстому
+/author/pushkin/text/89/p.5 --- Станционный смотритель
+/author/pushkin/text/222/p.1 --- Старайся наблюдать различные приметы
+/author/pushkin/text/112/p.1 --- Старик
+/author/pushkin/text/593/p.1 --- Стих каждый в повести твоей
+/author/pushkin/text/730/p.1 --- Стихи сочиненные ночью во время бессонницы
+/author/pushkin/text/525/p.1 --- Стишки для вас одна забава
+/author/pushkin/text/636/p.1 --- Сто лет минуло как тевтон
+/author/pushkin/text/931/p.1 --- Стою печален на кладбище
+/author/pushkin/text/784/p.1 --- Странник
+/author/pushkin/text/903/p.1 --- Страшно и скучно
+/author/pushkin/text/898/p.1 --- Стрекотунья белобока
+/author/pushkin/text/914/p.1 --- Строгий свет
+/author/pushkin/text/192/p.1 --- Судьба свои дары явить желала в нем
+/author/pushkin/text/551/p.1 --- Султан ярится Кровь Эллады
+/author/pushkin/text/269/p.1 --- Супругою твоей я так пленился
+/author/pushkin/text/709/p.1 --- Суровый Дант не презирал сонета
+/author/pushkin/text/568/p.1 --- Сцена из Фауста
+/author/pushkin/text/471/p.1 --- Сцены из рыцарских времен
+/author/pushkin/text/378/p.1 --- Счастлив кто близ тебя любовник упоенный
+/author/pushkin/text/323/p.1 --- Счастлив кто в страсти сам себе
+/author/pushkin/text/652/p.1 --- Счастлив кто избран своенравно
+/author/pushkin/text/699/p.1 --- Счастлив ты в прелестных дурах
+/author/pushkin/text/564/p.1 --- Счастливый юноша ты всем меня пленил
+/author/pushkin/text/428/p.1 --- Таврида
+/author/pushkin/text/232/p.1 --- Тадарашка в вас влюблен
+/author/pushkin/text/448/p.1 --- Тазит
+/author/pushkin/text/250/p.1 --- Так и мне узнать случилось
+/author/pushkin/text/596/p.1 --- Так море древний душегубец
+/author/pushkin/text/918/p.1 --- Так старый хрыч цыган Илья
+/author/pushkin/text/635/p.1 --- Так элегическую лиру
+/author/pushkin/text/630/p.1 --- Талисман
+/author/pushkin/text/697/p.1 --- Там где древний Кочерговский
+/author/pushkin/text/630/p.1 --- Там где море вечно плещет
+/author/pushkin/text/574/p.1 --- Там звезда зари взошла
+/author/pushkin/text/867/p.1 --- Там на брегу где дремлет лес священный
+/author/pushkin/text/395/p.1 --- Там у леска за ближнею долиной
+/author/pushkin/text/839/p.1 --- Твое соседство нам опасно
+/author/pushkin/text/632/p.1 --- Твои догадки  сущий вздор
+/author/pushkin/text/651/p.1 --- Твоих признаний жалоб нежных
+/author/pushkin/text/341/p.1 --- Твой и мой
+/author/pushkin/text/332/p.1 --- Тебе наперсница Венеры
+/author/pushkin/text/791/p.1 --- Тебе певцу тебе герою
+/author/pushkin/text/138/p.1 --- Тебя ль я видел милый друг
+/author/pushkin/text/517/p.1 --- Телега жизни
+/author/pushkin/text/301/p.1 --- Тень Фонвизина
+/author/pushkin/text/409/p.1 --- Теснится средь толпы еврей сребролюбивый
+/author/pushkin/text/542/p.1 --- Тимковский царствовал  и все твердили вслух
+/author/pushkin/text/944/p.1 --- То было вскоре после боя
+/author/pushkin/text/927/p.1 --- Толпа глухая
+/author/pushkin/text/913/p.1 --- Тому одно одно мгновенье
+/author/pushkin/text/535/p.1#p8 --- Торгуя совестью пред бледной нищетою
+/author/pushkin/text/135/p.1 --- Торжество Вакха
+/author/pushkin/text/343/p.1 --- Тошней идиллии и холодней чем ода
+/author/pushkin/text/559/p.1 --- Три дня купеческая дочь
+/author/pushkin/text/766/p.1 --- Три у Будрыса сына как и он три литвина
+/author/pushkin/text/718/p.1 --- Труд
+/author/pushkin/text/816/p.1 --- Туманский Фебу и Фемиде
+/author/pushkin/text/529/p.1 --- Туманский прав когда так верно вас
+/author/pushkin/text/128/p.1 --- Тургенев верный покровитель
+/author/pushkin/text/780/p.1 --- Туча
+/author/pushkin/text/180/p.1 --- Ты богат я очень беден
+/author/pushkin/text/609/p.1 --- Ты богоматерь нет сомненья
+/author/pushkin/text/141/p.1 --- Ты в страсти горестной находишь наслажденье
+/author/pushkin/text/572/p.1 --- Ты видел деву на скале
+/author/pushkin/text/428/p.1 --- Ты вновь со мною наслажденье
+/author/pushkin/text/537/p.1 --- Ты вянешь и молчишь печаль тебя снедает
+/author/pushkin/text/641/p.1 --- Ты и вы
+/author/pushkin/text/180/p.1 --- Ты и я
+/author/pushkin/text/823/p.1 --- Ты издал дядю моего
+/author/pushkin/text/334/p.1 --- Ты ль передо мною
+/author/pushkin/text/394/p.1 --- Ты мне велишь открыться пред тобою
+/author/pushkin/text/353/p.1 --- Ты мне велишь пылать душою
+/author/pushkin/text/935/p.1 --- Ты мне советуешь Плетнев любезный
+/author/pushkin/text/289/p.1 --- Ты не наследница Клероны
+/author/pushkin/text/557/p.1 --- Ты обещал о романтизме
+/author/pushkin/text/877/p.1 --- Ты помнишь ли ах ваше благородье
+/author/pushkin/text/167/p.1 --- Ты прав — несносен Фирс ученый
+/author/pushkin/text/432/p.1 --- Ты прав мой друг  напрасно я презрел
+/author/pushkin/text/953/p.1 --- Ты просвещением свой разум осветил
+/author/pushkin/text/238/p.1 --- Ты рождена воспламенять
+/author/pushkin/text/787/p.1 --- Ты угасал богач младой
+/author/pushkin/text/258/p.1 --- Ты хочешь друг бесценный
+/author/pushkin/text/302/p.1 --- Ты хочешь милый друг узнать
+/author/pushkin/text/924/p.1 --- Ты хочешь мой наперсник строгой
+/author/pushkin/text/864/p.1 --- У Гальяни иль Кольони
+/author/pushkin/text/249/p.1 --- У Кларисы денег мало
+/author/pushkin/extract/6 --- У лукоморья дуб зеленый
+/author/pushkin/text/779/p.1 --- У русского царя в чертогах есть палата
+/author/pushkin/text/183/p.1 --- Увы зачем она блистает
+/author/pushkin/text/852/p.1 --- Увы напрасно деве гордой
+/author/pushkin/text/880/p.1 --- Увы язык любви болтливый
+/author/pushkin/text/240/p.1 --- Угрюмый сторож муз гонитель давний мой
+/author/pushkin/text/298/p.1 --- Угрюмых тройка есть певцов
+/author/pushkin/text/159/p.1 --- Уединение
+/author/pushkin/extract/3 --- Уж небо осенью дышало
+/author/pushkin/text/322/p.1 --- Уж полем всадники спешат
+/author/pushkin/text/112/p.1 --- Уж я не тот любовник страстный
+/author/pushkin/text/775/p.1 --- Узнают коней ретивых
+/author/pushkin/text/246/p.1 --- Узник
+/author/pushkin/text/171/p.1 --- Умножайте шум и радость
+/author/pushkin/text/216/p.1 --- Умолкну скоро я Но если в день печали
+/author/pushkin/extract/30 --- Унылая пора очей очарованье
+/author/pushkin/text/318/p.1 --- Уныние
+/author/pushkin/text/143/p.1 --- Ура в Россию скачет
+/author/pushkin/text/719/p.1 --- Урну с водой уронив об утес ее дева разбила
+/author/pushkin/text/882/p.1 --- Уродился я бедный недоносок
+/author/pushkin/text/658/p.1 --- Усердно помолившись богу
+/author/pushkin/text/308/p.1 --- Усы Философическая ода
+/author/pushkin/text/295/p.1 --- Утихла брань племен в пределах отдаленных
+/author/pushkin/text/654/p.1 --- Утопленник
+/author/pushkin/text/243/p.1 --- Ф Н Глинке
+/author/pushkin/text/335/p.1 --- Фавн и пастушка Картины
+/author/pushkin/text/891/p.1 --- Фазиль-хану
+/author/pushkin/text/333/p.1 --- Фиал Анакреона
+/author/pushkin/text/164/p.1 --- Философ ранний ты бежишь
+/author/pushkin/text/268/p.1 --- Философ резвый и пиит
+/author/pushkin/text/531/p.1 --- Фонтан любви фонтан живой
+/author/pushkin/text/764/p.1 --- Французских рифмачей суровый судия
+/author/pushkin/text/197/p.1 --- Хаврониос ругатель закоснелый
+/author/pushkin/text/932/p.1 --- Хвостовым некогда воспетая дыра
+/author/pushkin/text/598/p.1#p2 --- Ходил Стенька Разин
+/author/pushkin/text/169/p.1 --- Холоп венчанного солдата
+/author/pushkin/text/230/p.1 --- Хоть впрочем он поэт изрядный
+/author/pushkin/text/517/p.1 --- Хоть тяжело подчас в ней бремя
+/author/pushkin/text/573/p.1 --- Хотя стишки на именины
+/author/pushkin/text/287/p.1 --- Хочу я завтра умереть
+/author/pushkin/text/555/p.1 --- Храни меня мой талисман
+/author/pushkin/text/508/p.1 --- Хранитель милых чувств и прошлых наслаждений
+/author/pushkin/text/229/p.1 --- Христос воскрес
+/author/pushkin/text/310/p.1 --- Христос воскрес питомец Феба
+/author/pushkin/text/213/p.1 --- Хромид в тебя влюблен он молод и не раз
+/author/pushkin/text/165/p.1 --- Художник-варвар кистью сонной
+/author/pushkin/text/798/p.1 --- Художнику
+/author/pushkin/text/921/p.1 --- Царей потомок Меценат
+/author/pushkin/text/508/p.1 --- Царское село
+/author/pushkin/text/719/p.1 --- Царскосельская статуя
+/author/pushkin/text/663/p.1 --- Цветок
+/author/pushkin/text/565/p.1 --- Цветы последние милей
+/author/pushkin/text/951/p.1 --- Ценитель умственных творений исполинских
+/author/pushkin/text/705/p.1 --- Циклоп
+/author/pushkin/text/445/p.1 --- Цыганы
+/author/pushkin/text/739/p.1 --- Цыганы
+/author/pushkin/text/211/p.1 --- Чаадаеву
+/author/pushkin/text/538/p.1 --- Чаадаеву
+/author/pushkin/text/747/p.1 --- Чем чаще празднует лицей
+/author/pushkin/text/188/p.1 --- Черная шаль
+/author/pushkin/text/807/p.1 --- Чиновник и поэт
+/author/pushkin/text/758/p.1 --- Чистый лоснится пол стеклянные чаши блистают
+/author/pushkin/text/933/p.1 --- Что белеется на горе зеленой
+/author/pushkin/text/106/p.1 --- Что в имени тебе моем
+/author/pushkin/text/124/p.1 --- Что восхитительней живей
+/author/pushkin/text/534/p.1 --- Что дружба Легкий пыл похмелья
+/author/pushkin/text/121/p.1 ---  Что ж нового „Ей-богу ничего
+/author/pushkin/text/830/p.1 --- Что же будет ли вино
+/author/pushkin/text/777/p.1 --- Что же сухо в чаше дно
+/author/pushkin/text/172/p.1 --- Что можем наскоро стихами молвить ей
+/author/pushkin/text/598/p.1#p3 --- Что не конский топ не людская молвь
+/author/pushkin/text/848/p.1 --- Что с тобой скажи мне братец
+/author/pushkin/text/562/p.1 --- Что смолкнул веселия глас
+/author/pushkin/text/400/p.1 --- Что ты девица грустна
+/author/pushkin/text/868/p.1 --- Что-то грезит Баратынский
+/author/pushkin/text/923/p.1 --- Чу пушки грянули крылатых кораблей
+/author/pushkin/text/426/p.1 --- Чугун кагульский ты священ
+/author/pushkin/text/219/p.1 --- Чудесный жребий совершился
+/author/pushkin/text/941/p.1 --- Чудный сон мне бог послал
+/author/pushkin/text/158/p.1 --- Чья мысль восторгом угадала
+/author/pushkin/text/119/p.1 --- Шалун увенчанный Эратой и Венерой
+/author/pushkin/text/194/p.1 --- Штабс-капитану Гете Грею
+/author/pushkin/text/905/p.1 --- Шумит кустарник На утес
+/author/pushkin/text/665/p.1 --- Щербинину
+/author/pushkin/text/255/p.1 --- Эвлега
+/author/pushkin/text/314/p.1 --- Экспромт на Огареву
+/author/pushkin/text/716/p.1 --- Элегия
+/author/pushkin/text/386/p.1 --- Элегия
+/author/pushkin/text/350/p.1 --- Элегия
+/author/pushkin/text/323/p.1 --- Элегия
+/author/pushkin/text/329/p.1 --- Элегия
+/author/pushkin/text/859/p.1 --- Элегия на смерть Анны Львовны
+/author/pushkin/text/414/p.1 --- Эллеферия пред тобой
+/author/pushkin/text/288/p.1 --- Эльвина милый друг приди подай мне руку
+/author/pushkin/text/260/p.1 --- Эпиграмма
+/author/pushkin/text/695/p.1 --- Эпиграмма
+/author/pushkin/text/631/p.1 --- Эпиграмма (Из антологии)
+/author/pushkin/text/231/p.1 --- Эпиграмма
+/author/pushkin/text/703/p.1 --- Эпиграмма
+/author/pushkin/text/425/p.1 --- Эпиграмма (На А А Давыдову)
+/author/pushkin/text/346/p.1 --- Эпиграмма (На Карамзина)
+/author/pushkin/text/199/p.1 --- Эпиграмма (На гр Ф И Толстого)
+/author/pushkin/text/741/p.1 --- Эпиграмма
+/author/pushkin/text/269/p.1 --- Эпиграмма (Подражание французскому)
+/author/pushkin/text/702/p.1 --- Эпиграмма
+/author/pushkin/text/697/p.1 --- Эпиграмма
+/author/pushkin/text/879/p.1 --- Эпиграмма на Шаликова
+/author/pushkin/text/367/p.1 --- Эпиграмма на смерть стихотворца
+/author/pushkin/text/673/p.1 --- Эпитафия младенцу
+/author/pushkin/text/746/p.1 --- Эхо
+/author/pushkin/text/726/p.1 --- Эхо бессонная нимфа скиталась по брегу Пенея
+/author/pushkin/text/761/p.1 --- Юноша Скромно пируй и шумную Вакхову влагу
+/author/pushkin/text/801/p.1 --- Юноша полный красы напряженья усилия чуждый
+/author/pushkin/text/802/p.1 --- Юноша трижды шагнул наклонился рукой о колено
+/author/pushkin/text/778/p.1 --- Юношу горько рыдая ревнивая дева бранила
+/author/pushkin/text/392/p.1 --- Юрьеву
+/author/pushkin/text/182/p.1 --- Юрьеву
+/author/pushkin/text/325/p.1 --- Я Лилу слушал у клавира
+/author/pushkin/text/842/p.1 --- Я был свидетелем златой твоей весны
+/author/pushkin/text/685/p.1 --- Я вас любил любовь еще быть может
+/author/pushkin/text/599/p.1 --- Я вас люблю — хоть я бешусь
+/author/pushkin/text/707/p.1 --- Я вас узнал о мой оракул
+/author/pushkin/text/178/p.1 --- Я верю я любим для сердца нужно верить
+/author/pushkin/text/404/p.1 --- Я видел Азии бесплодные пределы
+/author/pushkin/text/601/p.1 --- Я видел вас я их читал
+/author/pushkin/text/327/p.1 --- Я видел смерть она сидела
+/author/pushkin/text/929/p.1 --- Я возмужал среди печальных бурь
+/author/pushkin/text/209/p.1 --- Я говорил тебе страшися девы милой
+/author/pushkin/text/786/p.1 --- Я думал сердце позабыло
+/author/pushkin/text/329/p.1 --- Я думал что любовь погасла навсегда
+/author/pushkin/text/920/p.1 --- Я ехал в дальние края
+/author/pushkin/text/672/p.1 --- Я ехал к вам живые сны
+/author/pushkin/text/247/p.1 --- Я жду обещанной тетради
+/author/pushkin/text/725/p.1 --- Я здесь Инезилья
+/author/pushkin/text/163/p.1 --- Я знаю Лидинька мой друг
+/author/pushkin/text/875/p.1 --- Я знаю край там на брега
+/author/pushkin/extract/5 --- Я к вам пишу — чего же боле
+/author/pushkin/text/160/p.1 --- Я люблю вечерний пир
+/author/pushkin/text/643/p.1 --- Я не люблю альбомов модных
+/author/pushkin/text/408/p.1 --- Я не люблю твоей Корины
+/author/pushkin/text/846/p.1 --- Я не рожден святыню славословить
+/author/pushkin/text/321/p.1 --- Я не совсем еще рассудок потерял
+/author/pushkin/text/797/p.1 --- Я памятник себе воздвиг нерукотворный
+/author/pushkin/text/203/p.1 --- Я пережил свои желанья
+/author/pushkin/text/558/p.1 --- Я помню чудное мгновенье
+/author/pushkin/text/369/p.1 --- Я сам в себе уверен
+/author/pushkin/text/328/p.1 --- Я слезы лью мне слезы утешенье
+/author/pushkin/text/152/p.1 --- Я ускользнул от Эскулапа
+/author/pushkin/text/413/p.1 --- Язвительный поэт остряк замысловатый
+/author/pushkin/text/705/p.1 --- Язык и ум теряя разом
+/author/pushkin/text/597/p.1 --- Языков кто тебе внушил

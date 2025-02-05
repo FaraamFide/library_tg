@@ -1,0 +1,125 @@
+/author/tyutchev/theme.1 --- О любви
+/author/tyutchev/theme.3 --- О животных
+/author/tyutchev/theme.4 --- О природе
+/author/tyutchev/theme.5 --- Об осени
+/author/tyutchev/theme.6 --- О весне
+/author/tyutchev/theme.7 --- О лете
+/author/tyutchev/theme.12 --- О родине
+/author/tyutchev/theme.13 --- О женщине
+/author/tyutchev/theme.15 --- О России
+/author/tyutchev/theme.17 --- О поэтах и поэзии
+/author/tyutchev/theme.19 --- О жизни
+/author/tyutchev/theme.20 --- О море
+/author/tyutchev/theme.21 --- О душе
+/author/tyutchev/theme.30 --- О ночи
+/author/tyutchev/theme.32 --- О вечере
+/author/tyutchev/form.5 --- Стихотворения
+/author/tyutchev/text/4543/p.1 --- Cache-cache
+/author/tyutchev/text/1281/p.1 --- Silentium
+/author/tyutchev/text/4544/p.1 --- „Аллах пролей на нас твой свет
+/author/tyutchev/text/1769/p.1 --- Безумие
+/author/tyutchev/text/4547/p.1 --- Бессонница
+/author/tyutchev/text/1677/p.1 --- Вдали от солнца и природы
+/author/tyutchev/text/1690/p.1 --- Великий день Кирилловой кончины
+/author/tyutchev/text/1661/p.1 --- Весенние воды
+/author/tyutchev/text/1774/p.1 --- Весенняя гроза
+/author/tyutchev/text/4095/p.1 --- Весна
+/author/tyutchev/text/4541/p.1 --- Видение
+/author/tyutchev/text/4543/p.1 --- Вот арфа ее в обычайном углу
+/author/tyutchev/text/1687/p.1 --- Вот от моря и до моря
+/author/tyutchev/text/1693/p.1 --- Два единства
+/author/tyutchev/text/1691/p.1 --- Две силы есть — две роковые силы
+/author/tyutchev/text/4094/p.1 --- Декабрьское утро
+/author/tyutchev/text/1282/p.1 --- День и ночь
+/author/tyutchev/text/1664/p.1 --- Душа хотела б быть звездой
+/author/tyutchev/text/1773/p.1 --- Есть в осени первоначальной
+/author/tyutchev/text/1771/p.1 --- Есть в светлости осенних вечеров
+/author/tyutchev/text/4541/p.1 --- Есть некий час в ночи всемирного молчанья
+/author/tyutchev/text/1661/p.1 --- Еще в полях белеет снег
+/author/tyutchev/text/1668/p.1 --- Еще земли печален вид
+/author/tyutchev/text/1674/p.1 --- Еще томлюсь тоской желаний
+/author/tyutchev/text/1658/p.1 --- Еще шумел веселый день
+/author/tyutchev/text/1673/p.1 --- Живым сочувствием привета
+/author/tyutchev/text/1666/p.1 --- Зима недаром злится
+/author/tyutchev/text/1662/p.1 --- И море и буря качали наш челн
+/author/tyutchev/text/1669/p.1 --- И чувства нет в твоих очах
+/author/tyutchev/text/1693/p.1 --- Из переполненной господним гневом чаши
+/author/tyutchev/text/1679/p.1 --- Итак опять увиделся я с вами
+/author/tyutchev/text/1657/p.1 --- К N N
+/author/tyutchev/text/1286/p.1 --- К Б
+/author/tyutchev/text/1678/p.1 --- Как дымный столп светлеет в вышине
+/author/tyutchev/text/1659/p.1 --- Как над горячею золой
+/author/tyutchev/text/4095/p.1 --- Как ни гнетет рука судьбины
+/author/tyutchev/text/1280/p.1 --- Как хорошо ты о море ночное
+/author/tyutchev/text/1681/p.1 --- Когда в кругу убийственных забот
+/author/tyutchev/text/1688/p.1 --- Когда на то нет божьего согласья
+/author/tyutchev/text/1273/p.1 --- Когда пробьет последний час природы
+/author/tyutchev/text/1663/p.1 --- Конь морской
+/author/tyutchev/text/4546/p.1 --- Лазурь небесная смеется
+/author/tyutchev/text/1670/p.1 --- Лебедь
+/author/tyutchev/text/1770/p.1 --- Лениво дышит полдень мглистый
+/author/tyutchev/text/4093/p.1 --- Летний вечер
+/author/tyutchev/text/1768/p.1 --- Листья
+/author/tyutchev/text/1274/p.1 --- Люблю глаза твои мой друг
+/author/tyutchev/text/1774/p.1 --- Люблю грозу в начале мая
+/author/tyutchev/text/1766/p.1 --- Любовь любовь — гласит преданье
+/author/tyutchev/text/1281/p.1 --- Молчи скрывайся и таи
+/author/tyutchev/text/1676/p.1 --- Москва и град Петров и Константинов град
+/author/tyutchev/text/1282/p.1 --- На мир таинственный духов
+/author/tyutchev/text/4094/p.1 --- На небе месяц — и ночная
+/author/tyutchev/text/1692/p.1 --- Над русской Вильной стародавной
+/author/tyutchev/text/1277/p.1 --- Нам не дано предугадать
+/author/tyutchev/text/1672/p.1 --- Не верь не верь поэту дева
+/author/tyutchev/text/1675/p.1 --- Не знаешь что лестней для мудрости людской
+/author/tyutchev/text/1684/p.1 --- Не знаю я коснется ль благодать
+/author/tyutchev/text/1284/p.1 --- Не то что мните вы природа
+/author/tyutchev/text/1278/p.1 --- Неохотно и несмело
+/author/tyutchev/text/1685/p.1 --- Нет мера есть долготерпенью
+/author/tyutchev/text/1775/p.1 --- О как на склоне наших лет
+/author/tyutchev/text/1283/p.1 --- О как убийственно мы любим
+/author/tyutchev/text/1663/p.1 --- О рьяный конь о конь морской
+/author/tyutchev/text/1767/p.1 --- О чем ты воешь ветр ночной
+/author/tyutchev/text/4544/p.1 --- Олегов щит
+/author/tyutchev/text/1772/p.1 --- Она сидела на полу
+/author/tyutchev/text/1660/p.1 --- Оратор римский говорил
+/author/tyutchev/text/1771/p.1 --- Осенний вечер
+/author/tyutchev/text/1689/p.1 --- Ответ на адрес
+/author/tyutchev/text/4092/p.1 --- Певучесть есть в морских волнах
+/author/tyutchev/text/1686/p.1 --- Пламя рдеет пламя пышет
+/author/tyutchev/text/1685/p.1 --- По случаю приезда австрийского эрцгерцога на похороны императора Николая
+/author/tyutchev/text/1770/p.1 --- Полдень
+/author/tyutchev/text/1273/p.1 --- Последний катаклизм
+/author/tyutchev/text/1775/p.1 --- Последняя любовь
+/author/tyutchev/text/1766/p.1 --- Предопределение
+/author/tyutchev/text/4091/p.1 --- Природа — сфинкс И тем она верней
+/author/tyutchev/text/1670/p.1 --- Пускай орел за облаками
+/author/tyutchev/text/1768/p.1 --- Пусть сосны и ели
+/author/tyutchev/text/1676/p.1 --- Русская география
+/author/tyutchev/text/1677/p.1 --- Русской женщине
+/author/tyutchev/text/1671/p.1 --- С какою негою с какой тоской влюбленный
+/author/tyutchev/text/1765/p.1 --- С поляны коршун поднялся
+/author/tyutchev/text/1689/p.1 --- Себя друзья морочите вы грубо
+/author/tyutchev/text/4540/p.1 --- Сияет солнце воды блещут
+/author/tyutchev/text/1682/p.1 --- Слезы людские о слезы людские
+/author/tyutchev/text/1285/p.1 --- Смотри как облаком живым
+/author/tyutchev/text/4545/p.1 --- Снежные горы
+/author/tyutchev/text/1662/p.1 --- Сон на море
+/author/tyutchev/text/1665/p.1 --- Там где горы убегая
+/author/tyutchev/text/1769/p.1 --- Там где с землею обгорелой
+/author/tyutchev/text/1275/p.1 --- Тени сизые смесились
+/author/tyutchev/text/1680/p.1 --- Тихой ночью поздним летом
+/author/tyutchev/text/1657/p.1 --- Ты любишь Ты притворствовать умеешь
+/author/tyutchev/text/4093/p.1 --- Уж солнца раскаленный шар
+/author/tyutchev/text/4545/p.1 --- Уже полдневная пора
+/author/tyutchev/text/1276/p.1 --- Умом Россию не понять
+/author/tyutchev/text/4546/p.1 --- Утро в горах
+/author/tyutchev/text/1285/p.1 --- Фонтан
+/author/tyutchev/text/1660/p.1 --- Цицерон
+/author/tyutchev/text/4542/p.1 --- Чародейкою Зимою
+/author/tyutchev/text/4547/p.1 --- Часов однообразный бой
+/author/tyutchev/text/1683/p.1 --- Чему молилась ты с любовью
+/author/tyutchev/text/1684/p.1 --- 〈Э Ф Тютчевой〉
+/author/tyutchev/text/1279/p.1 --- Эти бедные селенья
+/author/tyutchev/text/1286/p.1 --- Я встретил вас — и всё былое
+/author/tyutchev/text/4570/p.1 --- Я помню время золотое
+/author/tyutchev/text/1667/p.1 --- Яркий снег сиял в долине

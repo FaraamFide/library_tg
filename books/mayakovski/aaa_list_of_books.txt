@@ -1,0 +1,121 @@
+/author/mayakovski/theme.1 --- О любви
+/author/mayakovski/theme.3 --- О животных
+/author/mayakovski/theme.13 --- О женщине
+/author/mayakovski/theme.17 --- О поэтах и поэзии
+/author/mayakovski/theme.18 --- Сатирические
+/author/mayakovski/theme.21 --- О душе
+/author/mayakovski/theme.22 --- О войне
+/author/mayakovski/theme.26 --- Об искусстве
+/author/mayakovski/theme.34 --- Публицистические
+/author/mayakovski/form.5 --- Стихотворения
+/author/mayakovski/form.6 --- Поэмы
+/author/mayakovski/form.9 --- Пьесы
+/author/mayakovski/form.19 --- Комедии
+/author/mayakovski/text/2136/p.1 --- А все-таки
+/author/mayakovski/text/2119/p.1 --- А вы могли бы
+/author/mayakovski/text/2134/p.1 --- Адище города
+/author/mayakovski/text/4571/p.1 --- Александр Сергеевич
+/author/mayakovski/text/4126/p.1 --- Багровый и белый отброшен и скомкан
+/author/mayakovski/text/2143/p.1 --- Баня
+/author/mayakovski/text/1237/p.1 --- Били копыта Пели будто
+/author/mayakovski/text/2391/p.1 --- Бульвар Машина
+/author/mayakovski/text/1243/p.1 --- В авто
+/author/mayakovski/text/4572/p.1 --- В поцелуе рук ли
+/author/mayakovski/text/1236/p.1 --- В сто сорок солнц закат пылал
+/author/mayakovski/text/2137/p.1 --- В ушах обрывки теплого бала
+/author/mayakovski/text/2142/p.1 --- Вам
+/author/mayakovski/text/2138/p.1 --- „Вечернюю Вечернюю Вечернюю
+/author/mayakovski/text/2393/p.1 --- Внимательное отношение к взяточникам
+/author/mayakovski/text/2387/p.1 --- Во весь голос
+/author/mayakovski/text/2138/p.1 --- Война объявлена
+/author/mayakovski/text/2140/p.1 --- Войне ли думать
+/author/mayakovski/text/2135/p.1 --- Вошел к парикмахеру сказал — спокойный
+/author/mayakovski/text/2379/p.1 --- Врангель прет
+/author/mayakovski/text/2120/p.1 --- Вывескам
+/author/mayakovski/text/2390/p.1 --- Гвоздимые строками
+/author/mayakovski/text/2385/p.1 --- Два не совсем обычных случая
+/author/mayakovski/text/2131/p.1 --- Девушка пугливо куталась в болото
+/author/mayakovski/text/2398/p.1 --- Дым табачный воздух выел
+/author/mayakovski/text/2385/p.1 --- Ежедневно как вол жуя
+/author/mayakovski/text/2137/p.1 --- Еще Петербург
+/author/mayakovski/text/2123/p.1 --- За женщиной
+/author/mayakovski/text/2130/p.1 --- Земля
+/author/mayakovski/text/2129/p.1 --- Исчерпывающая картина весны
+/author/mayakovski/text/1243/p.1 --- „Какая очаровательная ночь
+/author/mayakovski/text/1847/p.1 --- Клоп
+/author/mayakovski/text/2397/p.1 --- Ко всему
+/author/mayakovski/text/2122/p.1 --- Кое-что про Петербург
+/author/mayakovski/text/1244/p.1 --- Кофта фата
+/author/mayakovski/text/1235/p.1 --- Левый марш
+/author/mayakovski/text/2132/p.1 --- Лезем земле под ресницами вылезших пальм
+/author/mayakovski/text/2398/p.1 --- Лиличка
+/author/mayakovski/text/2129/p.1 --- Листочки
+/author/mayakovski/text/2383/p.1 --- Лубянская площадь
+/author/mayakovski/text/4124/p.1 --- Люблю
+/author/mayakovski/text/2131/p.1 --- Любовь
+/author/mayakovski/text/2395/p.1 --- Май ли уже расцвел над городом
+/author/mayakovski/text/2139/p.1 --- Мама и убитый немцами вечер
+/author/mayakovski/text/2389/p.1 --- Многие товарищи повесили нос
+/author/mayakovski/text/2395/p.1 --- Мое к этому отношение
+/author/mayakovski/text/2396/p.1 --- Мокрая будто ее облизали
+/author/mayakovski/text/2124/p.2 --- Морей неведомых далеким пляжем
+/author/mayakovski/text/2394/p.1 --- Мрачные до черного вышли люди
+/author/mayakovski/text/2132/p.1 --- Мы
+/author/mayakovski/text/2140/p.1 --- Мысли в призыв
+/author/mayakovski/text/1242/p.1 --- Нате
+/author/mayakovski/text/1236/p.1 --- Необычайное приключение бывшее с Владимиром Маяковским летом на даче
+/author/mayakovski/text/2383/p.1 --- Неразбериха
+/author/mayakovski/text/2124/p.2 --- Несколько слов о моей жене
+/author/mayakovski/text/2124/p.3 --- Несколько слов о моей маме
+/author/mayakovski/text/2124/p.4 --- Несколько слов обо мне самом
+/author/mayakovski/text/2397/p.1 --- Нет Это неправда
+/author/mayakovski/text/2393/p.1 --- Неужели и о взятках писать поэтам
+/author/mayakovski/text/2135/p.1 --- Ничего не понимают
+/author/mayakovski/text/4126/p.1 --- Ночь
+/author/mayakovski/text/2382/p.1 --- О дряни
+/author/mayakovski/text/1241/p.1 --- Облако в штанах
+/author/mayakovski/text/2130/p.1 --- От усталости
+/author/mayakovski/text/1238/p.1 --- Отношение к барышне
+/author/mayakovski/text/4572/p.1 --- Письмо Татьяне Яковлевой
+/author/mayakovski/text/2124/p.1 --- По мостовой
+/author/mayakovski/text/2139/p.1 --- По черным улицам белые матери
+/author/mayakovski/text/2133/p.1 --- По эхам города проносят шумы
+/author/mayakovski/text/2381/p.1 --- Последняя страничка гражданской войны
+/author/mayakovski/text/1245/p.1 --- Послушайте
+/author/mayakovski/text/2386/p.1 --- Приказ № 2 армии искусств
+/author/mayakovski/text/2392/p.1 --- Про это
+/author/mayakovski/text/2388/p.1 --- Прозаседавшиеся
+/author/mayakovski/text/2380/p.1 --- Раз шахтеры
+/author/mayakovski/text/1235/p.1 --- Разворачивайтесь в марше
+/author/mayakovski/text/2123/p.1 --- Раздвинув локтем тумана дрожжи
+/author/mayakovski/text/2121/p.1 --- Рассказ о взлезших на подмосток
+/author/mayakovski/text/2379/p.1 --- Рассказ про то как кума о Врангеле толковала без всякого ума
+/author/mayakovski/text/2384/p.1 --- Сапоги почистить —  1 000 000
+/author/mayakovski/text/2390/p.1 --- Сволочи
+/author/mayakovski/text/2380/p.1 --- Сказка для шахтера-друга про шахтерки чуни и каменный уголь
+/author/mayakovski/text/1246/p.1 --- Скрипка и немножко нервно
+/author/mayakovski/text/2382/p.1 --- Слава Слава Слава героям
+/author/mayakovski/text/2381/p.1 --- Слава тебе краснозвездный герой
+/author/mayakovski/text/2122/p.1 --- Слезают слезы с крыши в трубы
+/author/mayakovski/text/2389/p.1 --- Спросили раз меня Вы любите ли НЭП — Люблю — ответил я — когда он не нелеп
+/author/mayakovski/text/4125/p.1 --- Стихи о советском паспорте
+/author/mayakovski/text/2384/p.1 --- Стихотворение о Мясницкой о бабе и о всероссийском масштабе
+/author/mayakovski/text/2121/p.1 --- Театры
+/author/mayakovski/text/2124/p.3 --- У меня есть мама на васильковых обоях
+/author/mayakovski/text/2136/p.1 --- Улица провалилась как нос сифилитика
+/author/mayakovski/text/1237/p.1 --- Хорошее отношение к лошадям
+/author/mayakovski/text/1242/p.1 --- Через час отсюда в чистый переулок
+/author/mayakovski/text/2120/p.1 --- Читайте железные книги
+/author/mayakovski/text/2394/p.1 --- Чудовищные похороны
+/author/mayakovski/text/2388/p.1 --- Чуть ночь превратится в рассвет
+/author/mayakovski/text/2133/p.1 --- Шумики шумы и шумищи
+/author/mayakovski/text/2396/p.1 --- Эй
+/author/mayakovski/text/2386/p.1 --- Это вам
+/author/mayakovski/text/1238/p.1 --- Этот вечер решал
+/author/mayakovski/text/4571/p.1 --- Юбилейное
+/author/mayakovski/text/2124/p.1 --- Я
+/author/mayakovski/text/4125/p.1 --- Я волком бы
+/author/mayakovski/text/2141/p.1 --- Я живу на Большой Пресне
+/author/mayakovski/text/2124/p.4 --- Я люблю смотреть как умирают дети
+/author/mayakovski/text/1244/p.1 --- Я сошью себе черные штаны
+/author/mayakovski/text/2119/p.1 --- Я сразу смазал карту будня

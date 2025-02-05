@@ -1,0 +1,793 @@
+/author/tsvetaeva/theme.1 --- О любви
+/author/tsvetaeva/theme.2 --- О детях
+/author/tsvetaeva/theme.6 --- О весне
+/author/tsvetaeva/theme.12 --- О родине
+/author/tsvetaeva/theme.13 --- О женщине
+/author/tsvetaeva/theme.14 --- О смерти
+/author/tsvetaeva/theme.15 --- О России
+/author/tsvetaeva/theme.16 --- О матери
+/author/tsvetaeva/theme.17 --- О поэтах и поэзии
+/author/tsvetaeva/theme.19 --- О жизни
+/author/tsvetaeva/theme.21 --- О душе
+/author/tsvetaeva/theme.28 --- О смысле жизни
+/author/tsvetaeva/theme.30 --- О ночи
+/author/tsvetaeva/theme.38 --- О Москве
+/author/tsvetaeva/theme.39 --- О Боге
+/author/tsvetaeva/theme.40 --- О времени
+/author/tsvetaeva/form.5 --- Стихотворения
+/author/tsvetaeva/form.17 --- Сборники
+/author/tsvetaeva/text/2582/p.1 --- Aeternum vale Сброшен крест
+/author/tsvetaeva/text/2816/p.1 --- Ex — ci-devant
+/author/tsvetaeva/text/3158/p.1 --- Ici-Нaut
+/author/tsvetaeva/text/2724/p.13 --- А во лбу моем — знай
+/author/tsvetaeva/text/2868/p.1#p6 --- А девы — не надо
+/author/tsvetaeva/text/2930/p.1 --- А и простор у нас татарским стрелам
+/author/tsvetaeva/text/3056/p.1 --- А может лучшая победа
+/author/tsvetaeva/text/2827/p.1 --- А над равниной
+/author/tsvetaeva/text/3030/p.1 --- А покамест пустыня славы
+/author/tsvetaeva/text/2947/p.1 --- А сугробы подаются
+/author/tsvetaeva/text/2943/p.1 --- А уж так ни о чем
+/author/tsvetaeva/text/2607/p.1 --- Але
+/author/tsvetaeva/text/2810/p.1 --- Але
+/author/tsvetaeva/text/2607/p.1 --- Аля — Маленькая тень
+/author/tsvetaeva/text/2785/p.1 --- Андрей Шенье
+/author/tsvetaeva/text/2785/p.1#p1 --- Андрей Шенье взошел на эшафот
+/author/tsvetaeva/text/2628/p.1 --- Анне Ахматовой
+/author/tsvetaeva/text/3027/p.1 --- Ариадна
+/author/tsvetaeva/text/2600/p.1 --- Асе
+/author/tsvetaeva/text/3052/p.1 --- Атлантским и сладостным
+/author/tsvetaeva/text/3199/p.1#p9 --- Атлас — что колода карт
+/author/tsvetaeva/text/2588/p.1#p2 --- Ах золотые деньки
+/author/tsvetaeva/text/2962/p.1 --- Ах с откровенного отвеса
+/author/tsvetaeva/text/3088/p.1 --- Ахилл на валу
+/author/tsvetaeva/text/2918/p.1 --- Ахматовой
+/author/tsvetaeva/text/2606/p.1 --- Байрону
+/author/tsvetaeva/text/2962/p.1 --- Балкон
+/author/tsvetaeva/text/2813/p.1 --- Бальмонту
+/author/tsvetaeva/text/3199/p.1#p7 --- Барабан
+/author/tsvetaeva/text/2857/p.1#p1 --- Башенный бой
+/author/tsvetaeva/text/2977/p.1#p5 --- Беглецы — Вестовые
+/author/tsvetaeva/text/3053/p.1 --- Беженская мостовая
+/author/tsvetaeva/text/2588/p.1#p4 --- Бежит тропинка с бугорка
+/author/tsvetaeva/text/2829/p.1 --- Без зова без слова
+/author/tsvetaeva/text/3078/p.1 --- Без рук не обнять
+/author/tsvetaeva/text/2907/p.1 --- Без самовластия
+/author/tsvetaeva/text/2627/p.1 --- Безумье — и благоразумье
+/author/tsvetaeva/text/2778/p.1#p1 --- Белая гвардия путь твой высок
+/author/tsvetaeva/text/2795/p.1 --- Белизна — угроза Черноте
+/author/tsvetaeva/text/2797/p.1 --- Белогвардейцы Гордиев узел
+/author/tsvetaeva/text/2700/p.1 --- Белое солнце и низкие низкие тучи
+/author/tsvetaeva/text/2967/p.1 --- Берлину
+/author/tsvetaeva/text/2852/p.1 --- Бессонница Друг мой
+/author/tsvetaeva/text/3143/p.1#p1 --- Бич жандармов бог студентов
+/author/tsvetaeva/text/2876/p.1 --- Благая весть
+/author/tsvetaeva/text/2724/p.23 --- Благословляю ежедневный труд
+/author/tsvetaeva/text/2897/p.1 --- Блаженны дочерей твоих Земля
+/author/tsvetaeva/text/3091/p.1 --- Бледно—лицый
+/author/tsvetaeva/text/2815/p.1 --- Блоку
+/author/tsvetaeva/text/2993/p.1 --- Бог
+/author/tsvetaeva/text/2792/p.1 --- Бог — прав
+/author/tsvetaeva/text/2714/p.1 --- Бог согнулся от заботы
+/author/tsvetaeva/text/3199/p.1#p10 --- Брали — скоро и брали — щедро
+/author/tsvetaeva/text/3067/p.1 --- Брат
+/author/tsvetaeva/text/2921/p.1 --- Братья В последний час
+/author/tsvetaeva/text/3097/p.1 --- Брожу — не дом же плотничать
+/author/tsvetaeva/text/2821/p.1 --- Буду выспрашивать воды широкого Дона
+/author/tsvetaeva/text/3153/p.1 --- Бузина
+/author/tsvetaeva/text/2805/p.1 --- Бури-вьюги вихри-ветры вас взлелеяли
+/author/tsvetaeva/text/2837/p.1#p5 --- Был час чудотворен и полн
+/author/tsvetaeva/text/2634/p.1 --- Быть в аду нам сестры пылкие
+/author/tsvetaeva/text/2850/p.1#p1 --- Быть голубкой его орлиной
+/author/tsvetaeva/text/2837/p.1#p1 --- Быть мальчиком твоим светлоголовым
+/author/tsvetaeva/text/2572/p.1 --- В Париже
+/author/tsvetaeva/text/2584/p.1 --- В Я Брюсову
+/author/tsvetaeva/text/3151/p.1 --- В век сплошных скоропадских
+/author/tsvetaeva/text/2944/p.1 --- В ворко-клекочущий зоркий круг
+/author/tsvetaeva/text/3068/p.1#p2 --- В глубокий час души
+/author/tsvetaeva/text/3068/p.1#p1 --- В глубокий час души и ночи
+/author/tsvetaeva/text/2652/p.1 --- В день Благовещенья
+/author/tsvetaeva/text/2724/p.5 --- В лоб целовать — заботу стереть
+/author/tsvetaeva/text/3099/p.1#p3 --- В мире где всяк
+/author/tsvetaeva/text/3184/p.1#p1 --- В мире ревущем
+/author/tsvetaeva/text/3109/p.1#p2 --- В мозгу ухаб пролёжан
+/author/tsvetaeva/text/3066/p.1 --- В некой разлинованности нотной
+/author/tsvetaeva/text/2701/p.1 --- В огромном городе моем — ночь
+/author/tsvetaeva/text/3199/p.1#p5 --- В оны дни певала дрема
+/author/tsvetaeva/text/2674/p.1 --- В оны дни ты мне была как мать
+/author/tsvetaeva/text/2724/p.4 --- В очи взглянула
+/author/tsvetaeva/text/2610/p.1#p15 --- В первой любила ты
+/author/tsvetaeva/text/2706/p.1#p3 --- В полнолунье кони фыркали
+/author/tsvetaeva/text/2933/p.1#p2 --- В просторах покроя
+/author/tsvetaeva/text/3128/p.1 --- В пустынной храмине
+/author/tsvetaeva/text/2581/p.1 --- В раю
+/author/tsvetaeva/text/2588/p.1#p5 --- В светлом платьице давно-знакомом
+/author/tsvetaeva/text/2833/p.1 --- В своих младенческих слезах
+/author/tsvetaeva/text/3124/p.1 --- В седину — висок
+/author/tsvetaeva/text/2977/p.1#p1 --- В смертных изверясь
+/author/tsvetaeva/text/2876/p.1#p1 --- В сокровищницу
+/author/tsvetaeva/text/2570/p.1 --- В старом вальсе штраусовском впервые
+/author/tsvetaeva/text/3158/p.1#p3 --- В стране которая — одна
+/author/tsvetaeva/text/2632/p.1 --- В тумане синее ладана
+/author/tsvetaeva/text/3016/p.1#p7 --- В час когда мой милый брат
+/author/tsvetaeva/text/2724/p.22 --- В черном небе — слова начертаны
+/author/tsvetaeva/text/2810/p.1 --- В шитой серебром рубашечке
+/author/tsvetaeva/text/2610/p.1#p4 --- Вам одеваться было лень
+/author/tsvetaeva/text/2704/p.1 --- Вдруг вошла
+/author/tsvetaeva/text/2888/p.1 --- Веками веками
+/author/tsvetaeva/text/3016/p.1#p1 --- Вереницею певчих свай
+/author/tsvetaeva/text/2927/p.1 --- Верстами — врозь — разлетаются брови
+/author/tsvetaeva/text/2724/p.1 --- Версты
+/author/tsvetaeva/text/2669/p.1 --- Веселись душа пей и ешь
+/author/tsvetaeva/text/3016/p.1#p9 --- Весна наводит сон Уснем
+/author/tsvetaeva/text/2867/p.1 --- Вестнику
+/author/tsvetaeva/text/3158/p.1#p2 --- Ветхозаветная тишина
+/author/tsvetaeva/text/2567/p.1 --- Вечерний дым над городом возник
+/author/tsvetaeva/text/3199/p.1#p10 --- Взяли
+/author/tsvetaeva/text/2820/p.1 --- (Взятие Крыма)
+/author/tsvetaeva/text/3199/p.1#p11 --- Видел — как рубят Руб
+/author/tsvetaeva/text/2883/p.1#p4 --- Виноградины тщетно в садах ржавели
+/author/tsvetaeva/text/2910/p.1 --- Вифлеем
+/author/tsvetaeva/text/2969/p.1 --- Вкрадчивостию волос
+/author/tsvetaeva/text/2876/p.1#p5 --- Во имя расправы
+/author/tsvetaeva/text/3063/p.1 --- Водопадами занавеса как пеной
+/author/tsvetaeva/text/3120/p.1 --- Воды не перетеплил
+/author/tsvetaeva/text/2587/p.1 --- Вождям
+/author/tsvetaeva/text/2882/p.1 --- Возвращение вождя
+/author/tsvetaeva/text/2949/p.1 --- Возле любови
+/author/tsvetaeva/text/2609/p.1 --- Война война — Кажденья у киотов
+/author/tsvetaeva/text/2778/p.1#p3 --- Волны и молодость — вне закона
+/author/tsvetaeva/text/2585/p.1 --- Волшебство
+/author/tsvetaeva/text/2588/p.1#p1 --- Волшебство немецкой феерии
+/author/tsvetaeva/text/2823/p.1 --- Вопль стародавний
+/author/tsvetaeva/text/2581/p.1 --- Воспоминанье слишком давит плечи
+/author/tsvetaeva/text/2825/p.1 --- Вот он — гляди — уставший от чужбин
+/author/tsvetaeva/text/2723/p.1 --- Вот опять окно
+/author/tsvetaeva/text/3109/p.1#p1 --- Врылась забылась — и вот как с тысяче-
+/author/tsvetaeva/text/2837/p.1#p6 --- Всё великолепье
+/author/tsvetaeva/text/2857/p.1#p3 --- Всё круче всё круче
+/author/tsvetaeva/text/3016/p.1#p3 --- Всё перебрав и всё отбросив
+/author/tsvetaeva/text/3220/p.1 --- Всё повторяю первый стих
+/author/tsvetaeva/text/2596/p.1 --- Всё таить чтобы люди забыли
+/author/tsvetaeva/text/2594/p.1 --- Всё твое тоска по чуду
+/author/tsvetaeva/text/2588/p.1#p3 --- Всё у Боженьки — сердце Для Бога
+/author/tsvetaeva/text/2610/p.1#p11 --- Все глаза под солнцем — жгучи
+/author/tsvetaeva/text/3170/p.1 --- Вскрыла жилы неостановимо
+/author/tsvetaeva/text/2567/p.1 --- Встреча
+/author/tsvetaeva/text/2670/p.1 --- Всюду бегут дороги
+/author/tsvetaeva/text/3143/p.1#p3 --- Вся его наука
+/author/tsvetaeva/text/2817/p.1 --- Вся жизнь твоя — в едином крике
+/author/tsvetaeva/text/2610/p.1#p1 --- Вы счастливы — Не скажете — Едва ли
+/author/tsvetaeva/text/2807/p.1#p2 --- Высокой горести моей
+/author/tsvetaeva/text/3135/p.1 --- Высокомерье — каста
+/author/tsvetaeva/text/3002/p.1 --- Выше Выше Лови — летчицу
+/author/tsvetaeva/text/3108/p.1 --- Вьюга наметает в полы
+/author/tsvetaeva/text/3010/p.1 --- Гамлетом — перетянутым — натуго
+/author/tsvetaeva/text/2796/p.1 --- — Где лебеди — А лебеди ушли
+/author/tsvetaeva/text/2868/p.1 --- Георгий
+/author/tsvetaeva/text/3199/p.1#p8 --- Германии
+/author/tsvetaeva/text/2626/p.1 --- Германии
+/author/tsvetaeva/text/2648/p.1 --- Гибель от женщины Вот — знак
+/author/tsvetaeva/text/3083/p.1 --- Глазами казненных
+/author/tsvetaeva/text/2667/p.1 --- Говорила мне бабка лютая
+/author/tsvetaeva/text/2631/p.1 --- Голоса с их игрой сулящей
+/author/tsvetaeva/text/2645/p.1 --- Голуби реют серебряные растерянные вечерние
+/author/tsvetaeva/text/3131/p.1 --- Голубиная купель
+/author/tsvetaeva/text/2768/p.1 --- Голубые как небо воды
+/author/tsvetaeva/text/3199/p.1#p2 --- Горы — турам поприще
+/author/tsvetaeva/text/2773/p.1#p2 --- Гришка-Вор тебя не ополячил
+/author/tsvetaeva/text/2850/p.1#p4 --- — Грудь Ваша благоуханна
+/author/tsvetaeva/text/2909/p.1 --- Грудь женская Души застывший вздох
+/author/tsvetaeva/text/2668/p.1 --- Да с этой львиною
+/author/tsvetaeva/text/2961/p.1 --- Дабы ты меня не видел
+/author/tsvetaeva/text/2706/p.1 --- Даниил
+/author/tsvetaeva/text/2866/p.1 --- Два зарева — нет зеркала
+/author/tsvetaeva/text/3099/p.1 --- Двое
+/author/tsvetaeva/text/3216/p.1 --- Двух — жарче меха рук — жарче пуха
+/author/tsvetaeva/text/3188/p.1 --- Двух станов не боец а — если гость случайный
+/author/tsvetaeva/text/2608/p.1 --- День августовский тихо таял
+/author/tsvetaeva/text/2977/p.1 --- Деревья
+/author/tsvetaeva/text/3190/p.1 --- Деревья
+/author/tsvetaeva/text/2578/p.1 --- Детский день
+/author/tsvetaeva/text/2575/p.1 --- Детство молчание дома большого
+/author/tsvetaeva/text/3057/p.1 --- Диалог Гамлета с совестью
+/author/tsvetaeva/text/2579/p.1 --- Дикая воля
+/author/tsvetaeva/text/2656/p.1 --- Димитрий Марина В мире
+/author/tsvetaeva/text/3015/p.1 --- Для тех отженивших последние клочья
+/author/tsvetaeva/text/3085/p.1#p1 --- Дно — оврага
+/author/tsvetaeva/text/2724/p.28 --- Доблесть и девственность — Сей союз
+/author/tsvetaeva/text/2967/p.1 --- Дождь убаюкивает боль
+/author/tsvetaeva/text/2677/p.1#p7 --- Должно быть — за той рощей
+/author/tsvetaeva/text/3152/p.1 --- Дом
+/author/tsvetaeva/text/2572/p.1 --- Дома до звезд а небо ниже
+/author/tsvetaeva/text/2778/p.1 --- Дон
+/author/tsvetaeva/text/2812/p.1 --- Дорожкою простонародною
+/author/tsvetaeva/text/2568/p.1 --- Дортуар весной
+/author/tsvetaeva/text/2933/p.1 --- Дочь Иаира
+/author/tsvetaeva/text/3095/p.1 --- Древняя тщета течет по жилам
+/author/tsvetaeva/text/3046/p.1#p2 --- Друг Не кори меня за тот
+/author/tsvetaeva/text/2977/p.1#p4 --- Други Братственный сонм
+/author/tsvetaeva/text/2826/p.1 --- Други его — не тревожьте его
+/author/tsvetaeva/text/2677/p.1#p6 --- Думали — человек
+/author/tsvetaeva/text/2965/p.1 --- Думалось будут легки
+/author/tsvetaeva/text/3002/p.1 --- Душа
+/author/tsvetaeva/text/2847/p.1 --- Душа не знающая меры
+/author/tsvetaeva/text/3199/p.1#p14 --- Его и пуля не берет
+/author/tsvetaeva/text/3116/p.1 --- Емче органа и звонче бубна
+/author/tsvetaeva/text/2799/p.1 --- Если душа родилась крылатой
+/author/tsvetaeva/text/3031/p.1#p2 --- Есть в мире лишние добавочные
+/author/tsvetaeva/text/2818/p.1 --- Есть в стане моем — офицерская прямость
+/author/tsvetaeva/text/2610/p.1#p13 --- Есть имена как душные цветы
+/author/tsvetaeva/text/3199/p.1#p3 --- Есть на карте — место
+/author/tsvetaeva/text/2837/p.1#p2 --- Есть некий час — как сброшенная клажа
+/author/tsvetaeva/text/3099/p.1#p1 --- Есть рифмы в мире сем
+/author/tsvetaeva/text/2603/p.1#p1 --- Есть такие голоса
+/author/tsvetaeva/text/3068/p.1#p3 --- Есть час Души как час Луны
+/author/tsvetaeva/text/2951/p.1 --- Есть час на те слова
+/author/tsvetaeva/text/2646/p.1 --- Еще и еще — песни
+/author/tsvetaeva/text/2574/p.1 --- Еще молитва
+/author/tsvetaeva/text/2687/p.1#p3 --- Еще один огромный взмах
+/author/tsvetaeva/text/3012/p.1#p1 --- Жалоба
+/author/tsvetaeva/text/3121/p.1 --- Жив а не умер
+/author/tsvetaeva/text/2876/p.1#p2 --- Жив и здоров
+/author/tsvetaeva/text/3114/p.1 --- Живу — не трогаю
+/author/tsvetaeva/text/2773/p.1#p3 --- Жидкий звон постный звон
+/author/tsvetaeva/text/3117/p.1 --- Жизни
+/author/tsvetaeva/text/3181/p.1 --- Жизни с краю
+/author/tsvetaeva/text/2764/p.1 --- За Отрока — за Голубя — за Сына
+/author/tsvetaeva/text/2655/p.1 --- За девками доглядывать не скис
+/author/tsvetaeva/text/2576/p.1 --- За книгами
+/author/tsvetaeva/text/3175/p.1#p3 --- За то что некогда юн и смел
+/author/tsvetaeva/text/3174/p.1 --- За этот ад
+/author/tsvetaeva/text/2987/p.1 --- Заводские
+/author/tsvetaeva/text/2929/p.1 --- Завораживающая Крест
+/author/tsvetaeva/text/3058/p.1 --- Закачай меня звездный челн
+/author/tsvetaeva/text/2724/p.19 --- Закинув голову и опустив глаза
+/author/tsvetaeva/text/2724/p.7 --- Заклинаю тебя от злата
+/author/tsvetaeva/text/3063/p.1 --- Занавес
+/author/tsvetaeva/text/3074/p.1 --- Заочность
+/author/tsvetaeva/text/3104/p.1 --- Запечатленный как рот оракула
+/author/tsvetaeva/text/2677/p.1#p4 --- Зверю — берлога
+/author/tsvetaeva/text/3001/p.1 --- Здесь меж вами домами деньгами дымами
+/author/tsvetaeva/text/2959/p.1 --- Здравствуй Не стрела не камень
+/author/tsvetaeva/text/2687/p.1#p9 --- Златоустой Анне — всея Руси
+/author/tsvetaeva/text/2724/p.34 --- Знаю умру на заре На которой из двух
+/author/tsvetaeva/text/2715/p.1 --- И другу на руку легло
+/author/tsvetaeva/text/2992/p.1 --- И засим упредив заране
+/author/tsvetaeva/text/2767/p.1 --- И кто-то упав на карту
+/author/tsvetaeva/text/2928/p.1 --- И марш вперед уже
+/author/tsvetaeva/text/2716/p.1 --- И не плача зря
+/author/tsvetaeva/text/2724/p.32 --- И не спасут ни стансы ни созвездья
+/author/tsvetaeva/text/2574/p.1 --- И опять пред Тобой я склоняю колени
+/author/tsvetaeva/text/3129/p.1 --- И скажешь ты
+/author/tsvetaeva/text/2724/p.17 --- И сказал Господь
+/author/tsvetaeva/text/2820/p.1 --- И страшные мне снятся сны
+/author/tsvetaeva/text/2685/p.1 --- И тучи оводов вокруг равнодушных кляч
+/author/tsvetaeva/text/2782/p.1 --- Идет по луговинам лития
+/author/tsvetaeva/text/2599/p.1 --- Идите же — Мой голос нем
+/author/tsvetaeva/text/3175/p.1#p1 --- — „Иду на несколько минут“
+/author/tsvetaeva/text/3073/p.1 --- Из лепрозария лжи и зла
+/author/tsvetaeva/text/3003/p.1#p1 --- Из недр и на ветвь — рысями
+/author/tsvetaeva/text/2868/p.1#p4 --- Из облаков кивающие перья
+/author/tsvetaeva/text/2657/p.1#p2 --- Из рук моих — нерукотворный град
+/author/tsvetaeva/text/2594/p.1 --- Из сказки — в сказку
+/author/tsvetaeva/text/2583/p.1 --- Из сказки в жизнь
+/author/tsvetaeva/text/2766/p.1 --- Из строгого стройного храма
+/author/tsvetaeva/text/2724/p.6 --- Из-под копыт
+/author/tsvetaeva/text/3152/p.1 --- Из-под нахмуренных бровей
+/author/tsvetaeva/text/2687/p.1#p4 --- Имя ребенка — Лев
+/author/tsvetaeva/text/2677/p.1#p1 --- Имя твое — птица в руке
+/author/tsvetaeva/text/3012/p.1#p1 --- Ипполит Ипполит Болит
+/author/tsvetaeva/text/3012/p.1#p2 --- Ипполиту от Матери — Федры — Царицы — весть
+/author/tsvetaeva/text/2705/p.1 --- Искательница приключений
+/author/tsvetaeva/text/2955/p.1 --- Ищи себе доверчивых подруг
+/author/tsvetaeva/text/2971/p.1#p3 --- К груди моей
+/author/tsvetaeva/text/2638/p.1 --- К озеру вышла Крут берег
+/author/tsvetaeva/text/2719/p.1 --- Кабы нас с тобой — да судьба свела
+/author/tsvetaeva/text/2720/p.1 --- Каждый день всё кажется мне суббота
+/author/tsvetaeva/text/2724/p.10 --- Каждый стих — дитя любви
+/author/tsvetaeva/text/2610/p.1#p6 --- Как весело сиял снежинками
+/author/tsvetaeva/text/2603/p.1#p2 --- Как водоросли Ваши члены
+/author/tsvetaeva/text/3107/p.1 --- Как живется вам с другою
+/author/tsvetaeva/text/2569/p.1 --- Как мы читали Lichtenstein
+/author/tsvetaeva/text/2916/p.1 --- Как начнут меня колеса
+/author/tsvetaeva/text/3003/p.1#p2 --- Как по синей по степи
+/author/tsvetaeva/text/2913/p.1 --- Как по тем донским боям
+/author/tsvetaeva/text/2724/p.26 --- Как правая и левая рука
+/author/tsvetaeva/text/2851/p.1 --- Как разгораются — каким валежником
+/author/tsvetaeva/text/2815/p.1 --- Как слабый луч сквозь черный морок адов
+/author/tsvetaeva/text/2830/p.1 --- Как сонный как пьяный
+/author/tsvetaeva/text/2977/p.1#p9 --- Каким наитием
+/author/tsvetaeva/text/2923/p.1 --- Каменногрудый
+/author/tsvetaeva/text/2971/p.1#p2 --- Каменной глыбой серой
+/author/tsvetaeva/text/2653/p.1 --- Канун Благовещенья
+/author/tsvetaeva/text/3074/p.1 --- Кастальскому току
+/author/tsvetaeva/text/3190/p.1 --- Кварталом хорошего тона
+/author/tsvetaeva/text/2918/p.1 --- Кем полосынька твоя
+/author/tsvetaeva/text/3077/p.1 --- Клинок
+/author/tsvetaeva/text/2845/p.1 --- Кн С М Волконскому
+/author/tsvetaeva/text/2987/p.1#p2 --- Книгу вечности на людских устах
+/author/tsvetaeva/text/2957/p.1 --- Когда же Господин
+/author/tsvetaeva/text/2977/p.1#p2 --- Когда обидой — опилась
+/author/tsvetaeva/text/2773/p.1#p1 --- Когда рыжеволосый Самозванец
+/author/tsvetaeva/text/3198/p.1 --- Когда я гляжу на летящие листья
+/author/tsvetaeva/text/2788/p.1 --- Коли в землю солдаты всадили — штык
+/author/tsvetaeva/text/2672/p.1 --- Коли милым назову — не соскучишься
+/author/tsvetaeva/text/3115/p.1 --- Колотёры-молотёры
+/author/tsvetaeva/text/2801/p.1 --- Колыбель овеянная красным
+/author/tsvetaeva/text/3199/p.1#p5 --- (Колыбельная)
+/author/tsvetaeva/text/3003/p.1#p2 --- (Колыбельная)
+/author/tsvetaeva/text/2882/p.1 --- Конь — хром
+/author/tsvetaeva/text/2772/p.1 --- Корнилов
+/author/tsvetaeva/text/2849/p.1 --- Косматая звезда
+/author/tsvetaeva/text/3065/p.1 --- Красавцы не ездите
+/author/tsvetaeva/text/2657/p.1#p9 --- Красною кистью
+/author/tsvetaeva/text/3120/p.1 --- Крестины
+/author/tsvetaeva/text/3090/p.1 --- Крик станций
+/author/tsvetaeva/text/2777/p.1 --- Кровных коней запрягайте в дровни
+/author/tsvetaeva/text/3041/p.1 --- Крутогорьями глаголь
+/author/tsvetaeva/text/2722/p.1 --- Кто спит по ночам никто не спит
+/author/tsvetaeva/text/2778/p.1#p2 --- Кто уцелел — умрет кто мертв — воспрянет
+/author/tsvetaeva/text/2977/p.1#p8 --- Кто-то едет — к смертной победе
+/author/tsvetaeva/text/2977/p.1#p3 --- Купальщицами в легкий круг
+/author/tsvetaeva/text/2575/p.1 --- Курлык
+/author/tsvetaeva/text/3172/p.1 --- Куст
+/author/tsvetaeva/text/3040/p.1 --- Ладони (Справочник
+/author/tsvetaeva/text/3035/p.1#p2 --- Ла—донь в ладонь
+/author/tsvetaeva/text/2629/p.1 --- Легкомыслие — Милый грех
+/author/tsvetaeva/text/3191/p.1#p1 --- Ледяная тиара гор
+/author/tsvetaeva/text/3199/p.1#p11 --- Лес
+/author/tsvetaeva/text/3139/p.1 --- Лес сплошная маслобойня
+/author/tsvetaeva/text/2976/p.1 --- Леты подводный свет
+/author/tsvetaeva/text/2970/p.1 --- Леты слепотекущий всхлип
+/author/tsvetaeva/text/2596/p.1 --- Литературным прокурорам
+/author/tsvetaeva/text/2993/p.1#p1 --- Лицо без обличия
+/author/tsvetaeva/text/3062/p.1 --- Луна — лунатику
+/author/tsvetaeva/text/3098/p.1 --- Люблю — но мука еще жива
+/author/tsvetaeva/text/2724/p.33 --- Любовь Любовь И в судорогах и в гробе
+/author/tsvetaeva/text/2671/p.1 --- Люди на душу мою льстятся
+/author/tsvetaeva/text/2952/p.1 --- Лютая юдоль
+/author/tsvetaeva/text/3007/p.1 --- Лютня Безумица Каждый раз
+/author/tsvetaeva/text/3079/p.1 --- Магдалина
+/author/tsvetaeva/text/3054/p.1 --- Мало ада и мало рая
+/author/tsvetaeva/text/2576/p.1 --- „Мама милая не мучь же
+/author/tsvetaeva/text/2570/p.1 --- Маме
+/author/tsvetaeva/text/2850/p.1 --- Марина
+/author/tsvetaeva/text/2656/p.1 --- Марина
+/author/tsvetaeva/text/3199/p.1#p9 --- Март
+/author/tsvetaeva/text/2945/p.1 --- Масляница широка
+/author/tsvetaeva/text/3079/p.1#p2 --- Масти плоченные втрое
+/author/tsvetaeva/text/3072/p.1 --- Материнское — сквозь сон — ухо
+/author/tsvetaeva/text/2890/p.1 --- Маяковскому
+/author/tsvetaeva/text/3141/p.1 --- Маяковскому
+/author/tsvetaeva/text/3079/p.1#p1 --- Меж нами — десять заповедей
+/author/tsvetaeva/text/3077/p.1 --- Между нами — клинок двуострый
+/author/tsvetaeva/text/2724/p.3 --- Милые спутники делившие с нами ночлег
+/author/tsvetaeva/text/2933/p.1#p1 --- Мимо иди
+/author/tsvetaeva/text/2657/p.1#p3 --- Мимо ночных башен
+/author/tsvetaeva/text/3076/p.1 --- Минута
+/author/tsvetaeva/text/2724/p.1 --- Мировое началось во мгле кочевье
+/author/tsvetaeva/text/3215/p.1 --- Мне Францией — нету
+/author/tsvetaeva/text/3191/p.1#p3 --- Могла бы — взяла бы
+/author/tsvetaeva/text/2610/p.1#p10 --- Могу ли не вспоминать я
+/author/tsvetaeva/text/3164/p.1#p5 --- Мой письменный верный стол
+/author/tsvetaeva/text/2724/p.14 --- Мой путь не лежит мимо дому — твоего
+/author/tsvetaeva/text/2573/p.1 --- Молитва
+/author/tsvetaeva/text/2904/p.1 --- Молодость моя Моя чужая
+/author/tsvetaeva/text/3049/p.1#p2 --- Монистом расколотым
+/author/tsvetaeva/text/3058/p.1 --- Мореплаватель
+/author/tsvetaeva/text/2657/p.1#p8 --- Москва Какой огромный
+/author/tsvetaeva/text/2773/p.1 --- Москве
+/author/tsvetaeva/text/2919/p.1 --- Москве
+/author/tsvetaeva/text/2791/p.1 --- Московский герб герой пронзает гада
+/author/tsvetaeva/text/2794/p.1 --- Мракобесие — Смерч — Содом
+/author/tsvetaeva/text/2905/p.1 --- Муза
+/author/tsvetaeva/text/2600/p.1#p2 --- Мы — весенняя одежда
+/author/tsvetaeva/text/2600/p.1#p1 --- Мы быстры и наготове
+/author/tsvetaeva/text/2687/p.1#p8 --- На базаре кричал народ
+/author/tsvetaeva/text/2586/p.1 --- На возу
+/author/tsvetaeva/text/3057/p.1 --- — На дне она где ил
+/author/tsvetaeva/text/2937/p.1 --- На заре — наимедленнейшая кровь
+/author/tsvetaeva/text/2761/p.1 --- На кортике своем Марина
+/author/tsvetaeva/text/2651/p.1 --- На крыльцо выхожу — слушаю
+/author/tsvetaeva/text/3191/p.1#p4 --- На льдине
+/author/tsvetaeva/text/3060/p.1 --- На назначенное свиданье
+/author/tsvetaeva/text/2936/p.1 --- На пушок девичий нежный
+/author/tsvetaeva/text/3155/p.1 --- — На смарку твой стих
+/author/tsvetaeva/text/2724/p.21#p2 --- На тебе ласковый мой лохмотья
+/author/tsvetaeva/text/2846/p.1 --- На што мне облака и степи
+/author/tsvetaeva/text/2946/p.1 --- Наворковала
+/author/tsvetaeva/text/3158/p.1#p5 --- Над вороным утесом
+/author/tsvetaeva/text/2657/p.1#p5 --- Над городом отвергнутым Петром
+/author/tsvetaeva/text/2657/p.1#p6 --- Над синевою подмосковных рощ
+/author/tsvetaeva/text/2917/p.1 --- Над синеморскою лоханью
+/author/tsvetaeva/text/2876/p.1#p4 --- Над спящим юнцом — золотые шпоры
+/author/tsvetaeva/text/2762/p.1 --- Над церковкой — голубые облака
+/author/tsvetaeva/text/2804/p.1 --- Над черною пучиной водною
+/author/tsvetaeva/text/3175/p.1 --- Надгробие
+/author/tsvetaeva/text/2798/p.1 --- Надобно смело признаться Лира
+/author/tsvetaeva/text/2706/p.1#p2 --- Наездницы развалины псалмы
+/author/tsvetaeva/text/3072/p.1 --- Наклон
+/author/tsvetaeva/text/3191/p.1#p6 --- Наконец-то встретила
+/author/tsvetaeva/text/3199/p.1#p6 --- Налетевший на град Вацлава
+/author/tsvetaeva/text/3175/p.1#p2 --- Напрасно глазом — как гвоздем
+/author/tsvetaeva/text/3199/p.1#p14 --- Народ
+/author/tsvetaeva/text/2657/p.1#p4 --- Настанет день — печальный говорят
+/author/tsvetaeva/text/2763/p.1 --- Настежь настежь
+/author/tsvetaeva/text/3078/p.1 --- Наука Фомы
+/author/tsvetaeva/text/3199/p.1#p13 --- Не бесы — за иноком
+/author/tsvetaeva/text/2647/p.1 --- Не ветром ветреным — до — осени
+/author/tsvetaeva/text/3117/p.1#p1 --- Не возьмешь моего румянца
+/author/tsvetaeva/text/3117/p.1#p2 --- Не возьмешь мою душу живу
+/author/tsvetaeva/text/2941/p.1 --- Не здесь где связано
+/author/tsvetaeva/text/3219/p.1 --- Не знаю какая столица
+/author/tsvetaeva/text/2977/p.1#p6 --- Не краской не кистью
+/author/tsvetaeva/text/2711/p.1 --- Не моя печаль не моя забота
+/author/tsvetaeva/text/2999/p.1 --- Не надо ее окликать
+/author/tsvetaeva/text/2807/p.1#p1 --- Не от запертых на семь замков пекарен
+/author/tsvetaeva/text/2687/p.1#p6 --- Не отстать тебе Я — острожник
+/author/tsvetaeva/text/2926/p.1 --- Не похорошела за годы разлуки
+/author/tsvetaeva/text/2932/p.1 --- Не приземист — высокоросл
+/author/tsvetaeva/text/2828/p.1 --- Не проломанное ребро
+/author/tsvetaeva/text/3093/p.1 --- „Не расстанусь — Конца нет“ И льнет и льнет
+/author/tsvetaeva/text/2891/p.1#p4 --- Не растеклась еще
+/author/tsvetaeva/text/2924/p.1 --- Не ревновать и не клясть
+/author/tsvetaeva/text/2910/p.1#p1 --- Не с серебром пришла
+/author/tsvetaeva/text/2724/p.21#p1 --- Не самозванка — я пришла домой
+/author/tsvetaeva/text/2644/p.1 --- Не сегодня-завтра растает снег
+/author/tsvetaeva/text/3099/p.1#p2 --- Не суждено чтобы сильный с сильным
+/author/tsvetaeva/text/2785/p.1#p2 --- Не узнаю в темноте
+/author/tsvetaeva/text/3199/p.1#p15 --- Не умрешь народ
+/author/tsvetaeva/text/3143/p.1#p2 --- Не флотом не потом не задом
+/author/tsvetaeva/text/3016/p.1#p5 --- Не чернокнижница В белой книге
+/author/tsvetaeva/text/3094/p.1 --- Не штык — так клык так сугроб так шквал
+/author/tsvetaeva/text/3182/p.1 --- Небо — синей знамени
+/author/tsvetaeva/text/2940/p.1 --- Небо катило сугробы
+/author/tsvetaeva/text/2712/p.1 --- Нежно-нежно тонко-тонко
+/author/tsvetaeva/text/2677/p.1#p2 --- Нежный призрак
+/author/tsvetaeva/text/2960/p.1 --- Некоторым — не закон
+/author/tsvetaeva/text/3154/p.1 --- — Ненужен твой стих
+/author/tsvetaeva/text/2915/p.1 --- Необычайная она Сверх сил
+/author/tsvetaeva/text/2964/p.1 --- Неподражаемо лжет жизнь
+/author/tsvetaeva/text/3042/p.1#p3 --- Нет Вставший вал
+/author/tsvetaeva/text/3143/p.1#p7 --- Нет бил барабан перед смутным полком
+/author/tsvetaeva/text/3000/p.1 --- Нет правды не оспаривай
+/author/tsvetaeva/text/2905/p.1 --- Ни грамот ни праотцев
+/author/tsvetaeva/text/2891/p.1#p2 --- Ни тагана
+/author/tsvetaeva/text/3085/p.1#p2 --- Никогда не узнаешь что жгу что трачу
+/author/tsvetaeva/text/3180/p.1 --- Никому не отмстила и не отмщу
+/author/tsvetaeva/text/2639/p.1 --- Никто ничего не отнял
+/author/tsvetaeva/text/3157/p.1 --- Никуда не уехали — ты да я
+/author/tsvetaeva/text/2993/p.1#p2 --- Нищих и горлиц
+/author/tsvetaeva/text/2889/p.1 --- Но вал моей гордыни польской
+/author/tsvetaeva/text/2975/p.1 --- Но тесна вдвоем
+/author/tsvetaeva/text/2921/p.1 --- Новогодняя
+/author/tsvetaeva/text/2922/p.1 --- Новогодняя
+/author/tsvetaeva/text/2571/p.1 --- Новолунье
+/author/tsvetaeva/text/2963/p.1 --- Ночного гостя не застанешь
+/author/tsvetaeva/text/3092/p.1 --- Ночные места
+/author/tsvetaeva/text/2954/p.1 --- Ночные шепота шелка
+/author/tsvetaeva/text/2770/p.1 --- Ночь — Норд-Ост — Рев солдат — Рев волн
+/author/tsvetaeva/text/3055/p.1 --- Ночь
+/author/tsvetaeva/text/2610/p.1#p7 --- Ночью над кофейной гущей
+/author/tsvetaeva/text/2703/p.1 --- Нынче я гость небесный
+/author/tsvetaeva/text/2568/p.1 --- О весенние сны в дортуаре
+/author/tsvetaeva/text/2868/p.1#p7 --- О всеми ветрами
+/author/tsvetaeva/text/3027/p.1#p2 --- — О всеми голосами раковин
+/author/tsvetaeva/text/3199/p.1#p8 --- О дева всех румянее
+/author/tsvetaeva/text/2993/p.1#p3 --- О его не привяжете
+/author/tsvetaeva/text/2687/p.1#p1 --- О муза плача прекраснейшая из муз
+/author/tsvetaeva/text/3156/p.1 --- О неподатливый язык
+/author/tsvetaeva/text/2848/p.1 --- О первое солнце над первым лбом
+/author/tsvetaeva/text/3079/p.1#p3 --- О путях твоих пытать не буду
+/author/tsvetaeva/text/2784/p.1 --- О самозванцев жалкие усилья
+/author/tsvetaeva/text/3199/p.1#p12 --- О слезы на глазах
+/author/tsvetaeva/text/3089/p.1 --- О ты — из всех залинейных нот
+/author/tsvetaeva/text/2868/p.1#p2 --- О тяжесть удачи
+/author/tsvetaeva/text/2819/p.1 --- Об ушедших — отошедших
+/author/tsvetaeva/text/2673/p.1 --- Обвела мне глаза кольцом
+/author/tsvetaeva/text/3164/p.1#p4 --- Обидел и обошел
+/author/tsvetaeva/text/3042/p.1 --- Облака
+/author/tsvetaeva/text/2657/p.1#p1 --- Облака — вокруг
+/author/tsvetaeva/text/3191/p.1#p2 --- Обнимаю тебя кругозором
+/author/tsvetaeva/text/3085/p.1 --- Овраг
+/author/tsvetaeva/text/2883/p.1#p2 --- Огнепоклонник Красная масть
+/author/tsvetaeva/text/2834/p.1 --- Огромного воскрылья взмах
+/author/tsvetaeva/text/3151/p.1 --- Ода пешему ходу
+/author/tsvetaeva/text/3199/p.1#p4 --- Один офицер
+/author/tsvetaeva/text/2588/p.1 --- Ока
+/author/tsvetaeva/text/3052/p.1 --- Окно
+/author/tsvetaeva/text/3183/p.1 --- Окно раскрыло створки
+/author/tsvetaeva/text/3132/p.1 --- Око
+/author/tsvetaeva/text/3008/p.1 --- Оперением зим
+/author/tsvetaeva/text/3140/p.1 --- Оползающая глыба
+/author/tsvetaeva/text/2790/p.1 --- Орел и архангел Господень гром
+/author/tsvetaeva/text/3133/p.1 --- Оставленного зала тронного
+/author/tsvetaeva/text/3027/p.1#p1 --- Оставленной быть — это втравленной быть
+/author/tsvetaeva/text/3103/p.1 --- Остров
+/author/tsvetaeva/text/2902/p.1 --- От гнева в печени мечты во лбу
+/author/tsvetaeva/text/2950/p.1 --- От меня — к невемому
+/author/tsvetaeva/text/3137/p.1 --- От родимых сёл сёл
+/author/tsvetaeva/text/3130/p.1 --- От руки моей не взыгрывал
+/author/tsvetaeva/text/3003/p.1#p3 --- От стрел и от чар
+/author/tsvetaeva/text/2642/p.1 --- Откуда такая нежность
+/author/tsvetaeva/text/3088/p.1 --- Отлило — обдало — накатило
+/author/tsvetaeva/text/2636/p.1 --- Отмыкала ларец железный
+/author/tsvetaeva/text/2883/p.1 --- Отрок
+/author/tsvetaeva/text/3083/p.1 --- Отрывок
+/author/tsvetaeva/text/2889/p.1 --- Отрывок из стихов к Ахматовой
+/author/tsvetaeva/text/3184/p.1 --- Отцам
+/author/tsvetaeva/text/3010/p.1 --- Офелия — Гамлету
+/author/tsvetaeva/text/3011/p.1 --- Офелия — в защиту королевы
+/author/tsvetaeva/text/2822/p.1 --- Ох грибок ты мой грибочек белый груздь
+/author/tsvetaeva/text/2687/p.1#p2 --- Охватила голову и стою
+/author/tsvetaeva/text/2837/p.1#p4 --- Пало прениже волн
+/author/tsvetaeva/text/2807/p.1 --- Памяти А А Стаховича
+/author/tsvetaeva/text/2852/p.1 --- Памяти Т Ф Скрябиной
+/author/tsvetaeva/text/3039/p.1 --- Педаль
+/author/tsvetaeva/text/3106/p.1 --- Пела как стрелы и как морены
+/author/tsvetaeva/text/3134/p.1 --- Пела рана в груди у князя
+/author/tsvetaeva/text/3199/p.1#p6 --- Пепелище
+/author/tsvetaeva/text/2919/p.1 --- Первородство — на сиротство
+/author/tsvetaeva/text/3158/p.1#p4 --- — „Переименовать“ Приказ
+/author/tsvetaeva/text/3042/p.1#p1 --- Перерытые — как битвой
+/author/tsvetaeva/text/2938/p.1 --- Переселенцами
+/author/tsvetaeva/text/3143/p.1#p2 --- (Петр и Пушкин)
+/author/tsvetaeva/text/2817/p.1 --- Петру
+/author/tsvetaeva/text/2608/p.1 --- П〈етру〉 Э〈фрону〉
+/author/tsvetaeva/text/3191/p.1#p3 --- (Пещера)
+/author/tsvetaeva/text/3075/p.1 --- Письмо
+/author/tsvetaeva/text/2823/p.1 --- Плач Ярославны
+/author/tsvetaeva/text/3009/p.1 --- Плач цыганки по графу Зубову
+/author/tsvetaeva/text/2724/p.20 --- Плоти — плоть духу — дух
+/author/tsvetaeva/text/2771/p.1 --- Плохо сильным и богатым
+/author/tsvetaeva/text/3199/p.1#p7 --- По богемским городам
+/author/tsvetaeva/text/2721/p.1 --- По дорогам от мороза звонким
+/author/tsvetaeva/text/2958/p.1 --- По загарам — топор и плуг
+/author/tsvetaeva/text/2925/p.1 --- По нагориям
+/author/tsvetaeva/text/2837/p.1#p7 --- По холмам — круглым и смуглым
+/author/tsvetaeva/text/3096/p.1 --- Побег
+/author/tsvetaeva/text/2610/p.1#p12 --- Повторю в канун разлуки
+/author/tsvetaeva/text/2718/p.1 --- Погоди дружок
+/author/tsvetaeva/text/2876/p.1#p3 --- Под горем не горбясь
+/author/tsvetaeva/text/3096/p.1 --- Под занавесом дождя
+/author/tsvetaeva/text/2610/p.1#p2 --- Под лаской плюшевого пледа
+/author/tsvetaeva/text/2800/p.1 --- Под рокот гражданских бурь
+/author/tsvetaeva/text/3104/p.1 --- Под шалью
+/author/tsvetaeva/text/2610/p.1 --- Подруга
+/author/tsvetaeva/text/3093/p.1 --- Подруга
+/author/tsvetaeva/text/3094/p.1 --- Поезд жизни
+/author/tsvetaeva/text/2724/p.9 --- Пожирающий огонь — мой конь
+/author/tsvetaeva/text/2998/p.1 --- Покамест день не встал
+/author/tsvetaeva/text/3184/p.1#p2 --- Поколенью с сиренью
+/author/tsvetaeva/text/3189/p.1 --- Ползет подземный змей
+/author/tsvetaeva/text/2635/p.1 --- Полнолунье и мех медвежий
+/author/tsvetaeva/text/3199/p.1#p1 --- Полон и просторен
+/author/tsvetaeva/text/3115/p.1 --- Полотерская
+/author/tsvetaeva/text/2956/p.1 --- Помни закон
+/author/tsvetaeva/text/3107/p.1 --- Попытка ревности
+/author/tsvetaeva/text/3218/p.1 --- — Пора для этого огня
+/author/tsvetaeva/text/2637/p.1 --- Посадила яблоньку
+/author/tsvetaeva/text/2597/p.1 --- Посвящаю эти строки
+/author/tsvetaeva/text/3012/p.1#p2 --- Послание
+/author/tsvetaeva/text/2702/p.1 --- После бессонной ночи слабеет тело
+/author/tsvetaeva/text/3089/p.1 --- Последний моряк
+/author/tsvetaeva/text/2836/p.1 --- Последняя дружба
+/author/tsvetaeva/text/2928/p.1 --- Посмертный марш
+/author/tsvetaeva/text/2803/p.1 --- Поступью сановнически-гордой
+/author/tsvetaeva/text/3143/p.1#p6 --- Потусторонним
+/author/tsvetaeva/text/3030/p.1 --- Поэма заставы
+/author/tsvetaeva/text/3031/p.1#p1 --- Поэт — издалека заводит речь
+/author/tsvetaeva/text/3143/p.1#p5 --- (Поэт и царь)
+/author/tsvetaeva/text/3031/p.1 --- Поэты
+/author/tsvetaeva/text/3091/p.1 --- Пражский рыцарь
+/author/tsvetaeva/text/2890/p.1 --- Превыше крестов и труб
+/author/tsvetaeva/text/3143/p.1#p4 --- Преодоленье
+/author/tsvetaeva/text/2649/p.1 --- Приключилась с ним странная хворь
+/author/tsvetaeva/text/3112/p.1 --- Приметы
+/author/tsvetaeva/text/3011/p.1 --- Принц Гамлет Довольно червивую залежь
+/author/tsvetaeva/text/3016/p.1 --- Провода
+/author/tsvetaeva/text/3035/p.1#p3 --- Проводами продленная даль
+/author/tsvetaeva/text/2676/p.1 --- Продаю продаю продаю
+/author/tsvetaeva/text/3056/p.1 --- Прокрасться
+/author/tsvetaeva/text/3125/p.1 --- Променявши на стремя
+/author/tsvetaeva/text/3049/p.1#p1 --- Прорицаниями рокоча
+/author/tsvetaeva/text/2724/p.15 --- Проста моя осанка
+/author/tsvetaeva/text/2883/p.1#p3 --- Простоволосая Агарь — сижу
+/author/tsvetaeva/text/2724/p.21 --- Психея
+/author/tsvetaeva/text/2883/p.1#p1 --- Пустоты отроческих глаз Провалы
+/author/tsvetaeva/text/3016/p.1#p3 --- Пути
+/author/tsvetaeva/text/2920/p.1 --- Пуще чем женщина
+/author/tsvetaeva/text/2813/p.1 --- Пышно и бесстрастно вянут
+/author/tsvetaeva/text/2724/p.12 --- Развела тебе в стакане
+/author/tsvetaeva/text/2643/p.1 --- Разлетелось в серебряные дребезги
+/author/tsvetaeva/text/2857/p.1 --- Разлука
+/author/tsvetaeva/text/3073/p.1 --- Раковина
+/author/tsvetaeva/text/2948/p.1 --- Ранне-утреня
+/author/tsvetaeva/text/3061/p.1 --- Рано еще — не быть
+/author/tsvetaeva/text/3126/p.1 --- Рас—стояние версты мили
+/author/tsvetaeva/text/3067/p.1 --- Раскалена как смоль
+/author/tsvetaeva/text/3009/p.1 --- Расколюсь — так в стклянь
+/author/tsvetaeva/text/2998/p.1 --- Рассвет на рельсах
+/author/tsvetaeva/text/3059/p.1 --- Расщелина
+/author/tsvetaeva/text/3066/p.1 --- Рельсы
+/author/tsvetaeva/text/2868/p.1#p1 --- Ресницы ресницы
+/author/tsvetaeva/text/3156/p.1 --- Родина
+/author/tsvetaeva/text/2577/p.1 --- Рождественская дама
+/author/tsvetaeva/text/2857/p.1#p7 --- Ростком серебряным
+/author/tsvetaeva/text/2966/p.1 --- Руки — и в круг
+/author/tsvetaeva/text/2699/p.1 --- Руки даны мне — протягивать каждому обе
+/author/tsvetaeva/text/2724/p.25 --- Руки которые не нужны
+/author/tsvetaeva/text/2686/p.1 --- Руки люблю
+/author/tsvetaeva/text/3127/p.1 --- Русской ржи от меня поклон
+/author/tsvetaeva/text/3049/p.1 --- Ручьи
+/author/tsvetaeva/text/2724/p.27 --- Рыцарь ангелоподобный
+/author/tsvetaeva/text/2824/p.1 --- С Новым Годом Лебединый стан
+/author/tsvetaeva/text/2868/p.1#p5 --- С архангельской высоты седла
+/author/tsvetaeva/text/3016/p.1#p10 --- С другими — в розовые груды
+/author/tsvetaeva/text/2903/p.1 --- С такою силой в подбородок руку
+/author/tsvetaeva/text/3142/p.1 --- С фонарем обшарьте
+/author/tsvetaeva/text/3084/p.1 --- С этой горы как с крыши
+/author/tsvetaeva/text/2769/p.1 --- Сабли взмах
+/author/tsvetaeva/text/3174/p.1 --- Сад
+/author/tsvetaeva/text/3016/p.1#p4 --- Самовластная слобода
+/author/tsvetaeva/text/3065/p.1 --- Сахара
+/author/tsvetaeva/text/2610/p.1#p8 --- Свободно шея поднята
+/author/tsvetaeva/text/2710/p.1 --- Сегодня ночью я одна в ночи
+/author/tsvetaeva/text/2610/p.1#p3 --- Сегодня таяло сегодня
+/author/tsvetaeva/text/2610/p.1#p5 --- Сегодня часу в восьмом
+/author/tsvetaeva/text/2857/p.1#p6 --- Седой — не увидишь
+/author/tsvetaeva/text/2706/p.1#p1 --- Села я на подоконник ноги свесив
+/author/tsvetaeva/text/2896/p.1 --- Семеро семеро
+/author/tsvetaeva/text/2793/p.1 --- Семь мечей пронзали сердце
+/author/tsvetaeva/text/2657/p.1#p7 --- Семь холмов — как семь колоколов
+/author/tsvetaeva/text/2603/p.1 --- С〈ергею〉 Э〈фрону〉
+/author/tsvetaeva/text/2811/p.1 --- С〈ергею〉 Э〈фрону〉
+/author/tsvetaeva/text/2850/p.1#p3 --- — Сердце измена
+/author/tsvetaeva/text/2577/p.1 --- Серый ослик твой ступает прямо
+/author/tsvetaeva/text/3054/p.1 --- Сестра
+/author/tsvetaeva/text/2971/p.1 --- Сивилла
+/author/tsvetaeva/text/2971/p.1#p3 --- Сивилла — младенцу
+/author/tsvetaeva/text/2971/p.1#p1 --- Сивилла выжжена сивилла ствол
+/author/tsvetaeva/text/2630/p.1 --- Сини подмосковные холмы
+/author/tsvetaeva/text/2868/p.1#p3 --- Синие версты
+/author/tsvetaeva/text/3003/p.1 --- Скифские
+/author/tsvetaeva/text/3039/p.1 --- Сколь пронзительная столь же
+/author/tsvetaeva/text/2898/p.1#p3 --- Сколько их сколько их ест из рук
+/author/tsvetaeva/text/2687/p.1#p5 --- Сколько спутников и друзей
+/author/tsvetaeva/text/2906/p.1 --- Скоро уж из ласточек — в колдуньи
+/author/tsvetaeva/text/3191/p.1#p5 --- Скороговоркой — ручья водой
+/author/tsvetaeva/text/2867/p.1 --- Скрежещут якорные звенья
+/author/tsvetaeva/text/3136/p.1 --- Слава падает так как слива
+/author/tsvetaeva/text/2891/p.1#p3 --- Следок твой непытан
+/author/tsvetaeva/text/2931/p.1 --- Слезы — на лисе моей облезлой
+/author/tsvetaeva/text/2724/p.24 --- Слезы слезы — живая вода
+/author/tsvetaeva/text/3035/p.1 --- Слова и смыслы
+/author/tsvetaeva/text/2857/p.1#p4 --- Смуглой оливой
+/author/tsvetaeva/text/2640/p.1 --- Собирая любимых в путь
+/author/tsvetaeva/text/2837/p.1#p3 --- Солнце Вечера — добрее
+/author/tsvetaeva/text/2598/p.1 --- Солнцем жилки налиты — не кровью
+/author/tsvetaeva/text/2939/p.1 --- Сомкнутым строем
+/author/tsvetaeva/text/3109/p.1 --- Сон
+/author/tsvetaeva/text/2991/p.1 --- Спаси Господи дым
+/author/tsvetaeva/text/2832/p.1 --- Спит муки твоей — веселье
+/author/tsvetaeva/text/2587/p.1 --- Срок исполнен вожди На подмостки
+/author/tsvetaeva/text/2845/p.1 --- Стальная выправка хребта
+/author/tsvetaeva/text/3143/p.1#p3 --- (Станок)
+/author/tsvetaeva/text/3191/p.1 --- Стиxи сироте
+/author/tsvetaeva/text/2687/p.1 --- Стихи к Ахматовой
+/author/tsvetaeva/text/2677/p.1 --- Стихи к Блоку
+/author/tsvetaeva/text/3143/p.1 --- Стихи к Пушкину
+/author/tsvetaeva/text/3199/p.1 --- Стихи к Чехии
+/author/tsvetaeva/text/2657/p.1 --- Стихи о Москве
+/author/tsvetaeva/text/3042/p.1#p2 --- Стой Не Федры ли под небом
+/author/tsvetaeva/text/3164/p.1 --- Стол
+/author/tsvetaeva/text/2987/p.1#p1 --- Стоят в чернорабочей хмури
+/author/tsvetaeva/text/3142/p.1 --- Страна
+/author/tsvetaeva/text/3064/p.1 --- Строительница струн — приструню
+/author/tsvetaeva/text/2940/p.1 --- Сугробы
+/author/tsvetaeva/text/3122/p.1 --- Существования котловиною
+/author/tsvetaeva/text/2772/p.1 --- Сын казака казак
+/author/tsvetaeva/text/2977/p.1#p7 --- Та что без видения спала
+/author/tsvetaeva/text/3105/p.1 --- Так — только Елена глядит над кровлями
+/author/tsvetaeva/text/2831/p.1 --- Так Господи — И мой обол
+/author/tsvetaeva/text/2953/p.1 --- Так в скудном труженичестве дней
+/author/tsvetaeva/text/3046/p.1 --- Так вслушиваются
+/author/tsvetaeva/text/3046/p.1#p1 --- Так вслушиваются (в исток
+/author/tsvetaeva/text/2724/p.29 --- Так высоко запрокинув лоб
+/author/tsvetaeva/text/2914/p.1 --- Так говорю ибо дарован взгляд
+/author/tsvetaeva/text/2997/p.1 --- Так заживо раздав
+/author/tsvetaeva/text/3075/p.1 --- Так писем не ждут
+/author/tsvetaeva/text/2908/p.1 --- Так плыли голова и лира
+/author/tsvetaeva/text/3092/p.1 --- Темнейшее из ночных
+/author/tsvetaeva/text/3016/p.1#p8 --- Терпеливо как щебень бьют
+/author/tsvetaeva/text/2857/p.1#p5 --- Тихонько
+/author/tsvetaeva/text/2569/p.1 --- Тишь и зной везде синеют сливы
+/author/tsvetaeva/text/3158/p.1#p1 --- Товарищи как нравится
+/author/tsvetaeva/text/2595/p.1 --- Только девочка
+/author/tsvetaeva/text/2724/p.18 --- — Только живите — Я уронила руки
+/author/tsvetaeva/text/2724/p.2 --- Только закрою горячие веки
+/author/tsvetaeva/text/3171/p.1 --- Тоска по родине Давно
+/author/tsvetaeva/text/2922/p.1 --- Тот — вздохом взлелеянный
+/author/tsvetaeva/text/3112/p.1 --- Точно гору несла в подоле
+/author/tsvetaeva/text/2850/p.1#p2 --- Трем Самозванцам жена
+/author/tsvetaeva/text/2910/p.1#p2 --- Три царя
+/author/tsvetaeva/text/3164/p.1#p3 --- Тридцатая годовщина
+/author/tsvetaeva/text/2580/p.1 --- Тройственный союз
+/author/tsvetaeva/text/2783/p.1 --- Трудно и чудно — верность до гроба
+/author/tsvetaeva/text/2898/p.1#p2 --- Тщетно в ветвях заповедных кроясь
+/author/tsvetaeva/text/2802/p.1 --- Ты дал нам мужества
+/author/tsvetaeva/text/2641/p.1 --- Ты запрокидываешь голову
+/author/tsvetaeva/text/2626/p.1 --- Ты миру отдана на травлю
+/author/tsvetaeva/text/3035/p.1#p1 --- Ты обо мне не думай никогда
+/author/tsvetaeva/text/2677/p.1#p3 --- Ты проходишь на запад солнца
+/author/tsvetaeva/text/2610/p.1#p9 --- Ты проходишь своей дорогою
+/author/tsvetaeva/text/2687/p.1#p11 --- Ты солнце в выси мне застишь
+/author/tsvetaeva/text/2687/p.1#p7 --- Ты срывающая покров
+/author/tsvetaeva/text/2677/p.1#p5 --- У меня в Москве — купола горят
+/author/tsvetaeva/text/2580/p.1 --- У нас за робостью лица
+/author/tsvetaeva/text/2687/p.1#p10 --- У тонкой проволоки над волной овсов
+/author/tsvetaeva/text/3187/p.1 --- Ударило в виноградник
+/author/tsvetaeva/text/2968/p.1 --- Удостоверишься — повремени
+/author/tsvetaeva/text/3173/p.1 --- Уединение уйди
+/author/tsvetaeva/text/3179/p.1 --- Уж если кораллы на шее
+/author/tsvetaeva/text/2898/p.1#p1 --- Уже богов — не те уже щедроты
+/author/tsvetaeva/text/2628/p.1 --- Узкий нерусский стан
+/author/tsvetaeva/text/2584/p.1 --- Улыбнись в мое „окно“
+/author/tsvetaeva/text/2857/p.1#p2 --- Уроненные так давно
+/author/tsvetaeva/text/2650/p.1 --- Устилают — мои — сени
+/author/tsvetaeva/text/2578/p.1 --- Утро По утрам мы
+/author/tsvetaeva/text/2837/p.1 --- Ученик
+/author/tsvetaeva/text/3217/p.1 --- Ушел — не ем
+/author/tsvetaeva/text/3012/p.1 --- Федра
+/author/tsvetaeva/text/3132/p.1 --- Фонари горящие газом
+/author/tsvetaeva/text/2891/p.1 --- Ханский полон
+/author/tsvetaeva/text/2891/p.1#p1 --- Ханский полон
+/author/tsvetaeva/text/2898/p.1 --- Хвала Афродите
+/author/tsvetaeva/text/2992/p.1 --- Хвала богатым
+/author/tsvetaeva/text/3053/p.1 --- Хвала времени
+/author/tsvetaeva/text/2583/p.1 --- Хоть в вагоне темном и неловко
+/author/tsvetaeva/text/2816/p.1 --- Хоть сто мозолей — трех веков не скроешь
+/author/tsvetaeva/text/2811/p.1 --- Хочешь знать как дни проходят
+/author/tsvetaeva/text/2610/p.1#p14 --- Хочу у зеркала где муть
+/author/tsvetaeva/text/2573/p.1 --- Христос и Бог Я жажду чуда
+/author/tsvetaeva/text/2806/p.1 --- Царь и Бог Простите малым
+/author/tsvetaeva/text/2763/p.1 --- Царю — на Пасху
+/author/tsvetaeva/text/2633/p.1 --- Цветок к груди приколот
+/author/tsvetaeva/text/2724/p.16 --- Целовалась с нищим с вором с горбачом
+/author/tsvetaeva/text/2717/p.1 --- Целую червонные листья и сонные рты
+/author/tsvetaeva/text/2724/p.6 --- Цыганская свадьба
+/author/tsvetaeva/text/3068/p.1 --- Час души
+/author/tsvetaeva/text/3016/p.1#p6 --- Час когда вверху цари
+/author/tsvetaeva/text/3055/p.1 --- Час обнажающихся верховий
+/author/tsvetaeva/text/2835/p.1 --- Чем заслужить тебе и чем воздать
+/author/tsvetaeva/text/3059/p.1 --- Чем окончился этот случай
+/author/tsvetaeva/text/2713/p.1 --- Черная как зрачок как зрачок сосущая
+/author/tsvetaeva/text/2654/p.1 --- Четвертый год
+/author/tsvetaeva/text/3199/p.1#p4 --- Чешский лесок
+/author/tsvetaeva/text/3189/p.1 --- Читатели газет
+/author/tsvetaeva/text/3123/p.1 --- Что Муза моя Жива ли еще
+/author/tsvetaeva/text/2724/p.30 --- Что другим не нужно — несите мне
+/author/tsvetaeva/text/3031/p.1#p3 --- Что же мне делать слепцу и пасынку
+/author/tsvetaeva/text/2586/p.1 --- Что за жалобная нота
+/author/tsvetaeva/text/3172/p.1 --- Что нужно кусту от меня
+/author/tsvetaeva/text/3016/p.1#p2 --- Чтоб высказать тебе да нет в ряды
+/author/tsvetaeva/text/3141/p.1 --- Чтобы край земной не вымер
+/author/tsvetaeva/text/2724/p.11 --- Чтобы помнил не часочек не годок
+/author/tsvetaeva/text/2585/p.1 --- Чуть полночь бьют куранты
+/author/tsvetaeva/text/2765/p.1 --- Чуть светает
+/author/tsvetaeva/text/2942/p.1 --- Широкое ложе для всех моих рек
+/author/tsvetaeva/text/3015/p.1 --- Эвридика — Орфею
+/author/tsvetaeva/text/3001/p.1 --- Эмигрант
+/author/tsvetaeva/text/2990/p.1 --- Это пеплы сокровищ
+/author/tsvetaeva/text/2789/p.1 --- Это просто как кровь и пот
+/author/tsvetaeva/text/2769/p.1 --- Юнкерам убитым в Нижнем
+/author/tsvetaeva/text/3138/p.1 --- Юноше в уста
+/author/tsvetaeva/text/2606/p.1 --- Я думаю об утре Вашей славы
+/author/tsvetaeva/text/2857/p.1#p8 --- Я знаю я знаю
+/author/tsvetaeva/text/2579/p.1 --- Я люблю такие игры
+/author/tsvetaeva/text/2675/p.1 --- Я пришла к тебе черной полночью
+/author/tsvetaeva/text/2724/p.8 --- Я расскажу тебе — про великий обман
+/author/tsvetaeva/text/2724/p.31 --- Я счастлива жить образцово и просто
+/author/tsvetaeva/text/2595/p.1 --- Я только девочка Мой долг
+/author/tsvetaeva/text/2814/p.1 --- Я эту книгу поручаю ветру
+/author/tsvetaeva/text/3113/p.1 --- Ятаган Огонь

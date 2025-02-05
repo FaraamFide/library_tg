@@ -1,0 +1,18 @@
+/author/ostrovski/theme.1 --- О любви
+/author/ostrovski/form.9 --- Пьесы
+/author/ostrovski/form.13 --- Сказки
+/author/ostrovski/form.19 --- Комедии
+/author/ostrovski/text/2400/p.1 --- Бедность не порок
+/author/ostrovski/text/1202/p.1 --- Бесприданница
+/author/ostrovski/text/1644/p.1 --- Волки и овцы
+/author/ostrovski/text/994/p.1 --- Гроза
+/author/ostrovski/extract/19 --- Да здесь все как будто из-под неволи
+/author/ostrovski/extract/22 --- Жестокие нравы сударь в нашем городе
+/author/ostrovski/extract/20 --- Куда теперь Домой идти
+/author/ostrovski/extract/19 --- Монолог Катерины
+/author/ostrovski/extract/20 --- Монолог Катерины
+/author/ostrovski/extract/18 --- Монолог Катерины
+/author/ostrovski/extract/22 --- Монолог Кулигина
+/author/ostrovski/extract/18 --- Отчего люди не летают
+/author/ostrovski/text/2399/p.1 --- Свои люди — сочтемся
+/author/ostrovski/text/1200/p.1 --- Снегурочка

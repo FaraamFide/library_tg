@@ -1,0 +1,34 @@
+/author/kuprin/theme.3 --- О животных
+/author/kuprin/form.2 --- Повести
+/author/kuprin/form.8 --- Рассказы
+/author/kuprin/text/4262/p.1 --- Allez
+/author/kuprin/text/4260/p.1 --- Барбос и Жулька
+/author/kuprin/text/1545/p.1 --- Белый пудель
+/author/kuprin/text/1525/p.1 --- Болото
+/author/kuprin/text/4263/p.1 --- Брегет
+/author/kuprin/text/1484/p.1 --- Гамбринус
+/author/kuprin/text/1022/p.1 --- Гранатовый браслет
+/author/kuprin/text/4261/p.1 --- Детский сад
+/author/kuprin/text/4257/p.1 --- Звезда Соломона
+/author/kuprin/text/4258/p.1 --- Золотой петух
+/author/kuprin/text/1762/p.1 --- Изумруд
+/author/kuprin/text/1848/p.1 --- Куст сирени
+/author/kuprin/text/1377/p.1 --- Молох
+/author/kuprin/text/1757/p.1 --- На переломе
+/author/kuprin/text/4265/p.1 --- Одиночество
+/author/kuprin/text/1180/p.1 --- Олеся
+/author/kuprin/text/1758/p.1 --- Осенние цветы
+/author/kuprin/text/1201/p.1 --- Поединок
+/author/kuprin/text/4266/p.1 --- Последний дебют
+/author/kuprin/text/4264/p.1 --- Путаница
+/author/kuprin/text/4256/p.1 --- Сапсан
+/author/kuprin/text/4259/p.1 --- Синяя звезда
+/author/kuprin/text/4268/p.1 --- Сказка
+/author/kuprin/text/4254/p.1 --- Скворцы
+/author/kuprin/text/3222/p.1 --- Слон
+/author/kuprin/text/4267/p.1 --- Собачье счастье
+/author/kuprin/text/1023/p.1 --- Суламифь
+/author/kuprin/text/1760/p.1 --- Тапер
+/author/kuprin/text/1759/p.1 --- Чудесный доктор
+/author/kuprin/text/4255/p.1 --- Ю-ю
+/author/kuprin/text/1336/p.1 --- Яма

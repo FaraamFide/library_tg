@@ -1,0 +1,13 @@
+/author/griboedov/form.9 --- Пьесы
+/author/griboedov/extract/1 --- А судьи кто — За древностию лет
+/author/griboedov/extract/16 --- Вкус батюшка отменная манера
+/author/griboedov/extract/17 --- Вот то-то все вы гордецы
+/author/griboedov/text/5/p.1 --- Горе от ума
+/author/griboedov/extract/14 --- И точно начал свет глупеть
+/author/griboedov/extract/16 --- Монолог Фамусова
+/author/griboedov/extract/17 --- Монолог Фамусова
+/author/griboedov/extract/2 --- Монолог Фамусова
+/author/griboedov/extract/1 --- Монолог Чацкого
+/author/griboedov/extract/14 --- Монолог Чацкого
+/author/griboedov/extract/15 --- Монолог Чацкого
+/author/griboedov/extract/2 --- Петрушка вечно ты с обновкой

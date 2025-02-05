@@ -1,0 +1,4 @@
+/author/goncharov/form.1 --- Романы
+/author/goncharov/form.3 --- Статьи
+/author/goncharov/text/1075/p.1 --- Мильон терзаний
+/author/goncharov/text/475/p.1 --- Обломов

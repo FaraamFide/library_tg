@@ -1,0 +1,7 @@
+/author/korolenko/theme.2 --- О детях
+/author/korolenko/form.2 --- Повести
+/author/korolenko/form.7 --- Очерки
+/author/korolenko/form.8 --- Рассказы
+/author/korolenko/text/1764/p.1 --- В дурном обществе
+/author/korolenko/text/1761/p.1 --- Парадокс
+/author/korolenko/text/2402/p.1 --- Слепой музыкант

@@ -1,0 +1,44 @@
+/author/dostoevski/theme.1 --- О любви
+/author/dostoevski/theme.10 --- Юмористические
+/author/dostoevski/theme.18 --- Сатирические
+/author/dostoevski/form.1 --- Романы
+/author/dostoevski/form.2 --- Повести
+/author/dostoevski/form.3 --- Статьи
+/author/dostoevski/form.7 --- Очерки
+/author/dostoevski/form.8 --- Рассказы
+/author/dostoevski/form.11 --- Фельетоны
+/author/dostoevski/text/17/p.1 --- Бедные люди
+/author/dostoevski/text/29/p.1 --- Белые ночи
+/author/dostoevski/text/1544/p.1 --- Бесы
+/author/dostoevski/text/1199/p.1 --- Братья Карамазовы
+/author/dostoevski/text/1720/p.1 --- Вечный муж
+/author/dostoevski/text/20/p.1 --- Господин Прохарчин
+/author/dostoevski/text/3/p.1 --- Два самоубийства
+/author/dostoevski/text/18/p.1 --- Двойник
+/author/dostoevski/text/44/p.1 --- Дядюшкин сон
+/author/dostoevski/text/28/p.1 --- Елка и свадьба
+/author/dostoevski/text/61/p.1 --- Записки из Мертвого дома
+/author/dostoevski/text/9/p.1 --- Записки из подполья
+/author/dostoevski/text/66/p.1 --- Зимние заметки о летних впечатлениях
+/author/dostoevski/text/67/p.1 --- Игрок
+/author/dostoevski/text/94/p.1 --- Идиот
+/author/dostoevski/text/68/p.1 --- Крокодил
+/author/dostoevski/text/1/p.1 --- Кроткая
+/author/dostoevski/text/31/p.1 --- Маленький герой
+/author/dostoevski/text/4206/p.1 --- Мальчик у Христа на елке
+/author/dostoevski/text/30/p.1 --- Неточка Незванова
+/author/dostoevski/text/23/p.1 --- Петербургская летопись
+/author/dostoevski/text/62/p.1 --- Петербургские сновидения в стихах и в прозе
+/author/dostoevski/text/24/p.1 --- Ползунков
+/author/dostoevski/text/69/p.1 --- Преступление и наказание
+/author/dostoevski/text/4/p.1 --- Приговор
+/author/dostoevski/text/22/p.1 --- Приложение Как опасно предаваться честолюбивым снам
+/author/dostoevski/text/19/p.1 --- Роман в девяти письмах
+/author/dostoevski/text/60/p.1 --- Село Степанчиково и его обитатели
+/author/dostoevski/text/65/p.1 --- Скверный анекдот
+/author/dostoevski/text/25/p.1 --- Слабое сердце
+/author/dostoevski/text/4207/p.1 --- Сон смешного человека
+/author/dostoevski/text/64/p.1 --- Униженные и оскорбленные
+/author/dostoevski/text/21/p.1 --- Хозяйка
+/author/dostoevski/text/27/p.1 --- Честный вор
+/author/dostoevski/text/26/p.1 --- Чужая жена и муж под кроватью

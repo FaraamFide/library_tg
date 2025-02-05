@@ -1,0 +1,280 @@
+/author/esenin/theme.1 --- О любви
+/author/esenin/theme.3 --- О животных
+/author/esenin/theme.5 --- Об осени
+/author/esenin/theme.8 --- О зиме
+/author/esenin/theme.12 --- О родине
+/author/esenin/theme.15 --- О России
+/author/esenin/theme.16 --- О матери
+/author/esenin/theme.19 --- О жизни
+/author/esenin/theme.25 --- О деревне
+/author/esenin/theme.26 --- Об искусстве
+/author/esenin/form.3 --- Статьи
+/author/esenin/form.5 --- Стихотворения
+/author/esenin/form.6 --- Поэмы
+/author/esenin/text/3995/p.1 --- Алый мрак в небесной черни
+/author/esenin/text/1295/p.1 --- Анна Снегина
+/author/esenin/text/3996/p.1 --- Бабушкины сказки
+/author/esenin/text/4038/p.1 --- Без шапки с лыковой котомкой
+/author/esenin/text/1297/p.1 --- Белая береза
+/author/esenin/text/4006/p.1 --- Белая свитка и алый кушак
+/author/esenin/text/3967/p.1 --- Бельгия
+/author/esenin/text/1297/p.1 --- Береза
+/author/esenin/text/3963/p.1 --- Богатырский посвист
+/author/esenin/text/4079/p.1 --- Будто жизнь на страданья моя обречёна
+/author/esenin/text/4033/p.1 --- В зеленой церкви за горой
+/author/esenin/text/3996/p.1 --- В зимний вечер по задворкам
+/author/esenin/text/3998/p.1 --- В лунном кружеве украдкой
+/author/esenin/text/4041/p.1 --- В прозрачном холоде заголубели долы
+/author/esenin/text/4090/p.1 --- В синих далях плоскогорий
+/author/esenin/text/4039/p.1 --- В темной роще на зеленых елях
+/author/esenin/text/4010/p.1 --- В том краю где желтая крапива
+/author/esenin/text/1653/p.1 --- В хате
+/author/esenin/text/3988/p.1 --- В цветах любви весна-царевна
+/author/esenin/text/3956/p.1 --- В шапке облачного скола
+/author/esenin/text/4089/p.1 --- В этой могиле под скромными ивами
+/author/esenin/text/3965/p.1 --- В этот лес завороженный
+/author/esenin/text/4031/p.1 --- Весна на радость не похожа
+/author/esenin/text/4017/p.1 --- Вечер как сажа
+/author/esenin/text/4078/p.1 --- Воспоминание
+/author/esenin/text/4082/p.1 --- Восход солнца
+/author/esenin/text/4087/p.1 --- Восход солнца
+/author/esenin/text/3942/p.1 --- Вот уж вечер Роса
+/author/esenin/text/4084/p.1 --- Вот уж осень улетела
+/author/esenin/text/1291/p.1 --- Вы помните
+/author/esenin/text/3946/p.1 --- Выткался на озере алый свет зари
+/author/esenin/text/4021/p.1 --- Вышел зараня дед
+/author/esenin/text/4043/p.1 --- Гаснут красные крылья заката
+/author/esenin/text/4028/p.1 --- Глаза — как выцветший лопух
+/author/esenin/text/4065/p.1 --- Гляну в поле гляну в небо
+/author/esenin/text/1298/p.1 --- Гой ты Русь моя родная
+/author/esenin/text/4041/p.1 --- Голубень
+/author/esenin/text/4088/p.1 --- Грустно Душевные муки
+/author/esenin/text/3963/p.1 --- Грянул гром Чашка неба расколота
+/author/esenin/text/4131/p.1 --- Да Теперь решено Без возврата
+/author/esenin/text/1293/p.1 --- Дай Джим на счастье лапу мне
+/author/esenin/text/4034/p.1 --- Даль подернулась туманом
+/author/esenin/text/3992/p.1 --- Девичник
+/author/esenin/text/3966/p.1 --- Девушка в светлице вышивает ткани
+/author/esenin/text/4005/p.1 --- Дед
+/author/esenin/text/4042/p.1 --- День ушел убавилась черта
+/author/esenin/text/4152/p.1 --- До свиданья друг мой до свиданья
+/author/esenin/text/1650/p.1 --- Дождик мокрыми метлами чистит
+/author/esenin/text/1296/p.1 --- Друг мой друг мой
+/author/esenin/text/4011/p.1 --- Дряхлая выпали зубы
+/author/esenin/text/3960/p.1 --- Душно в кузнице угрюмой
+/author/esenin/text/3947/p.1 --- Дымом половодье
+/author/esenin/text/4090/p.1 --- Егорий
+/author/esenin/text/3957/p.1 --- Еду Тихо Слышны звоны
+/author/esenin/text/4128/p.1 --- Есть в дружбе счастье оголтелое
+/author/esenin/text/4061/p.1 --- Есть светлая радость под сенью кустов
+/author/esenin/text/4032/p.1 --- Еще не высох дождь вчерашний
+/author/esenin/text/4029/p.1 --- За горами за желтыми долами
+/author/esenin/text/4078/p.1 --- За окном у ворот
+/author/esenin/text/4020/p.1 --- За рекой горят огни
+/author/esenin/text/4015/p.1 --- За темной прядью перелесиц
+/author/esenin/text/3985/p.1 --- За ухабины степные
+/author/esenin/text/3981/p.1 --- Заглушила засуха засевки
+/author/esenin/text/4082/p.1 --- Загорелась зорька красная
+/author/esenin/text/3961/p.1 --- Задремали звезды золотые
+/author/esenin/text/3955/p.1 --- Задымился вечер дремлет кот на брусе
+/author/esenin/text/3953/p.1 --- Заиграй сыграй тальяночка малиновы меха
+/author/esenin/text/4027/p.1 --- Закружилась пряжа снежистого льна
+/author/esenin/text/4153/p.1 --- Заметался пожар голубой
+/author/esenin/text/4037/p.1 --- Запели тесаные дроги
+/author/esenin/text/4068/p.1 --- Заря над полем — как красный тын
+/author/esenin/text/4004/p.1 --- Заслонили ветлы сиротливо
+/author/esenin/text/3969/p.1 --- Зашумели над затоном тростники
+/author/esenin/text/4077/p.1 --- Звездочки ясные звезды высокие
+/author/esenin/text/4084/p.1 --- Зима
+/author/esenin/text/4075/p.1 --- И Д Рудинскому
+/author/esenin/text/4057/p.1 --- Из-за леса леса темного
+/author/esenin/text/1651/p.1 --- Исповедь хулигана
+/author/esenin/text/4036/p.1 --- Исус-младенец
+/author/esenin/text/4083/p.1 --- К покойнику
+/author/esenin/text/4058/p.1 --- К теплому свету на отчий порог
+/author/esenin/text/4137/p.1 --- Какая ночь Я не могу
+/author/esenin/text/3949/p.1 --- Калики
+/author/esenin/text/4087/p.1 --- Капли жемчужные капли прекрасные
+/author/esenin/text/1656/p.1 --- Клен ты мой опавший клен заледенелый
+/author/esenin/text/1300/p.1 --- Ключи Марии
+/author/esenin/text/4002/p.1 --- Колдунья
+/author/esenin/text/3959/p.1 --- Колокол дремавший
+/author/esenin/text/4056/p.1 --- Колокольчик среброзвонный
+/author/esenin/text/4011/p.1 --- Корова
+/author/esenin/text/4002/p.1 --- Косы растрепаны страшная белая
+/author/esenin/text/3971/p.1 --- Край любимый Сердцу снятся
+/author/esenin/text/3980/p.1 --- Край ты мой заброшенный
+/author/esenin/text/4141/p.1 --- Кто я Что я Только лишь мечтатель
+/author/esenin/text/3960/p.1 --- Кузнец
+/author/esenin/text/4057/p.1 --- Лебедушка
+/author/esenin/text/4024/p.1 --- Лисица
+/author/esenin/text/4074/p.1 --- Марфа Посадница
+/author/esenin/text/3954/p.1 --- Матушка в Купальницу по лесу ходила
+/author/esenin/text/3964/p.1 --- Маша — круглая сиротка
+/author/esenin/text/4151/p.1 --- Мелколесье Степь и дали
+/author/esenin/text/4030/p.1 --- Месяц рогом облако бодает
+/author/esenin/text/4039/p.1 --- Мечта
+/author/esenin/text/1289/p.1 --- Мечтая о могучем даре
+/author/esenin/text/3956/p.1 --- Микола
+/author/esenin/text/4155/p.1 --- Мне грустно на тебя смотреть
+/author/esenin/text/4154/p.1 --- Мне осталась одна забава
+/author/esenin/text/4140/p.1 --- Может поздно может слишком рано
+/author/esenin/text/3962/p.1 --- Молитва матери
+/author/esenin/text/4021/p.1 --- Молотьба
+/author/esenin/text/4079/p.1 --- Моя жизнь
+/author/esenin/text/4147/p.1 --- Мы многое еще не сознаем
+/author/esenin/text/4136/p.1 --- Мы теперь уходим понемногу
+/author/esenin/text/3962/p.1 --- На краю деревни старая избушка
+/author/esenin/text/3993/p.1 --- На лазоревые ткани
+/author/esenin/text/4009/p.1 --- На плетнях висят баранки
+/author/esenin/text/4024/p.1 --- На раздробленной ноге приковыляла
+/author/esenin/text/4149/p.1 --- Над окошком месяц Под окошком ветер
+/author/esenin/text/4007/p.1 --- Наша вера не погасла
+/author/esenin/text/3968/p.1 --- Не белы снега по-над Доном
+/author/esenin/text/4016/p.1 --- Не бродить не мять в кустах багряных
+/author/esenin/text/4026/p.1 --- Не в моего ты бога верила
+/author/esenin/text/4080/p.1 --- Не вернуть мне ту ночку прохладную
+/author/esenin/text/3974/p.1 --- Не ветры осыпают пущи
+/author/esenin/text/4138/p.1 --- Не гляди на меня с упреком
+/author/esenin/text/1649/p.1 --- Не жалею не зову не плачу
+/author/esenin/text/1651/p.1 --- Не каждый умеет петь
+/author/esenin/text/4066/p.1 --- Не напрасно дули ветры
+/author/esenin/text/4063/p.1 --- Не от холода рябинушка дрожит
+/author/esenin/text/4129/p.1 --- Не ругайтесь Такое дело
+/author/esenin/text/4071/p.1 --- Небо ли такое белое
+/author/esenin/text/4035/p.1 --- Небо сметаной обмазано
+/author/esenin/text/1655/p.1 --- Неуютная жидкая лунность
+/author/esenin/text/4144/p.1 --- Нивы сжаты рощи голы
+/author/esenin/text/4146/p.1 --- Низкий дом с голубыми ставнями
+/author/esenin/text/4028/p.1 --- Нищий с паперти
+/author/esenin/text/4081/p.1 --- Ночь
+/author/esenin/text/4055/p.1 --- Нощь и поле и крик петухов
+/author/esenin/text/4069/p.1 --- О Русь взмахни крылами
+/author/esenin/text/3990/p.1 --- О дитя я долго плакал над судьбой твоей
+/author/esenin/text/4067/p.1 --- О край дождей и непогоды
+/author/esenin/text/4044/p.1 --- О красном вечере задумалась дорога
+/author/esenin/text/4046/p.1 --- О товарищах веселых
+/author/esenin/text/4014/p.1 --- Облак как мышь
+/author/esenin/text/3986/p.1 --- Ой мне дома не сидится
+/author/esenin/text/4064/p.1 --- Октоих
+/author/esenin/text/4076/p.1 --- Он бледен Мыслит страшный путь
+/author/esenin/text/4059/p.1 --- Он был сыном простого рабочего
+/author/esenin/text/4040/p.1 --- Опять раскинулся узорно
+/author/esenin/text/1299/p.1 --- Осень
+/author/esenin/text/1290/p.1 --- Отговорила роща золотая
+/author/esenin/text/4062/p.1 --- Отчарь
+/author/esenin/text/1653/p.1 --- Пахнет рыхлыми дроченами
+/author/esenin/text/4060/p.1 --- Певущий зов
+/author/esenin/text/4073/p.1 --- Песнь о Евпатии Коловрате
+/author/esenin/text/1652/p.1 --- Песнь о собаке
+/author/esenin/text/4085/p.1 --- Песня старика разбойника
+/author/esenin/text/1291/p.1 --- Письмо к женщине
+/author/esenin/text/1288/p.1 --- Письмо матери
+/author/esenin/text/3991/p.1 --- Плачет девочка-малютка у окна больших хором
+/author/esenin/text/3997/p.1 --- Плясунья
+/author/esenin/text/3979/p.1 --- По дороге идут богомолки
+/author/esenin/text/4019/p.1 --- По лесу леший кричит на сову
+/author/esenin/text/3975/p.1 --- По селу тропинкой кривенькой
+/author/esenin/text/3967/p.1 --- Побеждена но не рабыня
+/author/esenin/text/3991/p.1 --- Побирушка
+/author/esenin/text/3950/p.1 --- Под венком лесной ромашки
+/author/esenin/text/4012/p.1 --- Под красным вязом крыльцо и двор
+/author/esenin/text/3945/p.1 --- Подражанье песне
+/author/esenin/text/3944/p.1 --- Поет зима — аукает
+/author/esenin/text/4134/p.1 --- Пой же пой На проклятой гитаре
+/author/esenin/text/3972/p.1 --- Пойду в скуфье смиренным иноком
+/author/esenin/text/4048/p.1 --- Покраснела рябина
+/author/esenin/text/4004/p.1 --- Поминки
+/author/esenin/text/3957/p.1 --- Пороша
+/author/esenin/text/3984/p.1 --- Потонула деревня в ухабинах
+/author/esenin/text/4076/p.1 --- Поэт
+/author/esenin/text/4086/p.1 --- Поэт
+/author/esenin/text/4014/p.1 --- Пропавший месяц
+/author/esenin/text/4053/p.1 --- Проплясал проплакал дождь весенний
+/author/esenin/text/3949/p.1 --- Проходили калики деревнями
+/author/esenin/text/4047/p.1 --- Прощай родная пуща
+/author/esenin/text/4128/p.1 --- Прощание с Мариенгофом
+/author/esenin/text/4018/p.1 --- Прячет месяц за овинами
+/author/esenin/text/4127/p.1 --- Пугачев
+/author/esenin/text/1289/p.1 --- Пушкину
+/author/esenin/text/4060/p.1 --- Радуйтесь
+/author/esenin/text/4072/p.1 --- Разбойник
+/author/esenin/text/4070/p.1 --- Разбуди меня завтра рано
+/author/esenin/text/4003/p.1 --- Русалка под новый год
+/author/esenin/text/3984/p.1 --- Русь
+/author/esenin/text/4148/p.1 --- Русь бесприютная
+/author/esenin/text/1654/p.1 --- Русь советская
+/author/esenin/text/4147/p.1 --- Русь уходящая
+/author/esenin/text/3961/p.1 --- С добрым утром
+/author/esenin/text/3958/p.1 --- Село В душе моей покой
+/author/esenin/text/4045/p.1 --- Синее небо цветная дуга
+/author/esenin/text/3964/p.1 --- Сиротка
+/author/esenin/text/4025/p.1 --- Скупались звезды в невидимом бреде
+/author/esenin/text/4054/p.1 --- Снег словно мед ноздреватый
+/author/esenin/text/4132/p.1 --- Снова пьют здесь дерутся и плачут
+/author/esenin/text/1293/p.1 --- Собаке Качалова
+/author/esenin/text/4036/p.1 --- Собрала пречистая
+/author/esenin/text/4075/p.1 --- Солнца луч золотой
+/author/esenin/text/3987/p.1 --- Сонет
+/author/esenin/text/4143/p.1 --- Сорокоуст
+/author/esenin/text/3977/p.1 --- Сохнет стаявшая глина
+/author/esenin/text/1294/p.1 --- Спит ковыль Равнина дорогая
+/author/esenin/text/3999/p.1 --- Сторона ль моя сторонка
+/author/esenin/text/4038/p.1 --- Странник
+/author/esenin/text/4072/p.1 --- Стухнут звезды стухнет месяц
+/author/esenin/text/4005/p.1 --- Сухлым войлоком по стежкам
+/author/esenin/text/3948/p.1 --- Сыплет черемуха снегом
+/author/esenin/text/4133/p.1 --- Сыпь гармоника Скука Скука
+/author/esenin/text/4050/p.1 --- Там где вечно дремлет тайна
+/author/esenin/text/3943/p.1 --- Там где капустные грядки
+/author/esenin/text/4049/p.1 --- Твой глас незримый как дым в избе
+/author/esenin/text/4000/p.1 --- Тебе одной плету венок
+/author/esenin/text/3951/p.1 --- Темна ноченька не спится
+/author/esenin/text/1299/p.1 --- Тихо в чаще можжевеля по обрыву
+/author/esenin/text/4081/p.1 --- Тихо дремлет река
+/author/esenin/text/4052/p.1 --- То не тучи бродят за овином
+/author/esenin/text/4059/p.1 --- Товарищ
+/author/esenin/text/4148/p.1 --- Товарищи сегодня в горе я
+/author/esenin/text/3983/p.1 --- Топи да болота
+/author/esenin/text/4086/p.1 --- Тот поэт врагов кто губит
+/author/esenin/text/1654/p.1 --- Тот ураган прошел Нас мало уцелело
+/author/esenin/text/3970/p.1 --- Троицыно утро утренний канон
+/author/esenin/text/4143/p.1 --- Трубит трубит погибельный рог
+/author/esenin/text/4008/p.1 --- Туча кружево в роще связала
+/author/esenin/text/4051/p.1 --- Тучи с ожереба
+/author/esenin/text/1288/p.1 --- Ты жива еще моя старушка
+/author/esenin/text/3997/p.1 --- Ты играй гармонь под трензель
+/author/esenin/text/4139/p.1 --- Ты меня не любишь не жалеешь
+/author/esenin/text/4003/p.1 --- Ты не любишь меня милый голубь
+/author/esenin/text/3945/p.1 --- Ты поила коня из горстей в поводу
+/author/esenin/text/4089/p.1 --- У могилы
+/author/esenin/text/4085/p.1 --- Угасла молодость моя
+/author/esenin/text/3986/p.1 --- Удалец
+/author/esenin/text/4083/p.1 --- Уж крышку туго закрывают
+/author/esenin/text/3966/p.1 --- Узоры
+/author/esenin/text/3968/p.1 --- Ус
+/author/esenin/text/4022/p.1 --- Устал я жить в родном краю
+/author/esenin/text/1652/p.1 --- Утром в ржаном закуте
+/author/esenin/text/3952/p.1 --- Хороша была Танюша краше не было в селе
+/author/esenin/text/1650/p.1 --- Хулиган
+/author/esenin/text/3988/p.1 --- Чары
+/author/esenin/text/3989/p.1 --- Черемуха
+/author/esenin/text/3982/p.1 --- Черная потом пропахшая выть
+/author/esenin/text/1296/p.1 --- Черный человек
+/author/esenin/text/4080/p.1 --- Что прошло — не вернуть
+/author/esenin/text/3965/p.1 --- Что это такое
+/author/esenin/text/3978/p.1 --- Чую радуницу божью
+/author/esenin/text/1292/p.1 --- Шаганэ ты моя Шаганэ
+/author/esenin/text/3973/p.1 --- Шел господь пытать людей в любови
+/author/esenin/text/4135/p.1 --- Эта улица мне знакома
+/author/esenin/text/3976/p.1 --- Я — пастух мои палаты
+/author/esenin/text/4145/p.1 --- Я иду долиной На затылке кепи
+/author/esenin/text/3992/p.1 --- Я надену красное монисто
+/author/esenin/text/4130/p.1 --- Я обманывать себя не стану
+/author/esenin/text/3987/p.1 --- Я плакал на заре когда померкли дали
+/author/esenin/text/4142/p.1 --- Я покинул родимый дом
+/author/esenin/text/4150/p.1 --- Я помню любимая помню
+/author/esenin/text/4156/p.1 --- Я последний поэт деревни
+/author/esenin/text/4023/p.1 --- Я снова здесь в семье родной
+/author/esenin/text/3994/p.1 --- Я странник убогий
+/author/esenin/text/3985/p.1 --- Ямщик

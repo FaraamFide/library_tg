@@ -1,0 +1,104 @@
+/author/ryleev/theme.1 --- О любви
+/author/ryleev/theme.2 --- О детях
+/author/ryleev/theme.10 --- Юмористические
+/author/ryleev/theme.14 --- О смерти
+/author/ryleev/theme.15 --- О России
+/author/ryleev/theme.17 --- О поэтах и поэзии
+/author/ryleev/theme.18 --- Сатирические
+/author/ryleev/theme.24 --- О вине
+/author/ryleev/theme.35 --- О молодости
+/author/ryleev/theme.36 --- О славе
+/author/ryleev/form.5 --- Стихотворения
+/author/ryleev/form.14 --- Эпиграммы
+/author/ryleev/form.18 --- Элегии
+/author/ryleev/form.24 --- Оды
+/author/ryleev/form.26 --- Загадки
+/author/ryleev/text/2481/p.1 --- 〈А А Бестужеву〉
+/author/ryleev/text/2468/p.1 --- А П Ермолову
+/author/ryleev/text/2477/p.1 --- Бежавший от сует
+/author/ryleev/text/2462/p.1 --- Безделок несколько наш Бавий накропав
+/author/ryleev/text/2500/p.1 --- Бестужеву
+/author/ryleev/text/2492/p.1 --- В альбом Т С К
+/author/ryleev/text/2499/p.1 --- Вере Николаевне Столыпиной
+/author/ryleev/text/2482/p.1 --- Весь мир великостию духа
+/author/ryleev/text/2485/p.1 --- Видение
+/author/ryleev/text/2487/p.1 --- Воспоминания
+/author/ryleev/text/2456/p.1 --- Вот верное изображенье
+/author/ryleev/text/2486/p.1 --- Гражданское мужество
+/author/ryleev/text/2470/p.1 --- Да будешь малютка как папа бесстрашен
+/author/ryleev/text/2469/p.1 --- Давно мне сердце говорило
+/author/ryleev/text/2487/p.1 --- Еще ли в памяти рисуется твоей
+/author/ryleev/text/2464/p.1 --- Жестокой
+/author/ryleev/text/2460/p.1 --- Заблуждение
+/author/ryleev/text/2488/p.1 --- Земли минутный поселенец
+/author/ryleev/text/4283/p.1 --- Иван Сусанин
+/author/ryleev/text/2471/p.1 --- 〈Из письма к Ф В Булгарину〉
+/author/ryleev/text/2494/p.1#p1 --- Исполнились мои желанья
+/author/ryleev/text/2497/p.1 --- К N N
+/author/ryleev/text/2498/p.1 --- К N N
+/author/ryleev/text/2493/p.1 --- К N N
+/author/ryleev/text/2458/p.1 --- К Делии
+/author/ryleev/text/2461/p.1 --- К Делии
+/author/ryleev/text/2474/p.1 --- К К〈осовско〉му
+/author/ryleev/text/2478/p.1 --- К С
+/author/ryleev/text/2455/p.1 --- К временщику
+/author/ryleev/text/2457/p.1 --- К другу
+/author/ryleev/text/2485/p.1 --- Какое дивное виденье
+/author/ryleev/text/2501/p.1 --- 〈Князю Е П Оболенскому〉
+/author/ryleev/text/2497/p.1 --- Когда душа изнемогала
+/author/ryleev/text/2471/p.1#p1 --- Когда от русского меча
+/author/ryleev/text/2483/p.1 --- Когда ты одарен чувствительной душою
+/author/ryleev/text/2471/p.1#p2 --- Кто не слыхал из нас о хищных печенегах
+/author/ryleev/text/2486/p.1 --- Кто этот дивный великан
+/author/ryleev/text/4283/p.1 --- „Куда ты ведешь нас не видно ни зги
+/author/ryleev/text/2476/p.1 --- М Г Бедраге
+/author/ryleev/text/2501/p.1#p2 --- Мне тошно здесь как на чужбине
+/author/ryleev/text/2484/p.1 --- На болезнь Крылова
+/author/ryleev/text/2470/p.1 --- 〈На рождение Я Н Бедраги〉
+/author/ryleev/text/2489/p.1 --- На смерть Бейрона
+/author/ryleev/text/2476/p.1 --- На смерть Полины молодой
+/author/ryleev/text/2488/p.1 --- 〈На смерть сына〉
+/author/ryleev/text/2483/p.1 --- Надгробная Рыжку
+/author/ryleev/text/2475/p.1 --- Надгробная надпись
+/author/ryleev/text/2455/p.1 --- Надменный временщик и подлый и коварный
+/author/ryleev/text/2456/p.1 --- Надпись к портрету одного старого воина умершего от кровопускания
+/author/ryleev/text/2468/p.1 --- Наперсник Марса и Паллады
+/author/ryleev/text/2478/p.1 --- Наш хлебосол-мудрец
+/author/ryleev/text/2457/p.1 --- Не нам мой друг с тобой чуждаться
+/author/ryleev/text/2499/p.1 --- Не отравляй души тоскою
+/author/ryleev/text/2491/p.1 --- Не сбылись мой друг пророчества
+/author/ryleev/text/2484/p.1 --- Нет одобрения талантам никакого
+/author/ryleev/text/2465/p.1 --- Нечаянное счастие
+/author/ryleev/text/2501/p.1#p3 --- О милый друг как внятен голос твой
+/author/ryleev/text/2465/p.1 --- О радость о восторг Я Лилу молодую
+/author/ryleev/text/2489/p.1 --- О чем средь ужасов войны
+/author/ryleev/text/2458/p.1 --- Опять о Делия завистливой судьбою
+/author/ryleev/text/2466/p.1 --- Переводчику Андромахи
+/author/ryleev/text/2479/p.1 --- Питомец важных муз служитель Аполлона
+/author/ryleev/text/2480/p.1 --- Поверь я знаю уж Дорида
+/author/ryleev/text/2475/p.1 --- Под тенью миртов и акаций
+/author/ryleev/text/2494/p.1#p2 --- Покинь меня мой юный друг
+/author/ryleev/text/2479/p.1 --- Послание к Н И Гнедичу
+/author/ryleev/text/2461/p.1 --- Почто о Делия с коленопреклоненьем
+/author/ryleev/text/2467/p.1 --- Придумать не могу какой достиг дорогой
+/author/ryleev/text/2501/p.1#p1 --- Прими прими святый Евгений
+/author/ryleev/text/2477/p.1 --- Пустыня
+/author/ryleev/text/2466/p.1 --- Пусть современники красот не постигают
+/author/ryleev/text/2467/p.1 --- Путь к счастию
+/author/ryleev/text/4282/p.1 --- Ревела буря дождь шумел
+/author/ryleev/text/2459/p.1 --- Свершилось наконец Я Лидой обладаю
+/author/ryleev/text/2492/p.1 --- Своей любезностью опасной
+/author/ryleev/text/4282/p.1 --- Смерть Ермака
+/author/ryleev/text/2464/p.1 --- Смотри о Делия как вянет сей цветочек
+/author/ryleev/text/2491/p.1 --- Стансы
+/author/ryleev/text/2459/p.1 --- Счастливая перемена
+/author/ryleev/text/2498/p.1 --- Ты посетить мой друг желала
+/author/ryleev/text/2481/p.1 --- Ты разленился уж некстати
+/author/ryleev/text/2493/p.1 --- У вас в гостях бывать накладно
+/author/ryleev/text/2500/p.1 --- Хоть Пушкин суд мне строгий произнес
+/author/ryleev/text/2463/p.1 --- Часть первая моя от зноя укрывая
+/author/ryleev/text/2474/p.1 --- Чтоб я младые годы
+/author/ryleev/text/2463/p.1 --- Шарада
+/author/ryleev/text/2494/p.1 --- Элегии
+/author/ryleev/text/2482/p.1 --- 〈Эпиграмма на австрийского императора〉
+/author/ryleev/text/2490/p.1 --- Я ль буду в роковое время

@@ -1,0 +1,48 @@
+/author/gogol/theme.10 --- Юмористические
+/author/gogol/theme.18 --- Сатирические
+/author/gogol/form.2 --- Повести
+/author/gogol/form.5 --- Стихотворения
+/author/gogol/form.6 --- Поэмы
+/author/gogol/form.9 --- Пьесы
+/author/gogol/form.17 --- Сборники
+/author/gogol/form.19 --- Комедии
+/author/gogol/text/1088/p.15 --- Вечер накануне Ивана Купала
+/author/gogol/text/1088/p.1 --- Вечера на хуторе близ Диканьки
+/author/gogol/text/1070/p.15 --- Вий
+/author/gogol/text/1234/p.1 --- Женитьба
+/author/gogol/text/1088/p.47 --- Заколдованное место
+/author/gogol/text/14/p.1 --- Записки сумасшедшего
+/author/gogol/extract/25 --- И до такой ничтожности мелочности гадости
+/author/gogol/text/1088/p.41 --- Иван Федорович Шпонька и его тетушка
+/author/gogol/text/1552/p.1 --- Игроки
+/author/gogol/text/108/p.1 --- Италия — роскошная страна
+/author/gogol/extract/26 --- Какое странное и манящее и несущее
+/author/gogol/text/1550/p.1 --- Коляска
+/author/gogol/text/1555/p.1 --- Лакейская
+/author/gogol/text/1088/p.16 --- Майская ночь или утопленница
+/author/gogol/text/78/p.1 --- Мертвые души
+/author/gogol/text/1070/p.1 --- Миргород
+/author/gogol/text/1332/p.1 --- Невский проспект
+/author/gogol/text/101/p.1 --- Новоселье
+/author/gogol/text/76/p.1 --- Нос
+/author/gogol/text/1088/p.24 --- Ночь перед Рождеством
+/author/gogol/extract/26 --- Образ дороги
+/author/gogol/text/1556/p.1 --- Отрывок
+/author/gogol/text/4448 --- Петербургские повести
+/author/gogol/text/1070/p.16 --- Повесть о том как поссорился Иван Иванович с Иваном Никифоровичем
+/author/gogol/text/77/p.1 --- Портрет
+/author/gogol/text/1088/p.22 --- Пропавшая грамота
+/author/gogol/text/473/p.1 --- Ревизор
+/author/gogol/text/1551/p.1 --- Рим
+/author/gogol/extract/24 --- Русь Русь вижу тебя
+/author/gogol/text/1088/p.2 --- Сорочинская ярмарка
+/author/gogol/extract/13 --- Спасай чистоту души своей
+/author/gogol/text/1070/p.2 --- Старосветские помещики
+/author/gogol/text/1088/p.25 --- Страшная месть
+/author/gogol/text/1070/p.3 --- Тарас Бульба
+/author/gogol/text/1557/p.1 --- Театральный разъезд после представления новой комедии
+/author/gogol/text/1554/p.1 --- Тяжба
+/author/gogol/text/1553/p.1 --- Утро делового человека
+/author/gogol/extract/28 --- Чуден Днепр при тихой погоде
+/author/gogol/text/980/p.1 --- Шинель
+/author/gogol/extract/27 --- Эх тройка птица тройка

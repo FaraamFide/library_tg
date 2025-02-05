@@ -1,0 +1,20 @@
+/author/derzhavin/theme.17 --- О поэтах и поэзии
+/author/derzhavin/theme.39 --- О Боге
+/author/derzhavin/form.5 --- Стихотворения
+/author/derzhavin/text/1270/p.1 --- Благодарность Фелице
+/author/derzhavin/text/1266/p.1 --- Бог
+/author/derzhavin/text/1271/p.1 --- Богоподобная царевна
+/author/derzhavin/text/1269/p.1 --- Властителям и судиям
+/author/derzhavin/text/1853/p.1 --- Зрел ли ты певец Тиисский
+/author/derzhavin/text/1267/p.1 --- Ключ
+/author/derzhavin/text/1266/p.1 --- О ты пространством бесконечный
+/author/derzhavin/text/1272/p.1 --- Памятник
+/author/derzhavin/text/1268/p.1 --- Праведный судия
+/author/derzhavin/text/1270/p.1 --- Предшественница дня златого
+/author/derzhavin/text/1853/p.1 --- Русские девушки
+/author/derzhavin/text/1267/p.1 --- Седящ увенчан осокою
+/author/derzhavin/text/1855/p.1 --- Снигирь
+/author/derzhavin/text/1271/p.1 --- Фелица
+/author/derzhavin/text/1855/p.1 --- Что ты заводишь песню военну
+/author/derzhavin/text/1268/p.1 --- Я милость воспою и суд
+/author/derzhavin/text/1272/p.1 --- Я памятник себе воздвиг чудесный вечный

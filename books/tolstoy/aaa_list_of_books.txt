@@ -1,0 +1,25 @@
+/author/tolstoy/theme.2 --- О детях
+/author/tolstoy/theme.22 --- О войне
+/author/tolstoy/form.1 --- Романы
+/author/tolstoy/form.2 --- Повести
+/author/tolstoy/form.8 --- Рассказы
+/author/tolstoy/text/1099/p.1 --- Анна Каренина
+/author/tolstoy/text/11/p.1 --- Война и мир
+/author/tolstoy/text/1462/p.1 --- Воскресение
+/author/tolstoy/text/1179/p.1 --- Детство
+/author/tolstoy/text/1846/p.1 --- Кавказский пленник
+/author/tolstoy/text/1009/p.1 --- Крейцерова соната
+/author/tolstoy/extract/23 --- Монолог Наташи Ростовой
+/author/tolstoy/extract/7 --- На краю дороги стоял дуб
+/author/tolstoy/text/8/p.1 --- Отец Сергий
+/author/tolstoy/text/1310/p.1 --- Отрочество
+/author/tolstoy/text/1005/p.1 --- После бала
+/author/tolstoy/text/1161/p.18 --- Севастополь в августе 1855 года
+/author/tolstoy/text/1161/p.1 --- Севастополь в декабре месяце
+/author/tolstoy/text/1161/p.2 --- Севастополь в мае
+/author/tolstoy/text/1161/p.1 --- Севастопольские рассказы
+/author/tolstoy/text/7/p.1 --- Смерть Ивана Ильича
+/author/tolstoy/extract/23 --- Соня Ну как можно спать
+/author/tolstoy/text/1006/p.1 --- Хаджи-Мурат
+/author/tolstoy/text/1008/p.1 --- Холстомер
+/author/tolstoy/text/1334/p.1 --- Юность

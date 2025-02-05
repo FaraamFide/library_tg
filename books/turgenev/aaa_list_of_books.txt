@@ -1,0 +1,145 @@
+/author/turgenev/theme.1 --- О любви
+/author/turgenev/theme.4 --- О природе
+/author/turgenev/theme.10 --- Юмористические
+/author/turgenev/theme.12 --- О родине
+/author/turgenev/theme.13 --- О женщине
+/author/turgenev/theme.14 --- О смерти
+/author/turgenev/theme.15 --- О России
+/author/turgenev/theme.17 --- О поэтах и поэзии
+/author/turgenev/theme.19 --- О жизни
+/author/turgenev/theme.25 --- О деревне
+/author/turgenev/theme.28 --- О смысле жизни
+/author/turgenev/form.1 --- Романы
+/author/turgenev/form.2 --- Повести
+/author/turgenev/form.5 --- Стихотворения
+/author/turgenev/form.8 --- Рассказы
+/author/turgenev/form.17 --- Сборники
+/author/turgenev/form.22 --- Стихотворения в прозе
+/author/turgenev/text/1378/p.23 --- Necessitas vis libertas
+/author/turgenev/text/1378/p.80 --- Nessun maggior dolore
+/author/turgenev/text/1378/p.1 --- Senilia Стихотворения в прозе
+/author/turgenev/text/1249/p.1 --- Андрей Колосов
+/author/turgenev/text/1097/p.1 --- Ася
+/author/turgenev/text/4276/p.2 --- Ах давно ли гулял я с тобой
+/author/turgenev/text/1204/p.8 --- Бежин луг
+/author/turgenev/text/1378/p.58 --- Без гнезда
+/author/turgenev/text/1204/p.12 --- Бирюк
+/author/turgenev/text/1378/p.55 --- Близнецы
+/author/turgenev/text/1378/p.75 --- Брамин
+/author/turgenev/text/1204/p.10 --- Бурмистр
+/author/turgenev/text/4276/p.3 --- (В дороге)
+/author/turgenev/text/4281/p.1 --- В ночь летнюю когда тревожной грусти полный
+/author/turgenev/text/4276/p.1 --- Вариации
+/author/turgenev/text/4280/p.1 --- Весенний вечер
+/author/turgenev/text/4302/p.1 --- Вешние воды
+/author/turgenev/text/1378/p.15 --- Воробей
+/author/turgenev/text/1378/p.13 --- Восточная легенда
+/author/turgenev/text/1378/p.36 --- Враг и друг
+/author/turgenev/text/1378/p.52 --- Встреча
+/author/turgenev/text/1378/p.62 --- Гад
+/author/turgenev/text/1204/p.20 --- Гамлет Щигровского уезда
+/author/turgenev/text/1378/p.39 --- Голуби
+/author/turgenev/text/4280/p.1 --- Гуляют тучи золотые
+/author/turgenev/text/1378/p.28 --- Два богача
+/author/turgenev/text/1378/p.31 --- Два брата
+/author/turgenev/text/1204/p.13 --- Два помещика
+/author/turgenev/text/1378/p.14 --- Два четверостишия
+/author/turgenev/text/1647/p.1 --- Дворянское гнездо
+/author/turgenev/text/1378/p.1 --- Деревня
+/author/turgenev/text/1378/p.8 --- Довольный человек
+/author/turgenev/text/1378/p.56 --- Дрозд
+/author/turgenev/text/1378/p.57 --- Дрозд
+/author/turgenev/text/1378/p.12 --- Дурак
+/author/turgenev/text/1204/p.2 --- Ермолай и мельничиха
+/author/turgenev/text/1204/p.23 --- Живые мощи
+/author/turgenev/text/1378/p.61 --- Житейское правило
+/author/turgenev/text/1378/p.40 --- Завтра Завтра
+/author/turgenev/text/1204/p.1 --- Записки охотника
+/author/turgenev/text/1378/p.78 --- Истина и правда
+/author/turgenev/text/1378/p.66 --- К
+/author/turgenev/text/1378/p.44 --- Как хороши как свежи были розы
+/author/turgenev/text/1378/p.38 --- Камень
+/author/turgenev/text/1204/p.9 --- Касьян с Красивой Мечи
+/author/turgenev/text/1378/p.68 --- Когда меня не будет
+/author/turgenev/text/4276/p.1 --- Когда так радостно так нежно
+/author/turgenev/text/1378/p.71 --- Когда я один
+/author/turgenev/text/1204/p.22 --- Конец Чертопханова
+/author/turgenev/text/1378/p.10 --- Конец света
+/author/turgenev/text/1204/p.11 --- Контора
+/author/turgenev/text/1378/p.30 --- Корреспондент
+/author/turgenev/text/1378/p.59 --- Кубок
+/author/turgenev/text/1378/p.79 --- Куропатки
+/author/turgenev/text/1378/p.27 --- Лазурное царство
+/author/turgenev/text/1204/p.14 --- Лебедянь
+/author/turgenev/text/1204/p.25 --- Лес и степь
+/author/turgenev/text/1204/p.7 --- Льгов
+/author/turgenev/text/1378/p.77 --- Любовь
+/author/turgenev/text/1204/p.3 --- Малиновая вода
+/author/turgenev/text/1378/p.11 --- Маша
+/author/turgenev/text/1378/p.24 --- Милостыня
+/author/turgenev/text/1378/p.53 --- Мне жаль
+/author/turgenev/text/1378/p.83 --- Мои деревья
+/author/turgenev/text/1204/p.5 --- Мой сосед Радилов
+/author/turgenev/text/1378/p.50 --- Молитва
+/author/turgenev/text/1378/p.48 --- Монах
+/author/turgenev/text/1378/p.45 --- Морское плавание
+/author/turgenev/text/1250/p.1 --- Муму
+/author/turgenev/text/1378/p.49 --- Мы еще повоюем
+/author/turgenev/text/1378/p.46 --- Н Н
+/author/turgenev/text/1648/p.1 --- Накануне
+/author/turgenev/text/1378/p.25 --- Насекомое
+/author/turgenev/text/1378/p.35 --- Нимфы
+/author/turgenev/text/1378/p.6 --- Нищий
+/author/turgenev/text/1378/p.65 --- О моя молодость О моя свежесть
+/author/turgenev/text/1204/p.6 --- Однодворец Овсяников
+/author/turgenev/text/96/p.1 --- Отцы и дети
+/author/turgenev/text/1378/p.19 --- Памяти Ю П Вревской
+/author/turgenev/text/1204/p.17 --- Певцы
+/author/turgenev/text/1335/p.1 --- Первая любовь
+/author/turgenev/text/1378/p.69 --- Песочные часы
+/author/turgenev/text/1204/p.18 --- Петр Петрович Каратаев
+/author/turgenev/text/1378/p.33 --- Пир у Верховного Существа
+/author/turgenev/text/1378/p.63 --- Писатель и критик
+/author/turgenev/text/1378/p.42 --- Повесить его
+/author/turgenev/text/1378/p.81 --- Попался под колесо
+/author/turgenev/text/1378/p.21 --- Порог
+/author/turgenev/text/1378/p.22 --- Посещение
+/author/turgenev/text/1378/p.20 --- Последнее свидание
+/author/turgenev/text/1378/p.41 --- Природа
+/author/turgenev/text/1378/p.54 --- Проклятие
+/author/turgenev/text/1378/p.74 --- Простота
+/author/turgenev/text/1378/p.72 --- Путь к любви
+/author/turgenev/text/1378/p.2 --- Разговор
+/author/turgenev/text/1378/p.18 --- Роза
+/author/turgenev/text/1198/p.1 --- Рудин
+/author/turgenev/text/1378/p.51 --- Русский язык
+/author/turgenev/text/1378/p.64 --- С кем спорить
+/author/turgenev/text/1204/p.19 --- Свидание
+/author/turgenev/text/1204/p.16 --- Смерть
+/author/turgenev/text/1849/p.1 --- Собака
+/author/turgenev/text/1378/p.4 --- Собака
+/author/turgenev/text/1378/p.5 --- Соперник
+/author/turgenev/text/1378/p.29 --- Старик
+/author/turgenev/text/1378/p.3 --- Старуха
+/author/turgenev/text/1378/p.47 --- Стой
+/author/turgenev/text/1204/p.24 --- Стучит
+/author/turgenev/text/1378/p.34 --- Сфинкс
+/author/turgenev/text/1204/p.15 --- Татьяна Борисовна и ее племянник
+/author/turgenev/text/1524/p.1 --- Три встречи
+/author/turgenev/text/1378/p.76 --- Ты заплакал
+/author/turgenev/text/1378/p.82 --- У-а У-а
+/author/turgenev/text/1204/p.4 --- Уездный лекарь
+/author/turgenev/text/1378/p.7 --- Услышишь суд глупца
+/author/turgenev/text/4276/p.3 --- Утро туманное утро седое
+/author/turgenev/text/1378/p.73 --- Фраза
+/author/turgenev/text/1204/p.1 --- Хорь и Калиныч
+/author/turgenev/text/1378/p.37 --- Христос
+/author/turgenev/text/1378/p.16 --- Черепа
+/author/turgenev/text/1378/p.17 --- Чернорабочий и белоручка
+/author/turgenev/text/1204/p.21 --- Чертопханов и Недопюскин
+/author/turgenev/text/1378/p.43 --- Что я буду думать
+/author/turgenev/text/1378/p.60 --- Чья вина
+/author/turgenev/text/1378/p.26 --- Щи
+/author/turgenev/text/1378/p.32 --- Эгоист
+/author/turgenev/text/1378/p.70 --- Я встал ночью
+/author/turgenev/text/1378/p.67 --- Я шел среди высоких гор

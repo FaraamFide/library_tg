@@ -1,0 +1,7 @@
+API_TOKEN = "7778389009:AAHopyCQcy8E-TmTzobi-X05ccITX3wWNGs" # Здесь апи из 46 символов, выданный BotFather
+
+BOOKS_PATH = "books"
+AUTHORS_PATH = ""
+MAX_BOOKS_PER_PAGE = 5
+MAX_FOUND_BOOKS = 15
+MAX_AUTHORS_PER_PAGE = 8

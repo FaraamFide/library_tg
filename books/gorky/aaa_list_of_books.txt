@@ -1,0 +1,49 @@
+/author/gorky/theme.2 --- О детях
+/author/gorky/theme.16 --- О матери
+/author/gorky/theme.21 --- О душе
+/author/gorky/theme.33 --- О культуре
+/author/gorky/theme.34 --- Публицистические
+/author/gorky/form.1 --- Романы
+/author/gorky/form.2 --- Повести
+/author/gorky/form.3 --- Статьи
+/author/gorky/form.7 --- Очерки
+/author/gorky/form.8 --- Рассказы
+/author/gorky/form.9 --- Пьесы
+/author/gorky/form.17 --- Сборники
+/author/gorky/form.22 --- Стихотворения в прозе
+/author/gorky/text/491/p.1 --- Бывшие люди
+/author/gorky/text/1854/p.1 --- В людях
+/author/gorky/text/489/p.1 --- В степи
+/author/gorky/text/504/p.1 --- Вывод
+/author/gorky/text/496/p.1 --- Город желтого дьявола
+/author/gorky/text/494/p.1 --- Двадцать шесть и одна
+/author/gorky/text/503/p.1 --- Дело с застежками
+/author/gorky/text/1539/p.1 --- Детство
+/author/gorky/text/506/p.1 --- Егор Булычов и другие
+/author/gorky/text/485/p.1 --- Емельян Пиляй
+/author/gorky/text/500/p.1 --- Знахарка
+/author/gorky/extract/21 --- Когда я пьян мне все нравится
+/author/gorky/text/502/p.1 --- Коновалов
+/author/gorky/extract/8 --- Легенда о Данко
+/author/gorky/extract/9 --- Легенда о Ларре
+/author/gorky/text/498/p.1 --- Ледоход
+/author/gorky/text/1331/p.1 --- Ма-аленькая
+/author/gorky/text/484/p.1 --- Макар Чудра
+/author/gorky/text/1485/p.1 --- Мать
+/author/gorky/text/3221/p.1 --- Мои университеты
+/author/gorky/extract/21 --- Монолог Сатина
+/author/gorky/text/505/p.1 --- На дне
+/author/gorky/text/501/p.1 --- На плотах
+/author/gorky/text/2378/p.1 --- Несвоевременные мысли
+/author/gorky/text/488/p.1 --- Озорник
+/author/gorky/text/1493/p.1 --- Песня о Буревестнике
+/author/gorky/text/1330/p.1 --- Песня о Соколе
+/author/gorky/text/493/p.1 --- Проходимец
+/author/gorky/text/497/p.1 --- Рождение человека
+/author/gorky/text/1338/p.1 --- Сказки об Италии
+/author/gorky/text/492/p.1 --- Скуки ради
+/author/gorky/text/486/p.1 --- Старуха Изергиль
+/author/gorky/text/499/p.1 --- Страсти-мордасти
+/author/gorky/text/487/p.1 --- Челкаш
+/author/gorky/text/495/p.1 --- Человек
+/author/gorky/text/490/p.1 --- Ярмарка в Голтве

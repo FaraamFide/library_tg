@@ -1,0 +1,4 @@
+/author/lomonosov/form.5 --- Стихотворения
+/author/lomonosov/form.24 --- Оды
+/author/lomonosov/text/1944/p.1 --- На верьх Парнасских гор прекрасный
+/author/lomonosov/text/1943/p.1 --- Я знак бессмертия себе воздвигнул

@@ -1,0 +1,11 @@
+/author/bulgakov/form.8 --- Рассказы
+/author/bulgakov/form.9 --- Пьесы
+/author/bulgakov/text/4565/p.1 --- Вьюга
+/author/bulgakov/text/1287/p.1 --- Дни Турбиных
+/author/bulgakov/text/4569 --- Записки юного врача
+/author/bulgakov/text/4566/p.1 --- Звездная сыпь
+/author/bulgakov/text/4564/p.1 --- Крещение поворотом
+/author/bulgakov/text/4563/p.1 --- Полотенце с петухом
+/author/bulgakov/text/4568/p.1 --- Пропавший глаз
+/author/bulgakov/text/4562/p.1 --- Стальное горло
+/author/bulgakov/text/4567/p.1 --- Тьма египетская

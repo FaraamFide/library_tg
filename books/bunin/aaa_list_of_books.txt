@@ -1,0 +1,1170 @@
+/author/bunin/theme.1 --- О любви
+/author/bunin/theme.2 --- О детях
+/author/bunin/theme.3 --- О животных
+/author/bunin/theme.4 --- О природе
+/author/bunin/theme.5 --- Об осени
+/author/bunin/theme.8 --- О зиме
+/author/bunin/theme.12 --- О родине
+/author/bunin/theme.20 --- О море
+/author/bunin/theme.25 --- О деревне
+/author/bunin/theme.27 --- О счастье
+/author/bunin/theme.30 --- О ночи
+/author/bunin/form.2 --- Повести
+/author/bunin/form.5 --- Стихотворения
+/author/bunin/form.8 --- Рассказы
+/author/bunin/form.15 --- Миниатюры
+/author/bunin/form.17 --- Сборники
+/author/bunin/text/3522/p.1 --- Авраам
+/author/bunin/text/3507/p.1 --- Агни
+/author/bunin/text/3589/p.1 --- Ай тяжела турецкая шарманка
+/author/bunin/text/3516/p.1 --- Айя-София
+/author/bunin/text/3594/p.1 --- Александр в Египте
+/author/bunin/text/3711/p.1 --- Алел ты в зареве Батыя
+/author/bunin/text/3718/p.1 --- Аленушка
+/author/bunin/text/3667/p.1 --- Алисафия
+/author/bunin/text/3262/p.1 --- Ангел
+/author/bunin/text/3591/p.1 --- Ангел смерти в Судный день умрет
+/author/bunin/text/3592/p.1 --- Английские солдаты с цитадели
+/author/bunin/text/1818/p.1 --- Антигона
+/author/bunin/text/95/p.1 --- Антоновские яблоки
+/author/bunin/text/3496/p.1 --- Апрель
+/author/bunin/text/3785/p.1 --- Аркадия
+/author/bunin/text/1586/p.1 --- Архивное дело
+/author/bunin/text/3774/p.1 --- Архистратиг средневековый
+/author/bunin/text/3511/p.1 --- Атлант
+/author/bunin/text/3613/p.1 --- Баба-Яга
+/author/bunin/text/3385/p.1 --- Багряная печальная луна
+/author/bunin/text/3582/p.1 --- Балагула
+/author/bunin/text/1812/p.1 --- Баллада
+/author/bunin/text/1466/p.1 --- Бальдер
+/author/bunin/text/3713/p.1 --- Бегство в Египет
+/author/bunin/text/3447/p.1 --- Бегут бегут листы раскрытой книги
+/author/bunin/text/3604/p.1 --- Бедуин
+/author/bunin/text/3649/p.1 --- Без имени
+/author/bunin/text/3575/p.1 --- Безнадежность
+/author/bunin/text/1178/p.1 --- Безумный художник
+/author/bunin/text/3818/p.1 --- Белые круглятся облака
+/author/bunin/text/3525/p.1 --- Белые крылья
+/author/bunin/text/3803/p.1 --- Белый голубь летит через море
+/author/bunin/text/3666/p.1 --- Белый олень
+/author/bunin/text/3498/p.1 --- Белый полдень жар несносный
+/author/bunin/text/3702/p.1 --- Белый цвет
+/author/bunin/text/3631/p.1 --- Берег
+/author/bunin/text/3657/p.1 --- Березка
+/author/bunin/text/3309/p.1 --- Беру твою руку и долго смотрю на нее
+/author/bunin/text/3591/p.1 --- Бессмертный
+/author/bunin/text/3776/p.1 --- Благовестие о рождении Исаака
+/author/bunin/text/3238/p.1 --- Бледнеет ночь Туманов пелена
+/author/bunin/text/3480/p.1 --- Бледно-зеленые грустные звезды
+/author/bunin/text/3744/p.1 --- Бледно-синий загадочный лик
+/author/bunin/text/3435/p.1 --- Блистая облака лепились
+/author/bunin/text/3595/p.1 --- Бог
+/author/bunin/text/3518/p.1 --- Бог для ночных паломников в Могребе
+/author/bunin/text/3599/p.1 --- Бог полдня
+/author/bunin/text/3758/p.1 --- Богиня
+/author/bunin/text/3729/p.1 --- Богом разлученные
+/author/bunin/text/3576/p.1 --- Болото тихой северной страны
+/author/bunin/text/3793/p.1 --- Большая муфта бледная щека
+/author/bunin/text/3499/p.1 --- Брат в запыленных сапогах
+/author/bunin/text/3459/p.1 --- „Брат как пасмурно в келье
+/author/bunin/text/1171/p.1 --- Братья
+/author/bunin/text/3849/p.1 --- Бред
+/author/bunin/text/3851/p.1 --- Бродя по залам чистым и пустым
+/author/bunin/text/1474/p.1 --- Бродяги
+/author/bunin/text/3682/p.1 --- Будь щедрым как пальма А если не можешь то будь
+/author/bunin/text/3831/p.1 --- Буря
+/author/bunin/text/3266/p.1 --- Бушует полая вода
+/author/bunin/text/3790/p.1 --- Бывает море белое молочное
+/author/bunin/text/3522/p.1 --- Был Авраам в пустыне темной ночью
+/author/bunin/text/3440/p.1 --- Был ослеплен Самсон был господом обижен
+/author/bunin/text/3341/p.1 --- Был поздний час — и вдруг над темнотой
+/author/bunin/text/1699/p.1 --- Был с богом Моисей на дикой горной круче
+/author/bunin/text/3723/p.1 --- Бысть некая зима
+/author/bunin/text/3839/p.1 --- Бью звонкой сталью по кремню
+/author/bunin/text/3281/p.1 --- В Гефсиманском саду
+/author/bunin/text/3545/p.1 --- В Москве
+/author/bunin/text/1824/p.1 --- В Париже
+/author/bunin/text/3664/p.1 --- В Сицилии
+/author/bunin/text/3555/p.1 --- В апрельский жаркий полдень по кремнистой
+/author/bunin/text/3840/p.1 --- В арабской деревне
+/author/bunin/text/3598/p.1 --- В архипелаге
+/author/bunin/text/3419/p.1 --- В белом песке золотое блеснуло кольцо
+/author/bunin/text/3387/p.1 --- В березовом лесу где распевают птицы
+/author/bunin/text/3228/p.1 --- В блеске огней за зеркальными стеклами
+/author/bunin/text/3262/p.1 --- В вечерний час над степью мирной
+/author/bunin/text/3644/p.1 --- В вечерний час тепло во мраке леса
+/author/bunin/text/3639/p.1 --- В воскресенье раньше литургии
+/author/bunin/text/3697/p.1 --- В глубоких колодцах вода холодна
+/author/bunin/text/3333/p.1 --- В глуши лесной в глуши зеленой
+/author/bunin/text/3811/p.1 --- В голых рощах веял холод
+/author/bunin/text/3437/p.1 --- В горах
+/author/bunin/text/3746/p.1 --- В горах
+/author/bunin/text/3730/p.1 --- В горах Сицилии в монастыре забытом
+/author/bunin/text/3745/p.1 --- В горах от снега побелевших
+/author/bunin/text/3480/p.1 --- В горной долине
+/author/bunin/text/3444/p.1 --- В гостиную сквозь сад и пыльные гардины
+/author/bunin/text/1712/p.1 --- В дачном кресле ночью на балконе
+/author/bunin/text/1857/p.1 --- В деревне
+/author/bunin/text/3476/p.1 --- В деревне капали капели
+/author/bunin/text/3708/p.1 --- В жарком золоте заката Пирамиды
+/author/bunin/text/3757/p.1 --- В кипящей пене валуны
+/author/bunin/text/3255/p.1 --- В костеле
+/author/bunin/text/3425/p.1 --- В крымских степях
+/author/bunin/text/3701/p.1 --- В лесах кричит павлин шумят и плещут ливни
+/author/bunin/text/1716/p.1 --- В лесу
+/author/bunin/text/3451/p.1 --- В лесу в горе родник живой и звонкий
+/author/bunin/text/3624/p.1 --- В мелколесье пело глухо строго
+/author/bunin/text/1705/p.1 --- В норе домами сдавленной
+/author/bunin/text/3647/p.1 --- В ночь рождения Исы
+/author/bunin/text/1827/p.1 --- В одной знакомой улице
+/author/bunin/text/3378/p.1 --- В окно я вижу груды облаков
+/author/bunin/text/3296/p.1 --- В окошко из темной каюты
+/author/bunin/text/3755/p.1 --- В орде
+/author/bunin/text/3470/p.1 --- В открытом море — только небо
+/author/bunin/text/3327/p.1 --- В отъезжем поле
+/author/bunin/text/3640/p.1 --- В первый раз
+/author/bunin/text/3527/p.1 --- В подземный мир введет на суд Отца
+/author/bunin/text/3276/p.1 --- В поезде
+/author/bunin/text/3358/p.1 --- В поздний час мы были с нею в поле
+/author/bunin/text/3478/p.1 --- В полдневный зной когда на щебень
+/author/bunin/text/3243/p.1 --- В полночь выхожу один из дома
+/author/bunin/text/3442/p.1 --- В полях далеко от усадьбы
+/author/bunin/text/3610/p.1 --- В полях сухие стебли кукурузы
+/author/bunin/text/3436/p.1 --- В пустой маяк в лазурь оконных впадин
+/author/bunin/text/1711/p.1 --- В пустом сквозном чертоге сада
+/author/bunin/text/3525/p.1 --- В пустыне красной над пророком
+/author/bunin/text/3508/p.1 --- В пустыне раскаленной мы блуждали
+/author/bunin/text/3320/p.1 --- В пустынной вышине
+/author/bunin/text/3729/p.1 --- В ризы черные одели
+/author/bunin/text/3605/p.1 --- В святой Софии голуби летали
+/author/bunin/text/3841/p.1 --- В сосудах тонких и прозрачных
+/author/bunin/text/3573/p.1 --- В старой темной девичьей
+/author/bunin/text/3354/p.1 --- В старом городе
+/author/bunin/text/3254/p.1 --- В степи
+/author/bunin/text/3580/p.1 --- В степи с обрыва на сто миль
+/author/bunin/text/3566/p.1 --- В столетнем мраке черной ели
+/author/bunin/text/3272/p.1 --- В стороне далекой от родного края
+/author/bunin/text/3225/p.1 --- В стороне от дороги под дубом
+/author/bunin/text/3402/p.1 --- В сумраке утра проносится призрак Одина
+/author/bunin/text/3753/p.1 --- В сухом лесу стреляет длинный кнут
+/author/bunin/text/3650/p.1 --- В сырой избушке шорника Лукьяна
+/author/bunin/text/3230/p.1 --- В темнеющих полях как в безграничном море
+/author/bunin/text/3832/p.1 --- В темную ночь
+/author/bunin/text/3461/p.1 --- В тихом старом городе Скутари
+/author/bunin/text/3259/p.1 --- В туче солнце заступающей
+/author/bunin/text/3572/p.1 --- В угольной — солнце запах кипариса
+/author/bunin/text/3464/p.1 --- В холодный зал луною освещенный
+/author/bunin/text/3759/p.1 --- В цирке
+/author/bunin/text/1710/p.1 --- В чаще шорох потаенный
+/author/bunin/text/3681/p.1 --- В чистом поле у камня Алатыря
+/author/bunin/text/3671/p.1 --- В щит золотой висящий у престола
+/author/bunin/text/3537/p.1 --- Вальс
+/author/bunin/text/1713/p.1 --- Вдали еще гремит но тучи уж свалились
+/author/bunin/text/3658/p.1 --- Вдали темно и чащи строги
+/author/bunin/text/3619/p.1 --- Вдовец
+/author/bunin/text/3581/p.1 --- Вдоль этих плоских знойных берегов
+/author/bunin/text/3494/p.1 --- Вдыхая тонкий запах четок
+/author/bunin/text/3292/p.1 --- Веет утро прохладой степною
+/author/bunin/text/3549/p.1 --- Великий Шейх седой и мощный друз
+/author/bunin/text/3687/p.1 --- Венеция
+/author/bunin/text/3846/p.1 --- Венчик
+/author/bunin/text/3468/p.1 --- Вершина
+/author/bunin/text/3720/p.1 --- Веселые скоморохи
+/author/bunin/text/3271/p.1 --- Весеннее
+/author/bunin/text/3837/p.1 --- Весенний день синеет в вышине
+/author/bunin/text/3513/p.1 --- Весна Темнеет над аулом
+/author/bunin/text/1842/p.1 --- Весной в Иудее
+/author/bunin/text/3363/p.1 --- Веснянка
+/author/bunin/text/3621/p.1 --- Весь день метель За дверью у соседа
+/author/bunin/text/1471/p.1 --- Ветви кедра — вышивки зеленым
+/author/bunin/text/3242/p.1 --- Ветер осенний в лесах подымается
+/author/bunin/text/1481/p.1 --- Вечер
+/author/bunin/text/3416/p.1 --- Вечернее зимнее солнце
+/author/bunin/text/3763/p.1 --- Вечерний жук
+/author/bunin/text/3600/p.1 --- Вечерний час В долину тень сползла
+/author/bunin/text/3778/p.1 --- Вечерних туч над морем шла гряда
+/author/bunin/text/3636/p.1 --- Взвевая легкие гардины
+/author/bunin/text/3698/p.1 --- Взойди о Ночь на горний свой престол
+/author/bunin/text/1706/p.1 --- Вид на залив из садика таверны
+/author/bunin/text/3686/p.1 --- Видел сон Мушкет
+/author/bunin/text/1822/p.1 --- Визитные карточки
+/author/bunin/text/3618/p.1 --- Вино
+/author/bunin/text/3326/p.1 --- Вирь
+/author/bunin/text/3584/p.1 --- Во имя бога вечно всеблагого
+/author/bunin/text/3612/p.1 --- Вода за холодные серые дни в октябре
+/author/bunin/text/3691/p.1 --- Воззвал господь скорбящий о Сионе
+/author/bunin/text/3705/p.1 --- Война
+/author/bunin/text/1479/p.1 --- Вокруг пещеры гул Над нами мрак Во мраке
+/author/bunin/text/1821/p.1 --- Волки
+/author/bunin/text/3512/p.1 --- Волна ушла — блестят как золотые
+/author/bunin/text/3802/p.1 --- Волна хрустальная тяжелая лизала
+/author/bunin/text/3810/p.1 --- Волны
+/author/bunin/text/1835/p.1 --- Ворон
+/author/bunin/text/3289/p.1 --- Ворох листьев сухих все сильней веселей разгорается
+/author/bunin/text/3687/p.1 --- Восемь лет в Венеции я не был
+/author/bunin/text/3555/p.1 --- Воскресение
+/author/bunin/text/3809/p.1 --- Воспоминание
+/author/bunin/text/1710/p.1 --- Восход луны
+/author/bunin/text/3807/p.1 --- Вот знакомый погост у цветной Средиземной волны
+/author/bunin/text/3517/p.1 --- Вот и скрылись позабылись снежных гор чалмы
+/author/bunin/text/3557/p.1 --- Вот он идет проселочной дорогой
+/author/bunin/text/3775/p.1 --- Вот он снова этот белый
+/author/bunin/text/3771/p.1 --- Вот этот дом сто лет тому назад
+/author/bunin/text/3400/p.1 --- Воткнув копье он сбросил шлем и лег
+/author/bunin/text/3248/p.1 --- Впереди большак подвода
+/author/bunin/text/1488/p.1 --- Враждебных полон тайн на взгорье спящий лес
+/author/bunin/text/3337/p.1 --- Все — точно в полусне Над серою водой
+/author/bunin/text/3321/p.1 --- Все лес и лес А день темнеет
+/author/bunin/text/3450/p.1 --- Все море — как жемчужное зерцало
+/author/bunin/text/3564/p.1 --- Все сады в росе но теплы гнезда
+/author/bunin/text/3329/p.1 --- Все темней и кудрявей березовый лес зеленеет
+/author/bunin/text/3276/p.1 --- Все шире вольные поля
+/author/bunin/text/3801/p.1 --- Вся в снегу кудрявом благовонном
+/author/bunin/text/1834/p.1 --- Второй кофейник
+/author/bunin/text/3254/p.1 --- Вчера в степи я слышал отдаленный
+/author/bunin/text/3421/p.1 --- Высоко в небе месяц ясный
+/author/bunin/text/3350/p.1 --- Высоко в просторе неба
+/author/bunin/text/3361/p.1 --- Высоко наш флаг трепещет
+/author/bunin/text/1475/p.1 --- Высоко поднялся и белеет
+/author/bunin/text/3234/p.1 --- Высоко полный месяц стоит
+/author/bunin/text/3501/p.1 --- Высоко стоит луна
+/author/bunin/text/3303/p.1 --- Вьется путь в снегах в степи широкой
+/author/bunin/text/3798/p.1 --- Гаданье
+/author/bunin/text/3597/p.1 --- Гальциона
+/author/bunin/text/1825/p.1 --- Галя Ганская
+/author/bunin/text/3269/p.1 --- Гаснет вечер даль синеет
+/author/bunin/text/3255/p.1 --- Гаснет день — и звон тяжелый
+/author/bunin/text/3326/p.1 --- Где ельник сумрачный стоит
+/author/bunin/text/3539/p.1 --- Геймдаль искал родник божественный
+/author/bunin/text/1826/p.1 --- Генрих
+/author/bunin/text/3549/p.1 --- Гермон
+/author/bunin/text/3519/p.1 --- Герой — как вихрь срывающий палатки
+/author/bunin/text/3662/p.1 --- Глаза козюли медленно ползущей
+/author/bunin/text/3676/p.1 --- Глубокая гробница из порфира
+/author/bunin/text/3422/p.1 --- Голуби
+/author/bunin/text/3838/p.1 --- Голубое основанье
+/author/bunin/text/3803/p.1 --- Голубь
+/author/bunin/text/3854/p.1 --- Гор сиреневых кручи встают
+/author/bunin/text/3502/p.1 --- Горе
+/author/bunin/text/1482/p.1 --- Горит хрусталь горит рубин в вине
+/author/bunin/text/3485/p.1 --- Горный ключ по скатам и оврагам
+/author/bunin/text/3600/p.1 --- Горный лес
+/author/bunin/text/3837/p.1 --- Горный путь к морю
+/author/bunin/text/3335/p.1 --- Горячо сухой песок сверкает
+/author/bunin/text/1016/p.1 --- Господин из Сан-Франциско
+/author/bunin/text/3691/p.1 --- Господь скорбящий
+/author/bunin/text/1054/p.1 --- Грамматика любви
+/author/bunin/text/3766/p.1 --- Гранитный крест меж сосен на песчаном
+/author/bunin/text/3676/p.1 --- Гробница
+/author/bunin/text/3551/p.1 --- Гробница Рахили
+/author/bunin/text/3485/p.1 --- Гробница Сафии
+/author/bunin/text/3353/p.1 --- Гроза прошла над лесом стороною
+/author/bunin/text/3394/p.1 --- Громады гор зазубренные скалы
+/author/bunin/text/3802/p.1 --- Грот
+/author/bunin/text/3274/p.1 --- Гудящий благовест к молитве призывает
+/author/bunin/text/3743/p.1 --- Гул бури за горой и грохот отдаленных
+/author/bunin/text/3613/p.1 --- Гулкий шум в лесу нагоняет сон
+/author/bunin/text/3453/p.1 --- Густой зеленый ельник у дороги
+/author/bunin/text/3514/p.1 --- Дагестан
+/author/bunin/text/3665/p.1 --- „Дай мне звезду — твердит ребенок сонный
+/author/bunin/text/3251/p.1 --- Далеко за морем
+/author/bunin/text/3407/p.1 --- Далеко на севере Капелла
+/author/bunin/text/3659/p.1 --- Два голоса
+/author/bunin/text/3493/p.1 --- Две радуги — и золотистый редкий
+/author/bunin/text/3652/p.1 --- Дворецкий
+/author/bunin/text/3583/p.1#p1 --- Девичья
+/author/bunin/text/3844/p.1 --- „Девушка что ты чертила
+/author/bunin/text/3534/p.1 --- Девушки-русалочки
+/author/bunin/text/3683/p.1 --- Дедушка
+/author/bunin/text/3771/p.1 --- Дедушка в молодости
+/author/bunin/text/3683/p.1 --- Дедушка ест грушу на лежанке
+/author/bunin/text/1496/p.1 --- Дело корнета Елагина
+/author/bunin/text/3482/p.1 --- День гнева
+/author/bunin/text/3473/p.1 --- День распогодился с закатом
+/author/bunin/text/3225/p.1 --- Деревенский нищий
+/author/bunin/text/474/p.1 --- Деревня
+/author/bunin/text/3490/p.1 --- Детская
+/author/bunin/text/3497/p.1 --- Детство
+/author/bunin/text/3544/p.1 --- Джордано Бруно
+/author/bunin/text/3416/p.1 --- Диза
+/author/bunin/text/3614/p.1 --- Дикарь
+/author/bunin/text/3736/p.1 --- Дикий лавр и плющ и розы
+/author/bunin/text/3548/p.1 --- Дия
+/author/bunin/text/3579/p.1 --- Для жизни жизнь Вон пенные буруны
+/author/bunin/text/3267/p.1 --- Догорел апрельский светлый вечер
+/author/bunin/text/3603/p.1 --- Долина Иосафата
+/author/bunin/text/3293/p.1 --- Долог был во мраке ночи
+/author/bunin/text/3420/p.1 --- Домой я шел по скату вдоль Оки
+/author/bunin/text/3499/p.1 --- Донник
+/author/bunin/text/3417/p.1 --- Древнюю чашу нашел он у шумного синего моря
+/author/bunin/text/1831/p.1 --- Дубки
+/author/bunin/text/3595/p.1 --- Дул с моря бриз и месяц чистым рогом
+/author/bunin/text/3750/p.1 --- Дул теплый ветер Точно сея
+/author/bunin/text/3732/p.1 --- Дурман
+/author/bunin/text/1819/p.1 --- Дурочка
+/author/bunin/text/3528/p.1 --- Духи над пустыней пролетали
+/author/bunin/text/3352/p.1 --- Дымится поле рассвет белеет
+/author/bunin/text/3503/p.1 --- Дюны
+/author/bunin/text/3541/p.1 --- Дядька
+/author/bunin/text/3787/p.1 --- Едем бором черными лесами
+/author/bunin/text/3666/p.1 --- Едет стрелок в зеленые луга
+/author/bunin/text/3651/p.1 --- Ельничком березничком — где душа захочет
+/author/bunin/text/3390/p.1 --- Если б вы и сошлись если б вы и смирилися
+/author/bunin/text/3286/p.1 --- Если б только можно было
+/author/bunin/text/3840/p.1 --- Если ночью лечь на теплой крыше
+/author/bunin/text/3349/p.1 --- Еще и холоден и сыр
+/author/bunin/text/3270/p.1 --- Еще от дома на дворе
+/author/bunin/text/1478/p.1 --- Еще утро не скоро не скоро
+/author/bunin/text/3426/p.1 --- Жасмин
+/author/bunin/text/3619/p.1 --- Железный крюк скрипит над колыбелью
+/author/bunin/text/3403/p.1 --- Жена Азиса
+/author/bunin/text/3381/p.1 --- Жесткой черной листвой шелестит и трепещет кустарник
+/author/bunin/text/3474/p.1 --- Жизнь впереди до старости далеко
+/author/bunin/text/3604/p.1 --- За Мертвым морем — пепельные грани
+/author/bunin/text/3360/p.1 --- За все тебя господь благодарю
+/author/bunin/text/3527/p.1 --- За гробом
+/author/bunin/text/3232/p.1 --- За днями серыми и темными ночами
+/author/bunin/text/3484/p.1 --- За измену
+/author/bunin/text/3300/p.1 --- За мирным Днепром за горами
+/author/bunin/text/3541/p.1 --- За окнами — снега степная гладь и ширь
+/author/bunin/text/3631/p.1 --- За окном весна сияет новая
+/author/bunin/text/3615/p.1 --- „За погостом Скутари за черным
+/author/bunin/text/3273/p.1 --- За рекой луга зазеленели
+/author/bunin/text/3503/p.1 --- За сизыми дюнами — северный тусклый туман
+/author/bunin/text/3755/p.1 --- За степью в приволжских песках
+/author/bunin/text/3547/p.1 --- Забил буграми жемчуг заклубился
+/author/bunin/text/1464/p.1 --- Забытый фонтан
+/author/bunin/text/3673/p.1 --- Завеса
+/author/bunin/text/3682/p.1 --- Завет Саади
+/author/bunin/text/3716/p.1 --- Зазимок
+/author/bunin/text/3494/p.1 --- Закат
+/author/bunin/text/3336/p.1 --- Закат
+/author/bunin/text/3794/p.1 --- Заклинание
+/author/bunin/text/3584/p.1 --- Закон
+/author/bunin/text/3773/p.1 --- Запели жрецы распахнулись врата — восхищенный
+/author/bunin/text/3486/p.1 --- Заплакали чибисы тонко и ярко
+/author/bunin/text/3420/p.1 --- Запустение
+/author/bunin/text/3344/p.1 --- Зарницы лик как сновиденье
+/author/bunin/text/1477/p.1 --- Засинели темнеют равнины
+/author/bunin/text/3706/p.1 --- Засуха в раю
+/author/bunin/text/3232/p.1 --- Затишье
+/author/bunin/text/1487/p.1 --- Затрепетали звезды в небе
+/author/bunin/text/3635/p.1 --- Зацвела на воле
+/author/bunin/text/3256/p.1 --- Зачем и о чем говорить
+/author/bunin/text/3806/p.1 --- Зашелестела тонкая трава
+/author/bunin/text/3853/p.1 --- Звезда воспламеняющая твердь
+/author/bunin/text/3825/p.1 --- Звезда дрожит среди вселенной
+/author/bunin/text/3836/p.1 --- Звезда морей
+/author/bunin/text/3365/p.1 --- Звезда над темными далекими лесами
+/author/bunin/text/3712/p.1 --- Звездами вышит парус мой
+/author/bunin/text/3633/p.1 --- Звездопоклонники
+/author/bunin/text/3405/p.1 --- Звезды горят над безлюдной землею
+/author/bunin/text/3374/p.1 --- Звезды ночи осенней холодные звезды
+/author/bunin/text/3314/p.1 --- Звезды ночью весенней нежнее
+/author/bunin/text/3602/p.1 --- Звон на верблюдах ровный полусонный
+/author/bunin/text/3545/p.1 --- Здесь в старых переулках за Арбатом
+/author/bunin/text/3506/p.1 --- Здесь царство Амазонок Были дики
+/author/bunin/text/3404/p.1 --- Здесь царство снов На сотни верст безлюдны
+/author/bunin/text/3524/p.1 --- Зейнаб
+/author/bunin/text/3324/p.1 --- Зеленоватый свет пустынной лунной ночи
+/author/bunin/text/3520/p.1 --- Зеленый стяг
+/author/bunin/text/3342/p.1 --- Зеленый цвет морской воды
+/author/bunin/text/3852/p.1 --- Земной чужой душе закат
+/author/bunin/text/3741/p.1 --- Зеркало
+/author/bunin/text/1472/p.1 --- Зимний день в Оберланде
+/author/bunin/text/3830/p.1 --- Зимним холодом пахнуло
+/author/bunin/text/3655/p.1 --- Зимняя вилла
+/author/bunin/text/3806/p.1 --- Змея
+/author/bunin/text/1470/p.1 --- Змея
+/author/bunin/text/3335/p.1 --- Зной
+/author/bunin/text/3645/p.1 --- Зов
+/author/bunin/text/1823/p.1 --- Зойка и Валерия
+/author/bunin/text/3512/p.1 --- Золотой невод
+/author/bunin/text/3809/p.1 --- Золотыми цветут остриями
+/author/bunin/text/3482/p.1 --- И Агнец снял четвертую печать
+/author/bunin/text/3281/p.1 --- И в этот час гласит преданье
+/author/bunin/text/1852/p.1 --- И ветер и дождик и мгла
+/author/bunin/text/3317/p.1 --- И вот опять уж по зарям
+/author/bunin/text/3279/p.1 --- И дни и ночи до утра
+/author/bunin/text/3511/p.1 --- И долго долго шли мы плоскогорьем
+/author/bunin/text/3609/p.1 --- И нового порфирой облекли
+/author/bunin/text/3532/p.1 --- И скрип и визг над бухтой наводненной
+/author/bunin/text/3765/p.1 --- И скрылось солнце жаркое в лесах
+/author/bunin/text/3449/p.1 --- И сладостно и грустно видеть ночью
+/author/bunin/text/3434/p.1 --- И снилось мне что мы как в сказке
+/author/bunin/text/3278/p.1 --- И снилося мне что осенней порой
+/author/bunin/text/3630/p.1 --- И снова вечер сухо позлативший
+/author/bunin/text/3551/p.1 --- „И умерла и схоронил Иаков
+/author/bunin/text/3367/p.1 --- И я узрел отверста дверь на небе
+/author/bunin/text/3692/p.1 --- Иаков
+/author/bunin/text/3772/p.1 --- Игроки
+/author/bunin/text/3601/p.1 --- Иерихон
+/author/bunin/text/3552/p.1 --- Иерусалим
+/author/bunin/text/3583/p.1 --- Из Анатолийских песней
+/author/bunin/text/3367/p.1 --- Из Апокалипсиса
+/author/bunin/text/3827/p.1 --- Из Вечерних дум
+/author/bunin/text/1471/p.1 --- Из окна
+/author/bunin/text/3369/p.1 --- Из тесной пропасти ущелья
+/author/bunin/text/3794/p.1 --- Из тонкогорлого фиала
+/author/bunin/text/3616/p.1 --- Изнемогла в качалке задремала
+/author/bunin/text/3606/p.1 --- Имру-уль-Кайс
+/author/bunin/text/3749/p.1 --- Индийский океан
+/author/bunin/text/3719/p.1 --- Ириса
+/author/bunin/text/3593/p.1 --- Истара
+/author/bunin/text/3831/p.1 --- Истомлена полдневным зноем
+/author/bunin/text/3647/p.1 --- Источник звезды
+/author/bunin/text/3484/p.1 --- Их господь истребил за измену несчастной отчизне
+/author/bunin/text/1719/p.1 --- Ищу я в этом мире сочетанья
+/author/bunin/text/3704/p.1 --- К вечеру море шумней и мутней
+/author/bunin/text/3517/p.1 --- К востоку
+/author/bunin/text/3594/p.1 --- К оракулу и капищу Сиваха
+/author/bunin/text/3339/p.1 --- К прибрежью моря длинная аллея
+/author/bunin/text/1811/p.1 --- Кавказ
+/author/bunin/text/3730/p.1 --- Кадильница
+/author/bunin/text/3710/p.1 --- Казнь
+/author/bunin/text/3570/p.1 --- Каин
+/author/bunin/text/3592/p.1 --- Каир
+/author/bunin/text/3824/p.1 --- Как в апреле по ночам в аллее
+/author/bunin/text/1480/p.1 --- Как в гору шли мы в зыбь в слепящий блеск заката
+/author/bunin/text/3245/p.1 --- Как все вокруг сурово снежно
+/author/bunin/text/3393/p.1 --- Как все спокойно и как все открыто
+/author/bunin/text/3675/p.1 --- Как дым пожара туча шла
+/author/bunin/text/3423/p.1 --- Как дым седая мгла мороза
+/author/bunin/text/3253/p.1 --- Как дымкой даль полей закрыв на полчаса
+/author/bunin/text/3808/p.1 --- Как много звезд на тусклой синеве
+/author/bunin/text/3227/p.1 --- Как печально как скоро померкла
+/author/bunin/text/3479/p.1 --- Как розовое море — даль пустынь
+/author/bunin/text/3322/p.1 --- Как светла как нарядна весна
+/author/bunin/text/3645/p.1 --- Как старым морякам живущим на покое
+/author/bunin/text/3628/p.1 --- Как стая птиц в пустыне одиноко
+/author/bunin/text/3236/p.1 --- Какая теплая и темная заря
+/author/bunin/text/3782/p.1 --- Калабрийский пастух
+/author/bunin/text/1836/p.1 --- Камарг
+/author/bunin/text/3504/p.1 --- Каменная баба
+/author/bunin/text/3414/p.1 --- Канун Купалы
+/author/bunin/text/1703/p.1 --- Канун
+/author/bunin/text/3786/p.1 --- Капри
+/author/bunin/text/3602/p.1 --- Караван
+/author/bunin/text/3437/p.1 --- Катится диском золотым
+/author/bunin/text/1839/p.1 --- Качели
+/author/bunin/text/3783/p.1 --- Качка слабых мучит и пьянит
+/author/bunin/text/1717/p.1 --- Кедр
+/author/bunin/text/3473/p.1 --- Келья
+/author/bunin/text/3301/p.1 --- Кипарисы
+/author/bunin/text/1585/p.1 --- Клаша
+/author/bunin/text/3785/p.1 --- Ключ гремит на дне теснины
+/author/bunin/text/1018/p.1 --- Книга
+/author/bunin/text/3726/p.1 --- Князь Всеслав
+/author/bunin/text/3796/p.1 --- Кобылица
+/author/bunin/text/3404/p.1 --- Ковсерь
+/author/bunin/text/3544/p.1 --- „Ковчег под предводительством осла
+/author/bunin/text/3280/p.1 --- Ковыль
+/author/bunin/text/3597/p.1 --- Когда в волне мелькнул он мертвым ликом
+/author/bunin/text/3389/p.1 --- Когда вдоль корабля качаясь вьется пена
+/author/bunin/text/3331/p.1 --- Когда деревья в светлый майский день
+/author/bunin/text/3457/p.1 --- Когда ковчег был кончен и наполнен
+/author/bunin/text/3290/p.1 --- Когда на темный город сходит
+/author/bunin/text/3731/p.1 --- Когда-то над тяжелой баркой
+/author/bunin/text/3779/p.1 --- Колеса мелкий снег взрывали и скрипели
+/author/bunin/text/3559/p.1 --- Колибри
+/author/bunin/text/3750/p.1 --- Колизей
+/author/bunin/text/3846/p.1 --- Колокола переводили
+/author/bunin/text/3419/p.1 --- Кольцо
+/author/bunin/text/3783/p.1 --- Компас
+/author/bunin/text/3394/p.1 --- Кондор
+/author/bunin/text/3765/p.1 --- Кончина святителя
+/author/bunin/text/3773/p.1 --- Конь Афины-Паллады
+/author/bunin/text/3336/p.1 --- Корабли в багряном зареве заката
+/author/bunin/text/3843/p.1 --- Косоглазая девушка ножки скрестив
+/author/bunin/text/3432/p.1 --- Косогор
+/author/bunin/text/3542/p.1 --- Костел-маяк примета мореходу
+/author/bunin/text/3289/p.1 --- Костер
+/author/bunin/text/3463/p.1 --- Костер трещит В фелюке свет и жар
+/author/bunin/text/1174/p.1 --- Косцы
+/author/bunin/text/3560/p.1 --- Кошка в крапиве за домом жила
+/author/bunin/text/3767/p.1 --- Край без истории Все лес да лес болота
+/author/bunin/text/1817/p.1 --- Красавица
+/author/bunin/text/3392/p.1 --- Крест в долине при дороге
+/author/bunin/text/1715/p.1 --- Крещенская ночь
+/author/bunin/text/3653/p.1 --- Криница
+/author/bunin/text/3621/p.1 --- Кружево
+/author/bunin/text/3275/p.1 --- Крупный дождь в лесу зеленом
+/author/bunin/text/3617/p.1 --- — Кто там стучит Не встану Не открою
+/author/bunin/text/1829/p.1 --- Кума
+/author/bunin/text/3487/p.1 --- Купальщица
+/author/bunin/text/3649/p.1 --- Курган разрыт В тяжелом саркофаге
+/author/bunin/text/1472/p.1 --- Лазурным пламенем сияют небеса
+/author/bunin/text/3811/p.1 --- Ландыш
+/author/bunin/text/1172/p.1 --- Лапти
+/author/bunin/text/3492/p.1 --- Легко и бледно небо голубое
+/author/bunin/text/1052/p.1 --- Легкое дыхание
+/author/bunin/text/3507/p.1 --- Лежу во тьме сраженный злою силой
+/author/bunin/text/3264/p.1 --- Лес — и ясно-лазурное небо глядится
+/author/bunin/text/1489/p.1 --- Лес точно терем расписной
+/author/bunin/text/3332/p.1 --- Лес шумит невнятным ровным шумом
+/author/bunin/text/3546/p.1 --- Леса в жемчужном инее Морозно
+/author/bunin/text/3677/p.1 --- Леса пески сухой и теплый воздух
+/author/bunin/text/3468/p.1 --- Леса скалистые теснины
+/author/bunin/text/3387/p.1 --- Лесная дорога
+/author/bunin/text/3665/p.1 --- Летняя ночь
+/author/bunin/text/3583/p.1#p2 --- Летом в море легкая вода
+/author/bunin/text/3751/p.1 --- Летят блестят мелькающие спицы
+/author/bunin/text/3842/p.1 --- Лик прекрасный и бескровный
+/author/bunin/text/3740/p.1 --- Лиман песком от моря отделен
+/author/bunin/text/3650/p.1 --- Лимонное зерно
+/author/bunin/text/1489/p.1 --- Листопад
+/author/bunin/text/3318/p.1 --- Листья падают в саду
+/author/bunin/text/3660/p.1 --- „Лицом к туманной зыби хороните
+/author/bunin/text/3696/p.1 --- Ловец великий перед богом
+/author/bunin/text/3782/p.1 --- Лохмотья нож — и цвета черной крови
+/author/bunin/text/1698/p.1 --- Луна
+/author/bunin/text/3593/p.1 --- Луна бог Син ее зарей встречает
+/author/bunin/text/3531/p.1 --- Луна еще прозрачна и бледна
+/author/bunin/text/1467/p.1 --- Луна над шумною Курою
+/author/bunin/text/3371/p.1 --- Любил он ночи темные в шатре
+/author/bunin/text/3239/p.1 --- Любил я в детстве сумрак в храме
+/author/bunin/text/3543/p.1 --- Люблю сухой горячий блеск червонца
+/author/bunin/text/3530/p.1 --- Люблю цветные стекла окон
+/author/bunin/text/3382/p.1 --- Люблю я наш обрыв где дикою грядою
+/author/bunin/text/3747/p.1 --- Людмила
+/author/bunin/text/3605/p.1 --- Люцифер
+/author/bunin/text/3528/p.1 --- Магомет в изгнании
+/author/bunin/text/3693/p.1 --- Магомет и Сафия
+/author/bunin/text/1832/p.1 --- Мадрид
+/author/bunin/text/3721/p.1 --- Малайская песня
+/author/bunin/text/3587/p.1 --- Мандрагора
+/author/bunin/text/3648/p.1 --- Матери
+/author/bunin/text/3680/p.1 --- Матрос
+/author/bunin/text/3725/p.1 --- Матфей прозорливый
+/author/bunin/text/3279/p.1 --- Мать
+/author/bunin/text/3684/p.1 --- Мачеха
+/author/bunin/text/3799/p.1 --- Меж островов Архипелага
+/author/bunin/text/3590/p.1 --- Мекам — восторг священное раденье
+/author/bunin/text/3643/p.1 --- Мелькают дали черные слепые
+/author/bunin/text/3502/p.1 --- Меркнет свет в небесах
+/author/bunin/text/1480/p.1 --- Мертвая зыбь
+/author/bunin/text/1838/p.1 --- Месть
+/author/bunin/text/3226/p.1 --- Месяц задумчивый полночь глубокая
+/author/bunin/text/3295/p.1 --- Метель
+/author/bunin/text/1851/p.1 --- Мечтай мечтай Все уже и тусклей
+/author/bunin/text/3351/p.1 --- Мил мне жемчуг нежный чистый дар морей
+/author/bunin/text/3538/p.1 --- „Мимо острова в полночь фрегат проходил
+/author/bunin/text/3745/p.1 --- Миньона
+/author/bunin/text/3569/p.1 --- Мир вам в земле почившие — За садом
+/author/bunin/text/3633/p.1 --- Мир не забудет веры древних лет
+/author/bunin/text/3415/p.1 --- Мира
+/author/bunin/text/3464/p.1 --- Мистику
+/author/bunin/text/3655/p.1 --- Мистраль качает ставни Целый день
+/author/bunin/text/1017/p.1 --- Митина любовь
+/author/bunin/text/3727/p.1 --- Мне вечор младой скучен терем был
+/author/bunin/text/3626/p.1 --- Могила в скале
+/author/bunin/text/3418/p.1 --- Могила поэта
+/author/bunin/text/3282/p.1 --- Могилы ветряки дороги и курганы
+/author/bunin/text/3689/p.1 --- Могильная плита
+/author/bunin/text/3670/p.1 --- Могол Тимур принес малютке-сыну
+/author/bunin/text/3795/p.1 --- Молодой король
+/author/bunin/text/1173/p.1 --- Молодость
+/author/bunin/text/3753/p.1 --- Молодость
+/author/bunin/text/1858/p.1 --- Молодость и старость
+/author/bunin/text/1702/p.1 --- Молчат гробницы мумии и кости
+/author/bunin/text/3664/p.1 --- Монастыри в предгориях глухих
+/author/bunin/text/3805/p.1 --- Море с голой степью говорило
+/author/bunin/text/3792/p.1 --- Море степь и южный август ослепительный и жаркий
+/author/bunin/text/3398/p.1 --- Мороз
+/author/bunin/text/3380/p.1 --- Морозное дыхание метели
+/author/bunin/text/3629/p.1 --- Морского ветра свежее дыханье
+/author/bunin/text/3373/p.1 --- Моя печаль теперь спокойна
+/author/bunin/text/3418/p.1 --- Мрамор гробницы его — в скорбной толпе кипарисов
+/author/bunin/text/3519/p.1 --- Мудрым
+/author/bunin/text/3651/p.1 --- Мужичок
+/author/bunin/text/1815/p.1 --- Муза
+/author/bunin/text/3742/p.1 --- Мулы
+/author/bunin/text/1053/p.1 --- Муравский шлях
+/author/bunin/text/3686/p.1 --- Мушкет
+/author/bunin/text/3448/p.1 --- Мы встретились случайно на углу
+/author/bunin/text/3817/p.1 --- Мы рядом шли но на меня
+/author/bunin/text/3819/p.1 --- Мы сели у печки в прихожей
+/author/bunin/text/3762/p.1 --- Мятую красную феску мастер водой окропил
+/author/bunin/text/3735/p.1 --- На Альпы к сумеркам нисходят облака
+/author/bunin/text/3300/p.1 --- На Днепре
+/author/bunin/text/3779/p.1 --- На Невском
+/author/bunin/text/3574/p.1 --- На Плющихе
+/author/bunin/text/3618/p.1 --- — На Яйле зазеленели буки
+/author/bunin/text/3439/p.1 --- На белых песках
+/author/bunin/text/3477/p.1 --- На винограднике
+/author/bunin/text/3526/p.1 --- На всех на вас — на каждой багрянице
+/author/bunin/text/3348/p.1 --- На высоте на снеговой вершине
+/author/bunin/text/3345/p.1 --- На глазки синие прелестные
+/author/bunin/text/3722/p.1 --- На гривастых конях на косматых
+/author/bunin/text/3315/p.1 --- На дальнем севере
+/author/bunin/text/1468/p.1 --- На диких скалах средь развалин
+/author/bunin/text/3571/p.1 --- На задворках за ригами
+/author/bunin/text/3747/p.1 --- На западе весною под вечер тучи сини
+/author/bunin/text/1709/p.1 --- На земле ты была точно дивная райская птица
+/author/bunin/text/3797/p.1 --- На исходе
+/author/bunin/text/3763/p.1 --- На лиловом небе
+/author/bunin/text/3458/p.1 --- На льдах Эльбурса солнце всходит
+/author/bunin/text/3436/p.1 --- На маяке
+/author/bunin/text/3338/p.1 --- На мертвый якорь кинули бакан
+/author/bunin/text/1718/p.1 --- На монастырском кладбище
+/author/bunin/text/3845/p.1 --- На нубийском базаре
+/author/bunin/text/3515/p.1 --- На обвале
+/author/bunin/text/3388/p.1 --- На озере
+/author/bunin/text/3401/p.1 --- На окне серебряном от инея
+/author/bunin/text/3382/p.1 --- На острове
+/author/bunin/text/3657/p.1 --- На перевале дальнем на краю
+/author/bunin/text/3667/p.1 --- На песок у моря синего
+/author/bunin/text/3654/p.1 --- На пирах веселых
+/author/bunin/text/3611/p.1 --- На письмена исчезнувших народов
+/author/bunin/text/3438/p.1 --- На плоском взморье — мертвый зной и штиль
+/author/bunin/text/3247/p.1 --- На поднебесном утесе где бури
+/author/bunin/text/1474/p.1 --- На позабытом тракте к Оренбургу
+/author/bunin/text/3738/p.1 --- На помории далеком
+/author/bunin/text/3292/p.1 --- На проселке
+/author/bunin/text/3229/p.1 --- На пруде
+/author/bunin/text/3663/p.1 --- На пути из Назарета
+/author/bunin/text/3550/p.1 --- На пути под Хевроном
+/author/bunin/text/3325/p.1 --- На распутье
+/author/bunin/text/3543/p.1 --- На рейде
+/author/bunin/text/3575/p.1 --- На севере есть розовые мхи
+/author/bunin/text/3623/p.1 --- На темном рейде струнный лад
+/author/bunin/text/3734/p.1 --- На треножник богиня садится
+/author/bunin/text/3834/p.1 --- На хуторе
+/author/bunin/text/3306/p.1 --- На хуторе
+/author/bunin/text/3428/p.1 --- Набегает впотьмах
+/author/bunin/text/3758/p.1 --- Навес кумирни жертвенник в жасмине
+/author/bunin/text/3287/p.1 --- Нагая степь пустыней веет
+/author/bunin/text/3826/p.1 --- Над могилой С Я Надсона
+/author/bunin/text/3835/p.1 --- Над морем дремлют зеленеют
+/author/bunin/text/3396/p.1 --- Над озером над заводью лесной
+/author/bunin/text/3431/p.1 --- Над синим понтом — серые руины
+/author/bunin/text/3614/p.1 --- Над стремью скал — чернеющий орел
+/author/bunin/text/3749/p.1 --- Над чернотой твоих пучин
+/author/bunin/text/3366/p.1 --- Надпись на могильной плите
+/author/bunin/text/3417/p.1 --- Надпись на чаше
+/author/bunin/text/3804/p.1 --- Наполовину вырубленный лес
+/author/bunin/text/3615/p.1 --- Напутствие
+/author/bunin/text/3572/p.1 --- Наследство
+/author/bunin/text/3789/p.1 --- Настала ночь остыл от звезд песок
+/author/bunin/text/1698/p.1 --- Настанет Ночь моя Ночь долгая немая
+/author/bunin/text/3777/p.1 --- Настанет день — исчезну я
+/author/bunin/text/3514/p.1 --- Насторожись стань крепче в стремена
+/author/bunin/text/1491/p.1 --- Натали
+/author/bunin/text/1830/p.1 --- Начало
+/author/bunin/text/3249/p.1 --- Не видно птиц Покорно чахнет
+/author/bunin/text/3668/p.1 --- Не мало царств не мало стран на свете
+/author/bunin/text/1714/p.1 --- Не прохладой не покоем
+/author/bunin/text/3240/p.1 --- Не пугай меня грозою
+/author/bunin/text/3465/p.1 --- Не скрыть от дерзких взоров наготы
+/author/bunin/text/3370/p.1 --- Не слыхать еще тяжкого грома за лесом
+/author/bunin/text/3414/p.1 --- Не туман белеет в темной роще
+/author/bunin/text/3330/p.1 --- Не угас еще вдали закат
+/author/bunin/text/3383/p.1 --- Не устану воспевать вас звезды
+/author/bunin/text/3476/p.1 --- Небо
+/author/bunin/text/3843/p.1 --- Невеста
+/author/bunin/text/3699/p.1 --- Невеста
+/author/bunin/text/1469/p.1 --- Невольник
+/author/bunin/text/3280/p.1#p2 --- Ненастный день Дорога прихотливо
+/author/bunin/text/3366/p.1 --- Несть господи грехов и злодеяний
+/author/bunin/text/3466/p.1 --- Нет мертвые не умерли для нас
+/author/bunin/text/3261/p.1 --- Нет не о том я сожалею
+/author/bunin/text/3475/p.1 --- Нет ничего грустней ночного
+/author/bunin/text/1486/p.1 --- Нет солнца но светлы пруды
+/author/bunin/text/3467/p.1 --- Неугасимая лампада
+/author/bunin/text/3285/p.1 --- Неуловимый свет разлился над землею
+/author/bunin/text/3481/p.1 --- Ни алтарей ни истуканов
+/author/bunin/text/3564/p.1 --- Нищий
+/author/bunin/text/3513/p.1 --- Новоселье
+/author/bunin/text/3488/p.1 --- Новый год
+/author/bunin/text/1700/p.1 --- Новый завет
+/author/bunin/text/3558/p.1 --- Новый храм
+/author/bunin/text/3399/p.1 --- Норд-остом жгут пылающие зори
+/author/bunin/text/1843/p.1 --- Ночлег
+/author/bunin/text/3644/p.1 --- Ночлег
+/author/bunin/text/3662/p.1 --- Ночная змея
+/author/bunin/text/3652/p.1 --- Ночник горит в холодном и угрюмом
+/author/bunin/text/3848/p.1 --- Ночной путь
+/author/bunin/text/3637/p.1 --- Ночные цикады
+/author/bunin/text/1495/p.1 --- Ночь
+/author/bunin/text/3406/p.1 --- Ночь Аль-Кадра
+/author/bunin/text/1719/p.1 --- Ночь
+/author/bunin/text/3661/p.1 --- Ночь зимняя мутна и холодна
+/author/bunin/text/3847/p.1 --- Ночь и алые зарницы
+/author/bunin/text/3298/p.1 --- Ночь и даль седая
+/author/bunin/text/3346/p.1 --- Ночь и день
+/author/bunin/text/3725/p.1 --- Ночь и могильный мрак пещеры
+/author/bunin/text/3277/p.1 --- Ночь идет — и темнеет
+/author/bunin/text/3460/p.1 --- Ночь идет — молись слуга пророка
+/author/bunin/text/3291/p.1 --- Ночь наступила день угас
+/author/bunin/text/1476/p.1 --- Ночь печальна как мечты мои
+/author/bunin/text/3233/p.1 --- Ночь побледнела и месяц садится
+/author/bunin/text/3488/p.1 --- Ночь прошла за шумной встречей года
+/author/bunin/text/3659/p.1 --- — Ночь сынок непроглядная
+/author/bunin/text/3680/p.1 --- Ночью в море крепко спать хотелось
+/author/bunin/text/3295/p.1 --- Ночью в полях под напевы метели
+/author/bunin/text/3791/p.1 --- Ночью звездной и студеной
+/author/bunin/text/3640/p.1 --- Ночью лампа на окне стояла
+/author/bunin/text/3627/p.1 --- Ноябрь сырая полночь Городок
+/author/bunin/text/3672/p.1 --- Ноябрьская ночь
+/author/bunin/text/3323/p.1 --- Нынче ночью кто-то долго пел
+/author/bunin/text/3573/p.1 --- Няня
+/author/bunin/text/3639/p.1 --- О Петре-разбойнике
+/author/bunin/text/3833/p.1 --- О да от злобы я молчу
+/author/bunin/text/3813/p.1 --- О радость красок Снова снова
+/author/bunin/text/1481/p.1 --- О счастье мы всегда лишь вспоминаем
+/author/bunin/text/3580/p.1 --- Обвал
+/author/bunin/text/3356/p.1 --- Облака как призраки развалин
+/author/bunin/text/3454/p.1 --- Облезлые худые кобели
+/author/bunin/text/3413/p.1 --- Обрыв Яйлы Как руки фурий
+/author/bunin/text/3772/p.1 --- Овальный стол огромный Вдоль по залу
+/author/bunin/text/3430/p.1 --- Огни небес
+/author/bunin/text/3475/p.1 --- Огонь
+/author/bunin/text/3449/p.1 --- Огонь на мачте
+/author/bunin/text/3535/p.1 --- Ограда крест зеленая могила
+/author/bunin/text/3529/p.1 --- Огромный красный старый пароход
+/author/bunin/text/3577/p.1 --- Один
+/author/bunin/text/3252/p.1 --- Один встречаю я дни радостной недели
+/author/bunin/text/1852/p.1 --- Одиночество
+/author/bunin/text/3703/p.1 --- Одиночество
+/author/bunin/text/3379/p.1 --- Озарен был сумрак мрачный
+/author/bunin/text/3642/p.1 --- Океан под ясною луной
+/author/bunin/text/3478/p.1 --- Океаниды
+/author/bunin/text/3641/p.1 --- Окно по ночам голубое
+/author/bunin/text/3756/p.1 --- Окраина земли
+/author/bunin/text/3233/p.1 --- Октябрьский рассвет
+/author/bunin/text/3769/p.1 --- Он видел смоль ее волос
+/author/bunin/text/3483/p.1 --- Он драгоценной яшмой был когда-то
+/author/bunin/text/3577/p.1 --- Он на запад глядит — солнце к морю спускается
+/author/bunin/text/3462/p.1 --- Он на клинок дохнул — и жало
+/author/bunin/text/3540/p.1 --- Он сел в глуши в шатре столетней ели
+/author/bunin/text/3467/p.1 --- Она молчит она теперь спокойна
+/author/bunin/text/3845/p.1 --- Она черна и блещет скат
+/author/bunin/text/3263/p.1 --- Они глумятся над тобою
+/author/bunin/text/3776/p.1 --- Они пришли тропинкою лесною
+/author/bunin/text/3834/p.1 --- Опять кругом печалью веет
+/author/bunin/text/3481/p.1 --- Ормузд
+/author/bunin/text/3821/p.1 --- Осенний день Степь балка и корыто
+/author/bunin/text/3598/p.1 --- Осенний день в лиловой крупной зыби
+/author/bunin/text/3446/p.1 --- Осень Чащи леса
+/author/bunin/text/3472/p.1 --- Осень листья темной краской метит
+/author/bunin/text/3237/p.1 --- Осыпаются астры в садах
+/author/bunin/text/3504/p.1 --- От зноя травы сухи и мертвы
+/author/bunin/text/3705/p.1 --- От кипарисовых гробниц
+/author/bunin/text/3706/p.1 --- От пальм увядших слабы тени
+/author/bunin/text/3490/p.1 --- От пихт и елей в горнице темней
+/author/bunin/text/3258/p.1 --- От праздности и лжи от суетных забав
+/author/bunin/text/3340/p.1 --- Открыты жнивья золотые
+/author/bunin/text/3607/p.1 --- Открыты окна В белой мастерской
+/author/bunin/text/3757/p.1 --- Отлив
+/author/bunin/text/3355/p.1 --- Отошли закаты на далекий север
+/author/bunin/text/3685/p.1 --- Отрава
+/author/bunin/text/3603/p.1 --- Отрада смерти страждущим дана
+/author/bunin/text/3378/p.1 --- Отрывок
+/author/bunin/text/3850/p.1 --- Отрывок
+/author/bunin/text/3609/p.1 --- Отчаяние
+/author/bunin/text/3827/p.1 --- Отчего так печальна природа
+/author/bunin/text/3304/p.1 --- Отчего ты печально вечернее небо
+/author/bunin/text/3791/p.1 --- Падучая звезда
+/author/bunin/text/3656/p.1 --- Памяти
+/author/bunin/text/3778/p.1 --- Памяти друга
+/author/bunin/text/3433/p.1 --- Паром скрипя ушел В разлив по тусклой зыби
+/author/bunin/text/1833/p.1 --- Пароход Саратов
+/author/bunin/text/3712/p.1 --- Парус
+/author/bunin/text/3492/p.1 --- Пахарь
+/author/bunin/text/1465/p.1 --- Первая любовь
+/author/bunin/text/3830/p.1 --- Первый снег
+/author/bunin/text/3788/p.1 --- Первый соловей
+/author/bunin/text/3412/p.1 --- Первый утренник серебряный мороз
+/author/bunin/text/3424/p.1 --- Перед бурей
+/author/bunin/text/3363/p.1 --- Перед грозой в Петровки жаркой ночью
+/author/bunin/text/3384/p.1 --- Перед закатом набежало
+/author/bunin/text/3429/p.1 --- Перекресток
+/author/bunin/text/1701/p.1 --- Перстень
+/author/bunin/text/3635/p.1 --- Песня
+/author/bunin/text/3654/p.1 --- Песня
+/author/bunin/text/3489/p.1 --- Песня
+/author/bunin/text/1469/p.1 --- Песок сребристый и горячий
+/author/bunin/text/1176/p.1 --- Петлистые уши
+/author/bunin/text/3534/p.1 --- Петров день
+/author/bunin/text/1468/p.1 --- Печаль
+/author/bunin/text/3515/p.1 --- Печальный берег Сизые твердыни
+/author/bunin/text/3638/p.1 --- Пилигрим
+/author/bunin/text/3694/p.1 --- Плакала ночью вдова
+/author/bunin/text/3316/p.1 --- Плеяды
+/author/bunin/text/3768/p.1 --- Плоты
+/author/bunin/text/3558/p.1 --- По алтарям пустым и белым
+/author/bunin/text/1477/p.1 --- По вечерней заре
+/author/bunin/text/3713/p.1 --- По лесам бежала божья мать
+/author/bunin/text/3733/p.1 --- По снежной поляне
+/author/bunin/text/3844/p.1 --- По теченью
+/author/bunin/text/3634/p.1 --- Поблекший дол под старыми платанами
+/author/bunin/text/3397/p.1 --- Погост часовенка над склепом
+/author/bunin/text/3471/p.1 --- Под вечер
+/author/bunin/text/3297/p.1 --- Под небом мертвенно-свинцовым
+/author/bunin/text/3246/p.1 --- Под орган душа тоскует
+/author/bunin/text/3742/p.1 --- Под сводом хмурых туч спокойствием объятых
+/author/bunin/text/3258/p.1 --- Подражание Пушкину
+/author/bunin/text/1816/p.1 --- Поздний час
+/author/bunin/text/3294/p.1 --- Поздний час Корабль и тих и темен
+/author/bunin/text/3257/p.1 --- Поздним летом
+/author/bunin/text/3310/p.1 --- Поздно склонилась луна
+/author/bunin/text/3588/p.1 --- Пой соловей Они томятся
+/author/bunin/text/3368/p.1 --- Пока я шел я был так мал
+/author/bunin/text/3784/p.1 --- Покрывало море свитками
+/author/bunin/text/1470/p.1 --- Покуда март гудит в лесу по голым
+/author/bunin/text/3574/p.1 --- Пол навощен блестит паркетом
+/author/bunin/text/1482/p.1 --- Полдень
+/author/bunin/text/3228/p.1 --- Полевые цветы
+/author/bunin/text/3770/p.1 --- Полночный звон степной пустыни
+/author/bunin/text/3627/p.1 --- Полночь
+/author/bunin/text/3364/p.1 --- Полями пахнет — свежих трав
+/author/bunin/text/3427/p.1 --- Полярная звезда
+/author/bunin/text/3235/p.1 --- Помню — долгий зимний вечер
+/author/bunin/text/3498/p.1 --- Поморье
+/author/bunin/text/3781/p.1 --- Помпея
+/author/bunin/text/3851/p.1 --- Портрет
+/author/bunin/text/3397/p.1 --- Портрет
+/author/bunin/text/3623/p.1 --- После Мессинского землетрясения
+/author/bunin/text/3400/p.1 --- После битвы
+/author/bunin/text/3690/p.1 --- После обеда
+/author/bunin/text/3328/p.1 --- После половодья
+/author/bunin/text/3828/p.1 --- Последние дни
+/author/bunin/text/3616/p.1 --- Последние слезы
+/author/bunin/text/1704/p.1 --- Последний шмель
+/author/bunin/text/1714/p.1 --- Последняя гроза
+/author/bunin/text/3459/p.1 --- Послушник
+/author/bunin/text/3668/p.1 --- Потомки пророка
+/author/bunin/text/3457/p.1 --- Потоп
+/author/bunin/text/3537/p.1 --- Похолодели лепестки
+/author/bunin/text/3746/p.1 --- Поэзия темна в словах не выразима
+/author/bunin/text/3224/p.1 --- Поэт
+/author/bunin/text/3793/p.1 --- Поэтесса
+/author/bunin/text/3697/p.1 --- Поэту
+/author/bunin/text/3660/p.1 --- Пращуры
+/author/bunin/text/3641/p.1 --- При дороге
+/author/bunin/text/3312/p.1 --- При свете звезд померкших глаз сиянье
+/author/bunin/text/3838/p.1 --- При свече
+/author/bunin/text/3637/p.1 --- Прибрежный хрящ и голые обрывы
+/author/bunin/text/3466/p.1 --- Призраки
+/author/bunin/text/3561/p.1 --- Присела на могильнике Савуре
+/author/bunin/text/3547/p.1 --- Проводы
+/author/bunin/text/1479/p.1 --- Прометей в пещере
+/author/bunin/text/3786/p.1 --- Проносились над островом зимние шквалы и бури
+/author/bunin/text/3408/p.1 --- Проснулся я внезапно без причины
+/author/bunin/text/3533/p.1 --- Проснусь проснусь — за окнами в саду
+/author/bunin/text/3695/p.1 --- Просыпаюсь в полумраке
+/author/bunin/text/3328/p.1 --- Прошли дожди апрель теплеет
+/author/bunin/text/3634/p.1 --- Прощание
+/author/bunin/text/3744/p.1 --- Псалтирь
+/author/bunin/text/3658/p.1 --- Псковский бор
+/author/bunin/text/3526/p.1 --- Птица
+/author/bunin/text/3571/p.1 --- Пугало
+/author/bunin/text/3540/p.1 --- Пугач
+/author/bunin/text/3569/p.1 --- Пустошь
+/author/bunin/text/3301/p.1 --- Пустынная Яйла дымится облаками
+/author/bunin/text/3702/p.1 --- Пустынник нам сказал „Благословен господь
+/author/bunin/text/3829/p.1 --- Пустынные поля пейзажи деревень
+/author/bunin/text/3717/p.1 --- Пустыня в тусклом жарком свете
+/author/bunin/text/3244/p.1 --- Пустыня грусть в степных просторах
+/author/bunin/text/3518/p.1 --- Путеводные знаки
+/author/bunin/text/3521/p.1 --- Пыль по которой Гавриил
+/author/bunin/text/3456/p.1 --- Ра-Озирис владыка дня и света
+/author/bunin/text/3800/p.1 --- Рабыня
+/author/bunin/text/3431/p.1 --- Развалины
+/author/bunin/text/3433/p.1 --- Разлив
+/author/bunin/text/3815/p.1 --- Ранний чуть видный рассвет
+/author/bunin/text/3343/p.1 --- Раскрылось небо голубое
+/author/bunin/text/3422/p.1 --- Раскрыт балкон сожжен цветник морозом
+/author/bunin/text/3500/p.1 --- Распали костер сумей
+/author/bunin/text/1475/p.1 --- Рассвет
+/author/bunin/text/3628/p.1 --- Рассвет
+/author/bunin/text/3578/p.1 --- Рассеянные огненные зерна
+/author/bunin/text/1464/p.1 --- Рассыпался чертог из янтаря
+/author/bunin/text/3536/p.1 --- Растет растет могильная трава
+/author/bunin/text/3491/p.1 --- Речка
+/author/bunin/text/1828/p.1 --- Речной трактир
+/author/bunin/text/3674/p.1 --- Ритм
+/author/bunin/text/3570/p.1 --- Род приходит уходит
+/author/bunin/text/3297/p.1 --- Родина
+/author/bunin/text/3263/p.1 --- Родине
+/author/bunin/text/3333/p.1 --- Родник
+/author/bunin/text/1056/p.1 --- Роза Иерихона
+/author/bunin/text/3435/p.1 --- Розы
+/author/bunin/text/3588/p.1 --- Розы Шираза
+/author/bunin/text/1707/p.1 --- Роняя снег проходят тучи
+/author/bunin/text/3700/p.1 --- Роса при бледно-розовом огне
+/author/bunin/text/1701/p.1 --- Рубины мрачные цвели чернели в нем
+/author/bunin/text/3766/p.1 --- Руслан
+/author/bunin/text/3443/p.1 --- Русская весна
+/author/bunin/text/1490/p.1 --- Руся
+/author/bunin/text/3347/p.1 --- Ручей
+/author/bunin/text/3612/p.1 --- Рыбалка
+/author/bunin/text/3583/p.1#p2 --- Рыбацкая
+/author/bunin/text/3617/p.1 --- Рыбачка
+/author/bunin/text/3764/p.1 --- Рыжими иголками
+/author/bunin/text/1700/p.1 --- С Иосифом господь беседовал в ночи
+/author/bunin/text/3768/p.1 --- С востока дует холодом чернеет зыбь реки
+/author/bunin/text/3759/p.1 --- С застывшими в блеске зрачками
+/author/bunin/text/3579/p.1 --- С корабля
+/author/bunin/text/3589/p.1 --- С обезьяной
+/author/bunin/text/3463/p.1 --- С острогой
+/author/bunin/text/3354/p.1 --- С темной башни колокол уныло
+/author/bunin/text/3596/p.1 --- Саваоф
+/author/bunin/text/3440/p.1 --- Самсон
+/author/bunin/text/3442/p.1 --- Сапсан
+/author/bunin/text/3523/p.1 --- Сатана богу
+/author/bunin/text/3578/p.1 --- Сатурн
+/author/bunin/text/3693/p.1 --- Сафия проснувшись заплетает ловкой
+/author/bunin/text/3562/p.1 --- Свежа в апреле ранняя заря
+/author/bunin/text/3334/p.1 --- Свежее слаще воздух горный
+/author/bunin/text/3265/p.1 --- Свежеют с каждым днем и молодеют сосны
+/author/bunin/text/3583/p.1#p1 --- Свежий ветер дует в сумерках
+/author/bunin/text/3685/p.1 --- Свекровь-госпожа в терему до полдён заспалась
+/author/bunin/text/3761/p.1 --- Сверкала Ступа снежной белизною
+/author/bunin/text/3812/p.1 --- Свет незакатный
+/author/bunin/text/3516/p.1 --- Светильники горели непонятный
+/author/bunin/text/3362/p.1 --- Светит в горы небо голубое
+/author/bunin/text/3754/p.1 --- Светит сети ткет паук
+/author/bunin/text/3719/p.1 --- Светло в светлице от окна
+/author/bunin/text/3376/p.1 --- Светло как днем и тень за нами бродит
+/author/bunin/text/3491/p.1 --- Светло легко и своенравно
+/author/bunin/text/3677/p.1 --- Светляк
+/author/bunin/text/3306/p.1 --- Свечи нагорели долог зимний вечер
+/author/bunin/text/3427/p.1 --- Свой дикий чум среди снегов и льда
+/author/bunin/text/3761/p.1 --- Святилище
+/author/bunin/text/3715/p.1 --- Святитель
+/author/bunin/text/3681/p.1 --- Святогор
+/author/bunin/text/3722/p.1 --- Святогор и Илья
+/author/bunin/text/3696/p.1 --- Святой Евстафий
+/author/bunin/text/3723/p.1 --- Святой Прокопий
+/author/bunin/text/3521/p.1 --- Священный прах
+/author/bunin/text/3841/p.1 --- Се жених грядет
+/author/bunin/text/3396/p.1 --- Северная береза
+/author/bunin/text/3305/p.1 --- Северное море
+/author/bunin/text/3828/p.1 --- Сегодня в первый раз один брожу в аллее
+/author/bunin/text/3250/p.1 --- Седое небо надо мной
+/author/bunin/text/3804/p.1 --- Семнадцатый год
+/author/bunin/text/3625/p.1 --- Сенокос
+/author/bunin/text/3231/p.1 --- Серп луны под тучкой длинной
+/author/bunin/text/3716/p.1 --- Сивером на холоде
+/author/bunin/text/3425/p.1 --- Синеет снеговой простор
+/author/bunin/text/3737/p.1 --- Синие обои полиняли
+/author/bunin/text/3678/p.1 --- Синий ворон от падали
+/author/bunin/text/3743/p.1 --- Сирокко
+/author/bunin/text/3434/p.1 --- Сказка
+/author/bunin/text/3714/p.1 --- Сказка о козе
+/author/bunin/text/1584/p.1 --- Скарабеи
+/author/bunin/text/3307/p.1 --- Скачет пристяжная снегом обдает
+/author/bunin/text/3472/p.1 --- Сквозь ветви
+/author/bunin/text/3690/p.1 --- Сквозь редкий сад шумит в тумане море
+/author/bunin/text/3441/p.1 --- Склон гор
+/author/bunin/text/3601/p.1 --- Скользят текут огни зеленых мух
+/author/bunin/text/3720/p.1 --- Скоморохи
+/author/bunin/text/3443/p.1 --- Скучно в лощинах березам
+/author/bunin/text/3557/p.1 --- Слепой
+/author/bunin/text/1702/p.1 --- Слово
+/author/bunin/text/1820/p.1 --- Смарагд
+/author/bunin/text/3386/p.1 --- Смерть
+/author/bunin/text/3377/p.1 --- Смотрит месяц ненастный как сыплются желтые листья
+/author/bunin/text/3810/p.1 --- Смотрит на море старый Султан
+/author/bunin/text/3487/p.1 --- Смугла ланиты побледнели
+/author/bunin/text/3816/p.1 --- Смятенье крик и визг рыбалок
+/author/bunin/text/3313/p.1 --- Снова сон пленительный и сладкий
+/author/bunin/text/1177/p.1 --- Сны Чанга
+/author/bunin/text/1851/p.1 --- Собака
+/author/bunin/text/3646/p.1 --- Солнечные часы
+/author/bunin/text/1020/p.1 --- Солнечный удар
+/author/bunin/text/3752/p.1 --- Солнце полночное тени лиловые
+/author/bunin/text/3268/p.1 --- Соловьи
+/author/bunin/text/3733/p.1 --- Сон
+/author/bunin/text/3510/p.1 --- Сон
+/author/bunin/text/3724/p.1 --- Сон епископа Игнатия Ростовского
+/author/bunin/text/3820/p.1 --- Сорвался вихрь промчал из края в край
+/author/bunin/text/3386/p.1 --- Спокойно на погосте под луною
+/author/bunin/text/3359/p.1 --- Спокойный взор подобный взору лани
+/author/bunin/text/3636/p.1 --- Сполохи
+/author/bunin/text/3632/p.1 --- Спор
+/author/bunin/text/3760/p.1 --- Спутница
+/author/bunin/text/3625/p.1 --- Среди двора в батистовой рубашке
+/author/bunin/text/3789/p.1 --- Среди звезд
+/author/bunin/text/3679/p.1 --- Среди кривых стволов среди ветвей корявых
+/author/bunin/text/3638/p.1 --- Стал на ковер у якорных цепей
+/author/bunin/text/3814/p.1 --- Стали дымом стали выше
+/author/bunin/text/3839/p.1 --- Сталь
+/author/bunin/text/3454/p.1 --- Стамбул
+/author/bunin/text/3801/p.1 --- Старая яблоня
+/author/bunin/text/3850/p.1 --- Старик с серьгой морщинистый и бритый
+/author/bunin/text/3445/p.1 --- Старик сидел покорно и уныло
+/author/bunin/text/3409/p.1 --- Старик у хаты веял подкидывал лопату
+/author/bunin/text/1175/p.1 --- Старуха
+/author/bunin/text/3346/p.1 --- Старую книгу читаю я в долгие ночи
+/author/bunin/text/3308/p.1 --- Старый сад всю ночь гудел угрюмо
+/author/bunin/text/3465/p.1 --- Статуя рабыни-христианки
+/author/bunin/text/3316/p.1 --- Стемнело Вдоль аллей над сонными прудами
+/author/bunin/text/3748/p.1 --- Стена горы — до небосвода
+/author/bunin/text/1814/p.1 --- Степа
+/author/bunin/text/3678/p.1 --- Степь
+/author/bunin/text/1837/p.1 --- Сто рупий
+/author/bunin/text/3849/p.1 --- Стоит трепещет Стрекоза
+/author/bunin/text/3848/p.1 --- Стой со сжатыми скулами
+/author/bunin/text/3751/p.1 --- Стой солнце
+/author/bunin/text/3508/p.1 --- Столп огненный
+/author/bunin/text/3479/p.1 --- Стон
+/author/bunin/text/3630/p.1 --- Сторож
+/author/bunin/text/3357/p.1 --- Стояли ночи северного мая
+/author/bunin/text/3800/p.1 --- Странно создан человек
+/author/bunin/text/3542/p.1 --- Стрижи
+/author/bunin/text/3671/p.1 --- Судный день
+/author/bunin/text/3474/p.1 --- Судра
+/author/bunin/text/3337/p.1 --- Сумерки
+/author/bunin/text/3423/p.1 --- Сумерки
+/author/bunin/text/3327/p.1 --- Сумрак ночи к западу уходит
+/author/bunin/text/3622/p.1 --- Сумрачно скучно светает заря
+/author/bunin/text/1859/p.1 --- Суходол
+/author/bunin/text/3302/p.1 --- Счастлив я когда ты голубые
+/author/bunin/text/3632/p.1 --- — Счастливы мы фессалийцы Черное с розовой пеной
+/author/bunin/text/3509/p.1 --- Сын человеческий
+/author/bunin/text/3788/p.1 --- Тает сияет луна в облаках
+/author/bunin/text/3271/p.1 --- Тает снег — и солнце ярко
+/author/bunin/text/3319/p.1 --- Таинственно шумит лесная тишина
+/author/bunin/text/3462/p.1 --- Тайна
+/author/bunin/text/3673/p.1 --- Так говорит господь „Когда мой раб любимый
+/author/bunin/text/3315/p.1 --- Так небо низко и уныло
+/author/bunin/text/3398/p.1 --- Так ярко звезд горит узор
+/author/bunin/text/3812/p.1 --- Там в полях на погосте
+/author/bunin/text/3563/p.1 --- Там иволга как флейта распевала
+/author/bunin/text/3411/p.1 --- Там на припеке спят рыбацкие ковши
+/author/bunin/text/3739/p.1 --- Там не светит солнце не бывает ночи
+/author/bunin/text/1840/p.1 --- Таня
+/author/bunin/text/3715/p.1 --- Твой гроб дубовая колода
+/author/bunin/text/3646/p.1 --- Те часики с эмалью что впотьмах
+/author/bunin/text/3415/p.1 --- Тебя зовут божественною Мира
+/author/bunin/text/3568/p.1 --- Тезей
+/author/bunin/text/3741/p.1 --- Темнеет зимний день спокойствие и мрак
+/author/bunin/text/1021/p.1 --- Темные аллеи
+/author/bunin/text/1844 --- Темные аллеи
+/author/bunin/text/1715/p.1 --- Темный ельник снегами как мехом
+/author/bunin/text/1717/p.1 --- Темный кедр растет среди долины
+/author/bunin/text/3421/p.1 --- Тень
+/author/bunin/text/3688/p.1 --- Теплой ночью горною тропинкой
+/author/bunin/text/3501/p.1 --- Терем
+/author/bunin/text/3780/p.1 --- Тихой ночью поздний месяц вышел
+/author/bunin/text/3626/p.1 --- То было в полдень в Нубии на Ниле
+/author/bunin/text/3795/p.1 --- То не красный голубь метнулся
+/author/bunin/text/3268/p.1 --- То разрастаясь то слабея
+/author/bunin/text/3455/p.1 --- Тонет солнце рдяным углем тонет
+/author/bunin/text/1699/p.1 --- Тора
+/author/bunin/text/3653/p.1 --- Торчит журавль над шахтой под горой
+/author/bunin/text/3559/p.1 --- Трава пестрит — как разглядеть змею
+/author/bunin/text/3308/p.1 --- Три ночи
+/author/bunin/text/3274/p.1 --- Троица
+/author/bunin/text/3611/p.1 --- Трон Соломона
+/author/bunin/text/3469/p.1 --- Тропами потаенными
+/author/bunin/text/1716/p.1 --- Тропинкой темною лесною
+/author/bunin/text/3576/p.1 --- Трясина
+/author/bunin/text/3260/p.1 --- Ту звезду что качалася в темной воде
+/author/bunin/text/3622/p.1 --- Туман
+/author/bunin/text/3672/p.1 --- Туман прозрачный по полям
+/author/bunin/text/3710/p.1 --- Туманно утро красное туманно
+/author/bunin/text/3496/p.1 --- Туманный серп неясный полумрак
+/author/bunin/text/3567/p.1 --- „Тут покоится хан покоривший несметные страны
+/author/bunin/text/3241/p.1 --- Туча растаяла Влажным теплом
+/author/bunin/text/3656/p.1 --- Ты мысль ты сон Сквозь дымную метель
+/author/bunin/text/3520/p.1 --- Ты почиешь в ларце в драгоценном ковчеге
+/author/bunin/text/3728/p.1 --- Ты светлая ночь полнолунная высь
+/author/bunin/text/3495/p.1 --- Ты чужая но любишь
+/author/bunin/text/3424/p.1 --- Тьма затопляет лунный блеск
+/author/bunin/text/3461/p.1 --- Тэмджид
+/author/bunin/text/3506/p.1 --- У берегов Малой Азии
+/author/bunin/text/1708/p.1 --- У ворот Сиона над Кедроном
+/author/bunin/text/3736/p.1 --- У гробницы Виргилия
+/author/bunin/text/3835/p.1 --- У залива
+/author/bunin/text/3684/p.1 --- У меня сироты была мачеха злая
+/author/bunin/text/3707/p.1 --- У нубийских черных хижин
+/author/bunin/text/3500/p.1 --- У шалаша
+/author/bunin/text/3826/p.1 --- Угас поэт в расцвете силы
+/author/bunin/text/3670/p.1 --- Уголь
+/author/bunin/text/3471/p.1 --- Угрюмо шмель гудит толкаясь по стеклу
+/author/bunin/text/1718/p.1 --- Ударил колокол — и дрогнул сон гробниц
+/author/bunin/text/3754/p.1 --- Уездное
+/author/bunin/text/3410/p.1 --- Уж подсыхает хмель на тыне
+/author/bunin/text/3805/p.1 --- Укоры
+/author/bunin/text/3403/p.1 --- Уличив меня в измене
+/author/bunin/text/3362/p.1 --- Утро
+/author/bunin/text/3334/p.1 --- Учан-Су
+/author/bunin/text/3606/p.1 --- Ушли с рассветом Опустели
+/author/bunin/text/3762/p.1 --- Феска
+/author/bunin/text/1466/p.1 --- Хаду — слепец он жалок Мрак глубокий
+/author/bunin/text/3460/p.1 --- Хая-Баш
+/author/bunin/text/3797/p.1 --- Ходили в мире лже-Мессии
+/author/bunin/text/1703/p.1 --- Хозяин умер дом забит
+/author/bunin/text/3679/p.1 --- Холодная весна
+/author/bunin/text/1055/p.1 --- Холодная осень
+/author/bunin/text/3832/p.1 --- Холодные темные ночи стоят
+/author/bunin/text/3305/p.1 --- Холодный ветер резкий и упорный
+/author/bunin/text/3553/p.1 --- Храм Солнца
+/author/bunin/text/3299/p.1 --- Христос воскрес Опять с зарею
+/author/bunin/text/3620/p.1 --- Христя
+/author/bunin/text/3608/p.1 --- Хрустя по серой гальке он прошел
+/author/bunin/text/3703/p.1 --- Худая компаньонка иностранка
+/author/bunin/text/3608/p.1 --- Художник
+/author/bunin/text/3510/p.1 --- Царь вот твой сон блистал перед тобою
+/author/bunin/text/3426/p.1 --- Цветет жасмин Зеленой чащей
+/author/bunin/text/3587/p.1 --- Цветок Мандрагора из могил расцветает
+/author/bunin/text/3701/p.1 --- Цейлон
+/author/bunin/text/3756/p.1 --- Цейлон
+/author/bunin/text/3734/p.1 --- Цирцея
+/author/bunin/text/1813/p.1 --- Цифры
+/author/bunin/text/3248/p.1 --- Цыганка
+/author/bunin/text/3554/p.1 --- Чалма на мудром — как луна
+/author/bunin/text/1841/p.1 --- Часовня
+/author/bunin/text/3674/p.1 --- Часы шипя двенадцать раз пробили
+/author/bunin/text/3391/p.1 --- Чашу с темным вином подала мне богиня печали
+/author/bunin/text/3497/p.1 --- Чем жарче день тем сладостней в бору
+/author/bunin/text/3721/p.1 --- Чернеет зыбкий горизонт
+/author/bunin/text/3452/p.1 --- Черные ели и сосны сквозят в палисаднике темном
+/author/bunin/text/1704/p.1 --- Черный бархатный шмель золотое оплечье
+/author/bunin/text/3483/p.1 --- Черный камень Каабы
+/author/bunin/text/3486/p.1 --- Чибисы
+/author/bunin/text/1019/p.1 --- Чистый понедельник
+/author/bunin/text/3288/p.1 --- Что в том что где-то на далеком
+/author/bunin/text/3709/p.1 --- Что ты мутный светел-месяц
+/author/bunin/text/3280/p.1#p1 --- Что шумит-звенит перед зарею
+/author/bunin/text/3495/p.1 --- Чужая
+/author/bunin/text/3760/p.1 --- Шелковой юбкой шурша
+/author/bunin/text/3711/p.1 --- Шестикрылый
+/author/bunin/text/3553/p.1 --- Шесть золотистых мраморных колонн
+/author/bunin/text/3669/p.1 --- Шипит и не встает верблюд
+/author/bunin/text/3223/p.1 --- Шире грудь распахнись для принятия
+/author/bunin/text/3395/p.1 --- Широко меж вершин дубравы
+/author/bunin/text/3556/p.1 --- Шла сиротка пыльною дорогой
+/author/bunin/text/3438/p.1 --- Штиль
+/author/bunin/text/3548/p.1 --- Штиль в безгранично-светлом Ак-Денизе
+/author/bunin/text/3375/p.1 --- Шумели листья облетая
+/author/bunin/text/3565/p.1 --- Щебечут пестрокрылые чеканки
+/author/bunin/text/3822/p.1 --- Щеглы их звон стеклянный неживой
+/author/bunin/text/3799/p.1 --- Эллада
+/author/bunin/text/3458/p.1 --- Эльбурс
+/author/bunin/text/3379/p.1 --- Эпиталама
+/author/bunin/text/1709/p.1 --- Эпитафия
+/author/bunin/text/1473/p.1 --- Эпитафия
+/author/bunin/text/3505/p.1 --- Эсхил
+/author/bunin/text/3552/p.1 --- Это было весной За восточной стеной
+/author/bunin/text/3372/p.1 --- Это было глухое тяжелое время
+/author/bunin/text/3714/p.1 --- Это волчьи глаза или звезды — в стволах на краю перелеска
+/author/bunin/text/3823/p.1 --- Этой краткой жизни вечным измененьем
+/author/bunin/text/3523/p.1 --- Я — из огня Адам — из мертвой глины
+/author/bunin/text/3489/p.1 --- Я — простая девка на баштане
+/author/bunin/text/3509/p.1 --- Я Иоанн ваш брат и соучастник
+/author/bunin/text/3836/p.1 --- Я в бездне был я жил кошмаром
+/author/bunin/text/1473/p.1 --- Я девушкой невестой умерла
+/author/bunin/text/3429/p.1 --- Я долго в сумеречном свете
+/author/bunin/text/3311/p.1 --- Я к ней вошел в полночный час
+/author/bunin/text/3699/p.1 --- Я косы девичьи плела
+/author/bunin/text/3648/p.1 --- Я помню спальню и лампадку
+/author/bunin/text/3596/p.1 --- Я помню сумрак каменных аркад
+/author/bunin/text/3796/p.1 --- Я снял узду седло — и вольно
+/author/bunin/text/3505/p.1 --- Я содрогаюсь глядя на твои
+/author/bunin/text/1465/p.1 --- Я уснул в грозу среди ненастья
+/author/bunin/text/3599/p.1 --- Я черных коз пасла с меньшой сестрой
+/author/bunin/text/3229/p.1 --- Ясным утром на тихом пруде

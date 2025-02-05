@@ -1,0 +1,4 @@
+/author/grin/form.2 --- Повести
+/author/grin/form.8 --- Рассказы
+/author/grin/text/1845/p.1 --- Алые паруса
+/author/grin/text/4554/p.1 --- Зеленая лампа

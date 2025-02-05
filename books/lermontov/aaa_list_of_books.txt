@@ -1,0 +1,272 @@
+/author/lermontov/theme.1 --- О любви
+/author/lermontov/theme.2 --- О детях
+/author/lermontov/theme.4 --- О природе
+/author/lermontov/theme.5 --- Об осени
+/author/lermontov/theme.11 --- О дружбе
+/author/lermontov/theme.12 --- О родине
+/author/lermontov/theme.13 --- О женщине
+/author/lermontov/theme.14 --- О смерти
+/author/lermontov/theme.15 --- О России
+/author/lermontov/theme.17 --- О поэтах и поэзии
+/author/lermontov/theme.19 --- О жизни
+/author/lermontov/theme.21 --- О душе
+/author/lermontov/theme.22 --- О войне
+/author/lermontov/theme.27 --- О счастье
+/author/lermontov/theme.37 --- О вдохновении
+/author/lermontov/form.1 --- Романы
+/author/lermontov/form.2 --- Повести
+/author/lermontov/form.5 --- Стихотворения
+/author/lermontov/form.6 --- Поэмы
+/author/lermontov/form.9 --- Пьесы
+/author/lermontov/form.14 --- Эпиграммы
+/author/lermontov/form.16 --- Баллады
+/author/lermontov/form.18 --- Элегии
+/author/lermontov/form.21 --- Драмы
+/author/lermontov/text/4103/p.1 --- А О Смирновой
+/author/lermontov/text/2547/p.1#p4 --- Аминт твой на глупца походит
+/author/lermontov/text/1323/p.1 --- Ангел
+/author/lermontov/text/2548/p.1 --- Ах сокрылась в мрак ненастный
+/author/lermontov/text/4098/p.1 --- Ашик-Кериб
+/author/lermontov/text/4106/p.1 --- Баллада
+/author/lermontov/text/2508/p.1 --- Баллада
+/author/lermontov/text/1329/p.1 --- Беглец
+/author/lermontov/text/998/p.1 --- Белеет парус одинокой
+/author/lermontov/text/4100/p.1 --- Благодарность
+/author/lermontov/text/2/p.1 --- Бородино
+/author/lermontov/text/1081/p.1 --- Боярин Орша
+/author/lermontov/text/4115/p.1 --- В альбом
+/author/lermontov/text/1154/p.1 --- В глубокой теснине Дарьяла
+/author/lermontov/text/2564/p.1 --- В день рождения N N
+/author/lermontov/text/1038/p.1 --- В минуту жизни трудную
+/author/lermontov/text/1148/p.1 --- В море царевич купает коня
+/author/lermontov/text/1037/p.1 --- В песчаных степях аравийской земли
+/author/lermontov/text/1780/p.1 --- В полдневный жар в долине Дагестана
+/author/lermontov/text/4103/p.1 --- В простосердечии невежды
+/author/lermontov/text/4113/p.1 --- В старинны годы люди были
+/author/lermontov/text/2518/p.1 --- В уме своем я создал мир иной
+/author/lermontov/text/1063/p.1 --- В шапке золота литого
+/author/lermontov/text/4097/p.1 --- 〈Валерик〉
+/author/lermontov/text/2509/p.1 --- Вельможи толпою стояли
+/author/lermontov/text/2531/p.1 --- Веселый час
+/author/lermontov/text/1057/p.1 --- Ветка Палестины
+/author/lermontov/text/2506/p.1 --- Взлелеянный на лоне вдохновенья
+/author/lermontov/text/1776/p.1 --- Воздушный корабль
+/author/lermontov/text/2544/p.1 --- Война
+/author/lermontov/text/2529/p.1 --- Вот друг плоды моей небрежной музы
+/author/lermontov/text/2536/p.1#p4 --- Всё в мире суета он мнит или отрава
+/author/lermontov/text/2536/p.1#p5 --- Всегда он с улыбкой веселой
+/author/lermontov/text/2566/p.1 --- Встреча
+/author/lermontov/text/1033/p.1 --- Выхожу один я на дорогу
+/author/lermontov/text/2547/p.1#p4 --- Г-ну П
+/author/lermontov/text/1329/p.1 --- Гарун бежал быстрее лани
+/author/lermontov/text/2522/p.1 --- Где бьет волна о брег высокой
+/author/lermontov/text/12/p.1 --- Герой нашего времени
+/author/lermontov/text/2563/p.1 --- Глядися чаще в зеркала
+/author/lermontov/text/4101/p.1 --- Горные вершины
+/author/lermontov/text/4122/p.1 --- 〈Графине Ростопчиной〉
+/author/lermontov/text/4116/p.1 --- Гроза
+/author/lermontov/text/2560/p.1 --- Грузинская песня
+/author/lermontov/text/4112/p.1 --- Давно ли с зеленью радушной
+/author/lermontov/text/2547/p.1#p6 --- Дамон наш врач о друге прослезился
+/author/lermontov/text/1063/p.1 --- Два великана
+/author/lermontov/text/2559/p.1 --- Два сокола
+/author/lermontov/text/2511/p.1 --- Делись со мною тем что знаешь
+/author/lermontov/text/1149/p.1 --- Демон
+/author/lermontov/text/4112/p.1 --- Дереву
+/author/lermontov/text/2510/p.1 --- Дитя в люльке
+/author/lermontov/text/2536/p.1#p2 --- Довольно толст довольно тучен
+/author/lermontov/text/4123/p.1 --- Договор
+/author/lermontov/text/1034/p.1 --- Дубовый листок оторвался от ветки родимой
+/author/lermontov/text/1013/p.1 --- Дума
+/author/lermontov/text/2533/p.1 --- Дурак и старая кокетка — всё равно
+/author/lermontov/text/2534/p.1 --- „Душа телесна“ — ты всех уверяешь смело
+/author/lermontov/text/2547/p.1#p1 --- Есть люди странные которые с друзьями
+/author/lermontov/text/1327/p.1 --- Есть место близ тропы глухой
+/author/lermontov/text/2523/p.1 --- Жалобы турка
+/author/lermontov/text/1062/p.1 --- Желанье
+/author/lermontov/text/2505/p.1 --- Жена Севера
+/author/lermontov/text/2560/p.1 --- Жила грузинка молодая
+/author/lermontov/text/4100/p.1 --- За все за все тебя благодарю я
+/author/lermontov/text/109/p.1 --- Заблуждение Купидона
+/author/lermontov/text/2527/p.1 --- Забудь любезный П〈етерсо〉н
+/author/lermontov/text/2562/p.1 --- Забывши волнения жизни мятежной
+/author/lermontov/text/1327/p.1 --- Завещание
+/author/lermontov/text/1328/p.1 --- Завещание
+/author/lermontov/text/2544/p.1 --- Зажглась друзья мои война
+/author/lermontov/text/2531/p.1 --- Зачем вы на меня
+/author/lermontov/text/4117/p.1 --- Звезда
+/author/lermontov/text/4121/p.1 --- И П Мятлеву
+/author/lermontov/text/1032/p.1 --- И скучно и грустно
+/author/lermontov/text/4101/p.1 --- Из Гете
+/author/lermontov/text/4120/p.1 --- Из-под таинственной холодной полумаски
+/author/lermontov/text/1061/p.1 --- К 
+/author/lermontov/text/2546/p.1 --- К N N
+/author/lermontov/text/2557/p.1 --- К N N
+/author/lermontov/text/2555/p.1 --- К Грузинову
+/author/lermontov/text/2528/p.1 --- К Дву
+/author/lermontov/text/2520/p.1 --- К
+/author/lermontov/text/2548/p.1 --- К Нине
+/author/lermontov/text/2527/p.1 --- К Пну
+/author/lermontov/text/2516/p.1 --- К гению
+/author/lermontov/text/2506/p.1 --- К другу
+/author/lermontov/text/2532/p.1 --- К друзьям
+/author/lermontov/text/1014/p.1 --- К портрету
+/author/lermontov/text/2511/p.1 --- К
+/author/lermontov/text/2563/p.1 --- К
+/author/lermontov/text/2507/p.1 --- К
+/author/lermontov/text/2514/p.1 --- К
+/author/lermontov/text/1082/p.1 --- Кавказ
+/author/lermontov/text/1014/p.1 --- Как мальчик кудрявый резва
+/author/lermontov/text/4114/p.1 --- Как страшно жизни сей оковы
+/author/lermontov/text/1031/p.1 --- Как часто пестрою толпою окружен
+/author/lermontov/text/1778/p.1 --- Как-то раз перед толпою
+/author/lermontov/text/4107/p.1 --- Катерина Катерина
+/author/lermontov/text/1036/p.1 --- Кинжал
+/author/lermontov/text/2535/p.1 --- Коварной жизнью недовольный
+/author/lermontov/text/1325/p.1 --- Когда Рафаэль вдохновенный
+/author/lermontov/text/2516/p.1 --- Когда во тьме ночей мой не смыкаясь взор
+/author/lermontov/text/1060/p.1 --- Когда волнуется желтеющая нива
+/author/lermontov/text/1152/p.1 --- Корсар
+/author/lermontov/text/1059/p.1 --- Кто б ни был ты печальный мой сосед
+/author/lermontov/text/2558/p.1 --- Кто муки знал когда-нибудь
+/author/lermontov/text/4106/p.1 --- Куда так проворно жидовка младая
+/author/lermontov/text/1034/p.1 --- Листок
+/author/lermontov/text/103/p.1 --- Листья в поле пожелтели
+/author/lermontov/text/2536/p.1#p3 --- Лукав завистлив зол и страстен
+/author/lermontov/text/2556/p.1 --- Люблю друзья когда за речкой гаснет день
+/author/lermontov/text/997/p.1 --- Люблю отчизну я но странною любовью
+/author/lermontov/text/1036/p.1 --- Люблю тебя булатный мой кинжал
+/author/lermontov/text/4118/p.1 --- Любовь мертвеца
+/author/lermontov/text/2534/p.1 --- Мадригал
+/author/lermontov/text/1247/p.1 --- Маскарад
+/author/lermontov/text/4119/p.1 --- Меж тем как Франция среди рукоплесканий
+/author/lermontov/text/4099/p.1 --- Мне грустно потому что я тебя люблю
+/author/lermontov/text/2525/p.1 --- Мой демон
+/author/lermontov/text/1038/p.1 --- Молитва
+/author/lermontov/text/2512/p.1 --- Молитва
+/author/lermontov/text/4108/p.1 --- Молитва
+/author/lermontov/text/1326/p.1 --- Молча сижу под окошком темницы
+/author/lermontov/text/1153/p.1 --- Монолог
+/author/lermontov/text/1148/p.1 --- Морская царевна
+/author/lermontov/text/991/p.1 --- Мцыри
+/author/lermontov/text/2565/p.1 --- Мы снова встретились с тобой
+/author/lermontov/text/4121/p.1 --- На наших дам морозных
+/author/lermontov/text/999/p.1 --- На севере диком стоит одиноко
+/author/lermontov/text/2526/p.1 --- На склоне гор близ вод прохожий зрел ли ты
+/author/lermontov/text/2508/p.1 --- Над морем красавица-дева сидит
+/author/lermontov/text/1328/p.1 --- Наедине с тобою брат
+/author/lermontov/text/2522/p.1 --- Наполеон
+/author/lermontov/text/4111/p.1 --- Настанет год России черный год
+/author/lermontov/text/2514/p.1 --- Не говори одним высоким
+/author/lermontov/text/2557/p.1 --- Не играй моей тоской
+/author/lermontov/text/2512/p.1 --- Не обвиняй меня всесильный
+/author/lermontov/text/2520/p.1 --- Не привлекай меня красой
+/author/lermontov/text/4109/p.1 --- Не смейся над моей пророческой тоскою
+/author/lermontov/text/1064/p.1 --- Небо и звезды
+/author/lermontov/text/2545/p.1 --- Невинный нежною душою
+/author/lermontov/text/4113/p.1 --- Незабудка
+/author/lermontov/text/4115/p.1 --- Нет — я не требую вниманья
+/author/lermontov/text/1043/p.1 --- Нет не тебя так пылко я люблю
+/author/lermontov/text/1147/p.1 --- Нет я не Байрон я другой
+/author/lermontov/text/1039/p.1 --- Нищий
+/author/lermontov/text/1035/p.1 --- Новгород
+/author/lermontov/text/1040/p.1 --- Ночевала тучка золотая
+/author/lermontov/text/2561/p.1 --- О Если б дни мои текли
+/author/lermontov/text/4102/p.1 --- О грезах юности томим воспоминаньем
+/author/lermontov/text/2513/p.1 --- Один среди людского шума
+/author/lermontov/text/4114/p.1 --- Одиночество
+/author/lermontov/text/109/p.1 --- Однажды женщины Эрота отодрали
+/author/lermontov/text/2536/p.1#p6 --- Он любимец мягкой лени
+/author/lermontov/text/2536/p.1#p1 --- Он не красив он не высок
+/author/lermontov/text/2566/p.1 --- Она одна меж дев своих стояла
+/author/lermontov/text/1779/p.1 --- Они любили друг друга так долго и нежно
+/author/lermontov/text/2515/p.1 --- Опасение
+/author/lermontov/text/103/p.1 --- Осень
+/author/lermontov/text/2558/p.1 --- Ответ
+/author/lermontov/text/1062/p.1 --- Отворите мне темницу
+/author/lermontov/text/1324/p.1 --- Отделкой золотой блистает мой кинжал
+/author/lermontov/text/4099/p.1 --- Отчего
+/author/lermontov/text/2556/p.1 --- Пан
+/author/lermontov/text/998/p.1 --- Парус
+/author/lermontov/text/2509/p.1 --- Перчатка
+/author/lermontov/text/2519/p.1 --- Песня
+/author/lermontov/text/1151/p.1 --- Песня про царя Ивана Васильевича молодого опричника и удалого купца Калашникова
+/author/lermontov/text/1013/p.1 --- Печально я гляжу на наше поколенье
+/author/lermontov/text/2530/p.1 --- Пир
+/author/lermontov/text/2543/p.1 --- Письмо
+/author/lermontov/text/1326/p.1 --- Пленный рыцарь
+/author/lermontov/text/1323/p.1 --- По небу полуночи ангел летел
+/author/lermontov/text/1776/p.1 --- По синим волнам океана
+/author/lermontov/text/1153/p.1 --- Поверь ничтожество есть благо в здешнем свете
+/author/lermontov/text/990/p.1 --- Погиб поэт — невольник чести
+/author/lermontov/text/2517/p.1 --- Покаяние
+/author/lermontov/text/2505/p.1 --- Покрыта таинств легкой сеткой
+/author/lermontov/text/2521/p.1 --- Попался мне один рыбак
+/author/lermontov/text/2536/p.1 --- Портреты
+/author/lermontov/text/2529/p.1 --- Посвящение N N
+/author/lermontov/text/4107/p.1 --- Послание
+/author/lermontov/text/4119/p.1 --- Последнее новоселье
+/author/lermontov/text/1325/p.1 --- Поэт
+/author/lermontov/text/1324/p.1 --- Поэт
+/author/lermontov/text/2547/p.1#p3 --- Поэтом (хоть и это бремя)
+/author/lermontov/text/4111/p.1 --- Предсказание
+/author/lermontov/text/2530/p.1 --- Приди ко мне любезный друг
+/author/lermontov/text/1042/p.1 --- Пророк
+/author/lermontov/text/1041/p.1 --- Прощай немытая Россия
+/author/lermontov/text/4123/p.1 --- Пускай толпа клеймит презреньем
+/author/lermontov/text/4118/p.1 --- Пускай холодною землею
+/author/lermontov/text/1083/p.1 --- Расстались мы но твой портрет
+/author/lermontov/text/4102/p.1 --- Ребенку
+/author/lermontov/text/4116/p.1 --- Ревет гроза дымятся тучи
+/author/lermontov/text/997/p.1 --- Родина
+/author/lermontov/text/2535/p.1 --- Романс
+/author/lermontov/text/2545/p.1 --- Романс
+/author/lermontov/text/4105/p.1 --- Русалка
+/author/lermontov/text/2518/p.1 --- Русская мелодия
+/author/lermontov/text/1042/p.1 --- С тех пор как вечный судия
+/author/lermontov/text/4117/p.1 --- Светись светись далекая звезда
+/author/lermontov/text/2519/p.1 --- Светлый призрак дней минувших
+/author/lermontov/text/2543/p.1 --- Свеча горит дрожащею рукою
+/author/lermontov/text/4104/p.1 --- Сидел рыбак веселый
+/author/lermontov/text/1057/p.1 --- Скажи мне ветка Палестины
+/author/lermontov/text/2/p.1 --- — Скажи-ка дядя ведь не даром
+/author/lermontov/text/2555/p.1 --- Скажу любезный мой приятель
+/author/lermontov/text/990/p.1 --- Смерть поэта
+/author/lermontov/text/2525/p.1 --- Собранье зол его стихия
+/author/lermontov/text/1780/p.1 --- Сон
+/author/lermontov/text/1059/p.1 --- Сосед
+/author/lermontov/text/1778/p.1 --- Спор
+/author/lermontov/text/2559/p.1 --- Степь синея расстилалась
+/author/lermontov/text/2515/p.1 --- Страшись любви она пройдет
+/author/lermontov/text/2547/p.1#p5 --- Стыдить лжеца шутить над дураком
+/author/lermontov/text/2510/p.1 --- Счастлив ребенок и в люльке просторно ему
+/author/lermontov/text/1035/p.1 --- Сыны снегов сыны славян
+/author/lermontov/text/1154/p.1 --- Тамара
+/author/lermontov/text/2547/p.1#p2 --- Тот самый человек пустой
+/author/lermontov/text/2521/p.1 --- Три ведьмы
+/author/lermontov/text/1037/p.1 --- Три пальмы
+/author/lermontov/text/4104/p.1 --- Тростник
+/author/lermontov/text/1015/p.1 --- Тучи
+/author/lermontov/text/2523/p.1 --- Ты знал ли дикий край под знойными лучами
+/author/lermontov/text/2546/p.1 --- Ты не хотел но скоро волю рока
+/author/lermontov/text/1039/p.1 --- У врат обители святой
+/author/lermontov/text/1058/p.1 --- Узник
+/author/lermontov/text/1040/p.1 --- Утес
+/author/lermontov/text/1082/p.1 --- Хотя я судьбой на заре моих дней
+/author/lermontov/text/2526/p.1 --- Цевница
+/author/lermontov/text/2564/p.1 --- Чего тебе мой милый пожелать
+/author/lermontov/text/2524/p.1 --- Черкешенка
+/author/lermontov/text/1064/p.1 --- Чисто вечернее небо
+/author/lermontov/text/1150/p.1 --- 〈Штосс〉
+/author/lermontov/text/2561/p.1 --- Элегия
+/author/lermontov/text/2533/p.1 --- Эпиграмма
+/author/lermontov/text/2547/p.1 --- Эпиграммы
+/author/lermontov/text/4122/p.1 --- Я верю под одной звездою
+/author/lermontov/text/2524/p.1 --- Я видел вас холмы и нивы
+/author/lermontov/text/4097/p.1 --- Я к вам пишу случайно право
+/author/lermontov/text/4108/p.1 --- Я матерь божия ныне с молитвою
+/author/lermontov/text/1061/p.1 --- Я не унижусь пред тобою
+/author/lermontov/text/4110/p.1 --- Я не хочу чтоб свет узнал
+/author/lermontov/text/2517/p.1 --- Я пришла святой отец
+/author/lermontov/text/2528/p.1 --- Я пробегал страны России
+/author/lermontov/text/2532/p.1 --- Я рожден с душою пылкой

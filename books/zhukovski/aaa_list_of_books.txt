@@ -1,0 +1,90 @@
+/author/zhukovski/theme.1 --- О любви
+/author/zhukovski/theme.4 --- О природе
+/author/zhukovski/theme.6 --- О весне
+/author/zhukovski/theme.9 --- О Новом Годе
+/author/zhukovski/theme.11 --- О дружбе
+/author/zhukovski/theme.12 --- О родине
+/author/zhukovski/theme.15 --- О России
+/author/zhukovski/theme.17 --- О поэтах и поэзии
+/author/zhukovski/theme.19 --- О жизни
+/author/zhukovski/theme.20 --- О море
+/author/zhukovski/theme.31 --- Об утре
+/author/zhukovski/theme.32 --- О вечере
+/author/zhukovski/form.2 --- Повести
+/author/zhukovski/form.5 --- Стихотворения
+/author/zhukovski/form.6 --- Поэмы
+/author/zhukovski/form.16 --- Баллады
+/author/zhukovski/form.18 --- Элегии
+/author/zhukovski/text/1520/p.1 --- Бело-румяна
+/author/zhukovski/text/1580/p.1 --- Блажен кто близ тебя одним тобой пылает
+/author/zhukovski/text/1579/p.1 --- В сих мрачных келиях обители святой
+/author/zhukovski/text/1122/p.1 --- Вечер
+/author/zhukovski/text/1170/p.1 --- Воспоминание
+/author/zhukovski/text/1166/p.1 --- Воспоминание
+/author/zhukovski/text/1571/p.1 --- Герой
+/author/zhukovski/text/1522/p.1 --- Добродетель
+/author/zhukovski/text/1521/p.1 --- Добродетель
+/author/zhukovski/text/1577/p.1 --- Дружба
+/author/zhukovski/text/1523/p.1 --- Ещё Херасков друг Минервы
+/author/zhukovski/text/1501/p.1 --- Ивиковы журавли
+/author/zhukovski/text/1582/p.1 --- Идиллия
+/author/zhukovski/text/1568/p.1 --- Из недра вечности рожденный
+/author/zhukovski/text/1497/p.1 --- Имя где для тебя
+/author/zhukovski/text/1575/p.1 --- К К М С〈оковнин〉ой
+/author/zhukovski/text/1569/p.1 --- К Тибуллу На  прошедший век
+/author/zhukovski/text/1497/p.1 --- К ней
+/author/zhukovski/text/1576/p.1 --- К поэзии
+/author/zhukovski/text/1582/p.1 --- Когда она была пастушкою простой
+/author/zhukovski/text/1581/p.1 --- Когда я был любим в восторгах в наслажденье
+/author/zhukovski/text/1169/p.1 --- Колокол поздний кончину отшедшего дня возвещает
+/author/zhukovski/text/1500/p.1 --- „Кто рыцарь ли знатный иль латник простой
+/author/zhukovski/text/1498/p.1 --- Лалла Рук
+/author/zhukovski/text/1086/p.1 --- Лесной царь
+/author/zhukovski/text/1123/p.1 --- Людмила
+/author/zhukovski/text/1520/p.1 --- Майское утро
+/author/zhukovski/text/1498/p.1 --- Милый сон души пленитель
+/author/zhukovski/text/1570/p.1 --- Мир
+/author/zhukovski/text/1567/p.1 --- Могущество слава и благоденствие России
+/author/zhukovski/text/1084/p.1 --- Море
+/author/zhukovski/text/1501/p.1 --- На Посидонов пир веселый
+/author/zhukovski/text/1571/p.1 --- На лоне облаков румяных
+/author/zhukovski/text/1574/p.1 --- На смерть А〈ндрея Тургенева〉
+/author/zhukovski/text/1567/p.1 --- На троне светлом лучезарном
+/author/zhukovski/text/1121/p.1 --- Невыразимое
+/author/zhukovski/text/1572/p.1 --- „Ничтожный человек что жизнь твоя   Мгновенье
+/author/zhukovski/text/1574/p.1 --- О друг мой неужли твой гроб передо мною
+/author/zhukovski/text/1573/p.1 --- О лира друг мой неизменный
+/author/zhukovski/text/1170/p.1 --- О милых спутниках которые наш свет
+/author/zhukovski/text/1578/p.1 --- О родина моя Обурн благословенный
+/author/zhukovski/text/1569/p.1 --- Он совершил свое теченье
+/author/zhukovski/text/1578/p.1 --- Опустевшая деревня
+/author/zhukovski/text/1522/p.1 --- От света светов луч излился
+/author/zhukovski/text/1502/p.1 --- Пал Приамов град священный
+/author/zhukovski/text/1376/p.1 --- Певец во стане русских воинов
+/author/zhukovski/text/1167/p.1 --- Перчатка
+/author/zhukovski/text/1583/p.1 --- Песнь барда над гробом славян-победителей
+/author/zhukovski/text/1581/p.1 --- Песня
+/author/zhukovski/text/1521/p.1 --- Под звездным кровом тихой нощи
+/author/zhukovski/text/1579/p.1 --- Послание Элоизы к Абеляру
+/author/zhukovski/text/1570/p.1 --- Проснись пифийского поэта древня лира
+/author/zhukovski/text/1575/p.1 --- Протекших радостей уже не возвратить
+/author/zhukovski/text/1166/p.1 --- Прошли прошли вы дни очарованья
+/author/zhukovski/text/1122/p.1 --- Ручей виющийся по светлому песку
+/author/zhukovski/text/1580/p.1 --- Сафина ода
+/author/zhukovski/text/1085/p.1 --- Светлана
+/author/zhukovski/text/1169/p.1 --- Сельское кладбище
+/author/zhukovski/text/1168/p.1 --- Сельское кладбище
+/author/zhukovski/text/1577/p.1 --- Скатившись с горной высоты
+/author/zhukovski/text/1499/p.1 --- Славянка
+/author/zhukovski/text/1568/p.1 --- Стихи на новый 1800 год
+/author/zhukovski/text/1573/p.1 --- Стихи сочиненные в день моего рождения
+/author/zhukovski/text/1856/p.1 --- Теон и Эсхин
+/author/zhukovski/text/1502/p.1 --- Торжество победителей
+/author/zhukovski/text/1168/p.1 --- Уже бледнеет день скрываясь за горою
+/author/zhukovski/text/1239/p.1 --- Ундина
+/author/zhukovski/text/1523/p.1 --- Хераскову
+/author/zhukovski/text/1572/p.1 --- Человек
+/author/zhukovski/text/1121/p.1 --- Что наш язык земной пред дивною природой
+/author/zhukovski/text/1576/p.1 --- Чудесный дар богов
+/author/zhukovski/text/1463/p.1 --- Эолова арфа
+/author/zhukovski/text/1856/p.1 --- Эсхин возвращался к пенатам своим

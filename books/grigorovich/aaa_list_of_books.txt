@@ -1,0 +1,7 @@
+/author/grigorovich/theme.2 --- О детях
+/author/grigorovich/theme.10 --- Юмористические
+/author/grigorovich/theme.18 --- Сатирические
+/author/grigorovich/form.2 --- Повести
+/author/grigorovich/form.8 --- Рассказы
+/author/grigorovich/text/1333/p.1 --- Гуттаперчевый мальчик
+/author/grigorovich/text/22/p.1 --- Приложение Как опасно предаваться честолюбивым снам

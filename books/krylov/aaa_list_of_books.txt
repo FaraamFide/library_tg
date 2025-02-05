@@ -1,0 +1,210 @@
+/author/krylov/form.10 --- Басни
+/author/krylov/form.17 --- Сборники
+/author/krylov/text/2175/p.118 --- Алкид
+/author/krylov/text/2175/p.119 --- Апеллес и Осленок
+/author/krylov/text/2175/p.1 --- Басни
+/author/krylov/text/2175/p.173 --- Бедный Богач
+/author/krylov/text/2175/p.21 --- Безбожники
+/author/krylov/text/2175/p.189 --- Белка
+/author/krylov/text/2175/p.168 --- Белка
+/author/krylov/text/2175/p.155 --- Богач и Поэт
+/author/krylov/text/2175/p.29 --- Бочка
+/author/krylov/text/2175/p.171 --- Бритвы
+/author/krylov/text/2175/p.174 --- Булат
+/author/krylov/text/2175/p.140 --- Булыжник и Алмаз
+/author/krylov/text/2175/p.70 --- Бумажный Змей
+/author/krylov/text/2175/p.177 --- Был у крестьянина Осел
+/author/krylov/text/2175/p.189 --- В деревне в праздник под окном
+/author/krylov/text/2175/p.10 --- Василек
+/author/krylov/text/2175/p.198 --- Вельможа
+/author/krylov/text/2175/p.25 --- Вельможа и Философ
+/author/krylov/text/2175/p.90 --- Водолазы
+/author/krylov/text/2175/p.185 --- Водопад и Ручей
+/author/krylov/text/2175/p.50 --- Волк и Волченок
+/author/krylov/text/2175/p.124 --- Волк и Журавль
+/author/krylov/text/2175/p.183 --- Волк и Кот
+/author/krylov/text/2175/p.39 --- Волк и Кукушка
+/author/krylov/text/2175/p.69 --- Волк и Лисица
+/author/krylov/text/2175/p.156 --- Волк и Мышонок
+/author/krylov/text/2175/p.113 --- Волк и Пастухи
+/author/krylov/text/2175/p.13 --- Волк и Ягненок
+/author/krylov/text/2175/p.30 --- Волк на псарне
+/author/krylov/text/2175/p.192 --- Волки и Овцы
+/author/krylov/text/2175/p.163 --- Ворона
+/author/krylov/text/2175/p.4 --- Ворона и Курица
+/author/krylov/text/2175/p.1 --- Ворона и Лисица
+/author/krylov/text/2175/p.43 --- Вороненок
+/author/krylov/text/2175/p.57 --- Воспитание Льва
+/author/krylov/text/2175/p.152 --- Голик
+/author/krylov/text/2175/p.91 --- Госпожа и две Служанки
+/author/krylov/text/2175/p.115 --- Гребень
+/author/krylov/text/2175/p.60 --- Гуси
+/author/krylov/text/2175/p.18 --- Два Голубя
+/author/krylov/text/2175/p.194 --- Два Мальчика
+/author/krylov/text/2175/p.157 --- Два Мужика
+/author/krylov/text/2175/p.117 --- Две Бочки
+/author/krylov/text/2175/p.159 --- Две Собаки
+/author/krylov/text/2175/p.87 --- Демьянова уха
+/author/krylov/text/2175/p.59 --- Дерево
+/author/krylov/text/2175/p.150 --- Дикие Козы
+/author/krylov/text/2175/p.85 --- Добрая Лисица
+/author/krylov/text/2175/p.2 --- Дуб и Трость
+/author/krylov/text/2175/p.37 --- Заяц на ловле
+/author/krylov/text/2175/p.94 --- Зеркало и Обезьяна
+/author/krylov/text/2175/p.182 --- Змея
+/author/krylov/text/2175/p.148 --- Змея и Овца
+/author/krylov/text/2175/p.79 --- Змея к Крестьянину пришла проситься в дом
+/author/krylov/text/2175/p.128 --- К Крестьянину вползла Змея
+/author/krylov/text/2175/p.92 --- Камень и Червяк
+/author/krylov/text/2175/p.67 --- Квартет
+/author/krylov/text/2175/p.107 --- Клеветник и Змея
+/author/krylov/text/2175/p.16 --- Когда вселенную Юпитер населял
+/author/krylov/text/2175/p.143 --- Когда почтен быть хочешь у людей
+/author/krylov/text/2175/p.132 --- Колос
+/author/krylov/text/2175/p.95 --- Комар и Пастух
+/author/krylov/text/2175/p.83 --- Конь и Всадник
+/author/krylov/text/2175/p.53 --- Кот и Повар
+/author/krylov/text/2175/p.149 --- Котел и Горшок
+/author/krylov/text/2175/p.158 --- Котенок и Скворец
+/author/krylov/text/2175/p.160 --- Кошка и Соловей
+/author/krylov/text/2175/p.84 --- Крестьяне и Река
+/author/krylov/text/2175/p.47 --- Крестьянин в беде
+/author/krylov/text/2175/p.79 --- Крестьянин и Змея
+/author/krylov/text/2175/p.128 --- Крестьянин и Змея
+/author/krylov/text/2175/p.143 --- Крестьянин и Змея
+/author/krylov/text/2175/p.179 --- Крестьянин и Лисица
+/author/krylov/text/2175/p.56 --- Крестьянин и Лисица
+/author/krylov/text/2175/p.167 --- Крестьянин и Лошадь
+/author/krylov/text/2175/p.153 --- Крестьянин и Овца
+/author/krylov/text/2175/p.41 --- Крестьянин и Работник
+/author/krylov/text/2175/p.80 --- Крестьянин и Разбойник
+/author/krylov/text/2175/p.96 --- Крестьянин и Смерть
+/author/krylov/text/2175/p.193 --- Крестьянин и Собака
+/author/krylov/text/2175/p.99 --- Крестьянин и Топор
+/author/krylov/text/2175/p.114 --- Кукушка и Горлинка
+/author/krylov/text/2175/p.170 --- Кукушка и Орел
+/author/krylov/text/2175/p.197 --- Кукушка и Петух
+/author/krylov/text/2175/p.175 --- Купец
+/author/krylov/text/2175/p.64 --- Лань и Дервиш
+/author/krylov/text/2175/p.5 --- Ларчик
+/author/krylov/text/2175/p.71 --- Лебедь Щука и Рак
+/author/krylov/text/2175/p.186 --- Лев
+/author/krylov/text/2175/p.166 --- Лев Серна и Лиса
+/author/krylov/text/2175/p.24 --- Лев и Барс
+/author/krylov/text/2175/p.100 --- Лев и Волк
+/author/krylov/text/2175/p.54 --- Лев и Комар
+/author/krylov/text/2175/p.103 --- Лев и Лисица
+/author/krylov/text/2175/p.196 --- Лев и Мышь
+/author/krylov/text/2175/p.82 --- Лев на ловле
+/author/krylov/text/2175/p.165 --- Лев состаревшийся
+/author/krylov/text/2175/p.184 --- Лещи
+/author/krylov/text/2175/p.35 --- Лжец
+/author/krylov/text/2175/p.191 --- Лиса
+/author/krylov/text/2175/p.179 --- Лиса Крестьянину однажды говорила
+/author/krylov/text/2175/p.110 --- Лиса-Строитель
+/author/krylov/text/2175/p.129 --- Лисица и Виноград
+/author/krylov/text/2175/p.146 --- Лисица и Осел
+/author/krylov/text/2175/p.32 --- Лисица и Сурок
+/author/krylov/text/2175/p.68 --- Листы и Корни
+/author/krylov/text/2175/p.81 --- Любопытный
+/author/krylov/text/2175/p.6 --- Лягушка и Вол
+/author/krylov/text/2175/p.109 --- Лягушка и Юпитер
+/author/krylov/text/2175/p.23 --- Лягушки просящие Царя
+/author/krylov/text/2175/p.121 --- Мальчик и Змея
+/author/krylov/text/2175/p.133 --- Мальчик и Червяк
+/author/krylov/text/2175/p.17 --- Мартышка и Очки
+/author/krylov/text/2175/p.131 --- Медведь в сетях
+/author/krylov/text/2175/p.93 --- Медведь у Пчел
+/author/krylov/text/2175/p.139 --- Мельник
+/author/krylov/text/2175/p.75 --- Механик
+/author/krylov/text/2175/p.52 --- Мешок
+/author/krylov/text/2175/p.178 --- Мирон
+/author/krylov/text/2175/p.86 --- Мирская сходка
+/author/krylov/text/2175/p.26 --- Мор Зверей
+/author/krylov/text/2175/p.141 --- Мот и Ласточка
+/author/krylov/text/2175/p.3 --- Музыканты
+/author/krylov/text/2175/p.126 --- Муравей
+/author/krylov/text/2175/p.62 --- Муха и Дорожные
+/author/krylov/text/2175/p.147 --- Муха и Пчела
+/author/krylov/text/2175/p.190 --- Мыши
+/author/krylov/text/2175/p.88 --- Мышь и Крыса
+/author/krylov/text/2175/p.111 --- Напраслина
+/author/krylov/text/2175/p.51 --- Обезьяна
+/author/krylov/text/2175/p.14 --- Обезьяны
+/author/krylov/text/2175/p.42 --- Обоз
+/author/krylov/text/2175/p.130 --- Овцы и Собаки
+/author/krylov/text/2175/p.55 --- Огородник и Философ
+/author/krylov/text/2175/p.9 --- Оракул
+/author/krylov/text/2175/p.66 --- Орел и Крот
+/author/krylov/text/2175/p.22 --- Орел и Куры
+/author/krylov/text/2175/p.63 --- Орел и Паук
+/author/krylov/text/2175/p.36 --- Орел и Пчела
+/author/krylov/text/2175/p.177 --- Осел
+/author/krylov/text/2175/p.16 --- Осел
+/author/krylov/text/2175/p.123 --- Осел и Мужик
+/author/krylov/text/2175/p.45 --- Осел и Соловей
+/author/krylov/text/2175/p.46 --- Откупщик и Сапожник
+/author/krylov/text/2175/p.120 --- Охотник
+/author/krylov/text/2175/p.8 --- Парнас
+/author/krylov/text/2175/p.188 --- Пастух
+/author/krylov/text/2175/p.127 --- Пастух и Море
+/author/krylov/text/2175/p.145 --- Паук и Пчела
+/author/krylov/text/2175/p.164 --- Пестрые Овцы
+/author/krylov/text/2175/p.40 --- Петух и Жемчужное Зерно
+/author/krylov/text/2175/p.122 --- Пловец и Море
+/author/krylov/text/2175/p.142 --- Плотичка
+/author/krylov/text/2175/p.102 --- Подагра и Паук
+/author/krylov/text/2175/p.76 --- Пожар и Алмаз
+/author/krylov/text/2175/p.134 --- Похороны
+/author/krylov/text/2175/p.162 --- Прихожанин
+/author/krylov/text/2175/p.33 --- Проxожие и Собаки
+/author/krylov/text/2175/p.73 --- Пруд и Река
+/author/krylov/text/2175/p.77 --- Пустынник и Медведь
+/author/krylov/text/2175/p.176 --- Пушки и Паруса
+/author/krylov/text/2175/p.125 --- Пчела и Мухи
+/author/krylov/text/2175/p.195 --- Разбойник и Извозчик
+/author/krylov/text/2175/p.7 --- Разборчивая Невеста
+/author/krylov/text/2175/p.28 --- Раздел
+/author/krylov/text/2175/p.11 --- Роща и Огонь
+/author/krylov/text/2175/p.31 --- Ручей
+/author/krylov/text/2175/p.161 --- Рыбья пляска
+/author/krylov/text/2175/p.97 --- Рыцарь
+/author/krylov/text/2175/p.61 --- Свинья
+/author/krylov/text/2175/p.144 --- Свинья под Дубом
+/author/krylov/text/2175/p.15 --- Синица
+/author/krylov/text/2175/p.56 --- „Скажи мне кумушка что у тебя за страсть
+/author/krylov/text/2175/p.72 --- Скворец
+/author/krylov/text/2175/p.154 --- Скупой
+/author/krylov/text/2175/p.116 --- Скупой и Курица
+/author/krylov/text/2175/p.105 --- Слон в случае
+/author/krylov/text/2175/p.49 --- Слон и Моська
+/author/krylov/text/2175/p.44 --- Слон на воеводстве
+/author/krylov/text/2175/p.65 --- Собака
+/author/krylov/text/2175/p.101 --- Собака Человек Кошка и Сокол
+/author/krylov/text/2175/p.180 --- Собака и Лошадь
+/author/krylov/text/2175/p.27 --- Собачья дружба
+/author/krylov/text/2175/p.138 --- Совет Мышей
+/author/krylov/text/2175/p.172 --- Сокол и Червяк
+/author/krylov/text/2175/p.151 --- Соловьи
+/author/krylov/text/2175/p.136 --- Сочинитель и Разбойник
+/author/krylov/text/2175/p.58 --- Старик и трое Молодых
+/author/krylov/text/2175/p.34 --- Стрекоза и Муравей
+/author/krylov/text/2175/p.98 --- Тень и Человек
+/author/krylov/text/2175/p.187 --- Три Мужика
+/author/krylov/text/2175/p.74 --- Тришкин кафтан
+/author/krylov/text/2175/p.20 --- Троеженец
+/author/krylov/text/2175/p.135 --- Трудолюбивый Медведь
+/author/krylov/text/2175/p.106 --- Туча
+/author/krylov/text/2175/p.168 --- У Льва служила Белка
+/author/krylov/text/2175/p.181 --- Филин и Осел
+/author/krylov/text/2175/p.112 --- Фортуна в гостях
+/author/krylov/text/2175/p.108 --- Фортуна и Нищий
+/author/krylov/text/2175/p.104 --- Хмель
+/author/krylov/text/2175/p.48 --- Хозяин и Мыши
+/author/krylov/text/2175/p.78 --- Цветы
+/author/krylov/text/2175/p.19 --- Червонец
+/author/krylov/text/2175/p.89 --- Чиж и Голубь
+/author/krylov/text/2175/p.12 --- Чиж и Еж
+/author/krylov/text/2175/p.169 --- Щука
+/author/krylov/text/2175/p.38 --- Щука и Кот
+/author/krylov/text/2175/p.137 --- Ягненок

@@ -1,0 +1,244 @@
+/author/nekrasov/theme.1 --- О любви
+/author/nekrasov/theme.2 --- О детях
+/author/nekrasov/theme.3 --- О животных
+/author/nekrasov/theme.4 --- О природе
+/author/nekrasov/theme.9 --- О Новом Годе
+/author/nekrasov/theme.10 --- Юмористические
+/author/nekrasov/theme.12 --- О родине
+/author/nekrasov/theme.13 --- О женщине
+/author/nekrasov/theme.15 --- О России
+/author/nekrasov/theme.16 --- О матери
+/author/nekrasov/theme.17 --- О поэтах и поэзии
+/author/nekrasov/theme.18 --- Сатирические
+/author/nekrasov/theme.21 --- О душе
+/author/nekrasov/theme.25 --- О деревне
+/author/nekrasov/form.5 --- Стихотворения
+/author/nekrasov/form.6 --- Поэмы
+/author/nekrasov/form.8 --- Рассказы
+/author/nekrasov/form.18 --- Элегии
+/author/nekrasov/text/2103/p.1 --- А вот еще изданье Страсть
+/author/nekrasov/text/2108/p.1 --- Администрация — берет
+/author/nekrasov/text/2091/p.1 --- Баюшки-баю
+/author/nekrasov/text/1728/p.1 --- Безвестен я Я вами не стяжал
+/author/nekrasov/text/1726/p.1 --- Белый день занялся над столицей
+/author/nekrasov/text/1518/p.1 --- Блажен незлобивый поэт
+/author/nekrasov/text/2103/p.1 --- Букинист и библиограф
+/author/nekrasov/text/1526/p.1 --- Бунт
+/author/nekrasov/text/2087/p.1 --- В Европе удобно но родины ласки
+/author/nekrasov/text/2145/p.1 --- 〈В альбом С Н Степанову〉
+/author/nekrasov/text/1119/p.1 --- В больнице
+/author/nekrasov/text/1725/p.1 --- В деревне
+/author/nekrasov/text/1503/p.1 --- В дороге
+/author/nekrasov/text/1128/p.1 --- В полном разгаре страда деревенская
+/author/nekrasov/text/1511/p.4 --- Ванька
+/author/nekrasov/text/2100/p.1 --- Великое чувство У каждых дверей
+/author/nekrasov/text/1532/p.2 --- Ветер что-то удушлив не в меру
+/author/nekrasov/text/2109/p.1 --- Видно вновь в какой нелепости
+/author/nekrasov/text/1126/p.1 --- Внимая ужасам войны
+/author/nekrasov/text/1511/p.1 --- Вор
+/author/nekrasov/text/1119/p.1 --- Вот и больница Светя показал
+/author/nekrasov/text/1511/p.3 --- Вот идет солдат Под мышкою
+/author/nekrasov/text/2082/p.1 --- Вот он весь как намалеван
+/author/nekrasov/text/1026/p.1 --- Вот парадный подъезд По торжественным дням
+/author/nekrasov/text/1777/p.1 --- Всё рожь кругом как степь живая
+/author/nekrasov/text/2106/p.1 --- Всюду с Музой проникающий
+/author/nekrasov/text/1124/p.1 --- Вчерашний день часу в шестом
+/author/nekrasov/text/2081/p.1 --- Выбор
+/author/nekrasov/text/1304/p.1 --- Где вы — певцы любви свободы мира
+/author/nekrasov/text/1731/p.1 --- Где твое личико смуглое
+/author/nekrasov/text/1108/p.3 --- Генерал Топтыгин
+/author/nekrasov/text/2097/p.1 --- „Глашенька Пустошь Ивашево
+/author/nekrasov/text/1532/p.3 --- Говорят еще день Правда я не видал
+/author/nekrasov/text/1105/p.1 --- Горящие письма
+/author/nekrasov/extract/10 --- Господу богу помолимся
+/author/nekrasov/text/1532/p.4 --- „Государь мой куда вы бежите“
+/author/nekrasov/text/1511/p.3 --- Гробок
+/author/nekrasov/text/2107/p.1 --- Дайте срок всю правду вам
+/author/nekrasov/text/1305/p.1 --- Двести уж дней
+/author/nekrasov/text/1077/p.1 --- Дедушка
+/author/nekrasov/text/1108/p.4 --- Дедушка Мазай и зайцы
+/author/nekrasov/text/1532/p.2 --- До сумерек
+/author/nekrasov/text/2087/p.1 --- Дома — лучше
+/author/nekrasov/text/2151/p.1 --- Друзья мои мы много жили
+/author/nekrasov/text/1529/p.1 --- Друзьям
+/author/nekrasov/text/2088/p.1 --- Душно без счастья и воли
+/author/nekrasov/text/1108/p.1 --- Дядюшка Яков
+/author/nekrasov/text/1506/p.1 --- Еду ли ночью по улице темной
+/author/nekrasov/text/2101/p.1#p1 --- Если в душе твоей ясны
+/author/nekrasov/text/1120/p.1 --- Если пасмурен день если ночь не светла
+/author/nekrasov/text/2114/p.1 --- Если ты красоте поклоняешься
+/author/nekrasov/extract/12 --- Есть женщины в русских селеньях
+/author/nekrasov/text/1029/p.1 --- Железная дорога
+/author/nekrasov/text/1107/p.1 --- Живя согласно с строгою моралью
+/author/nekrasov/text/1253/p.1 --- Забытая деревня
+/author/nekrasov/text/1730/p.1 --- Замолкни Муза мести и печали
+/author/nekrasov/text/1723/p.1 --- Заунывный ветер гонит
+/author/nekrasov/text/2083/p.1 --- „Здравствуй хозяюшка Здравствуйте детки
+/author/nekrasov/text/1127/p.1 --- Зеленый Шум
+/author/nekrasov/text/2084/p.1 --- Зимой играл в картишки
+/author/nekrasov/text/1305/p.1 --- З〈и〉не
+/author/nekrasov/text/1307/p.1 --- З〈и〉не
+/author/nekrasov/text/1309/p.1 --- З〈и〉не
+/author/nekrasov/text/2150/p.1 --- Знахарка
+/author/nekrasov/text/1028/p.1 --- И вот они опять знакомые места
+/author/nekrasov/text/1127/p.1 --- Идет-гудет Зеленый Шум
+/author/nekrasov/text/2092/p.1 --- 〈Из поэмы Без роду без племени〉
+/author/nekrasov/text/1530/p.1 --- К портрету 
+/author/nekrasov/text/2110/p.1 --- К портрету 
+/author/nekrasov/text/2147/p.1 --- Как дядю моего Ивана Ильича
+/author/nekrasov/text/1696/p.1 --- Как ты кротка как ты послушна
+/author/nekrasov/text/1078/p.3 --- Княгиня М Н Волконская
+/author/nekrasov/text/1078/p.1 --- Княгиня Трубецкая
+/author/nekrasov/text/1508/p.1 --- Когда горит в твоей крови
+/author/nekrasov/text/1030/p.1 --- Колыбельная песня
+/author/nekrasov/text/13/p.1 --- Кому на Руси жить хорошо
+/author/nekrasov/text/1532/p.5 --- Кому холодно кому жарко
+/author/nekrasov/text/1240/p.1 --- Коробейники
+/author/nekrasov/text/1118/p.1 --- Крестьянские дети
+/author/nekrasov/text/1532/p.4 --- Крещенские морозы
+/author/nekrasov/text/2111/p.1 --- Лошади бойко по рельсам катили
+/author/nekrasov/text/1308/p.1 --- Любовь и Труд — под грудами развалин
+/author/nekrasov/text/2086/p.1 --- Мать
+/author/nekrasov/text/1511/p.2 --- Мать касатиком сына зовет
+/author/nekrasov/text/1726/p.1 --- Маша
+/author/nekrasov/text/2098/p.1 --- Мне снилось на утесе стоя
+/author/nekrasov/text/1528/p.1 --- Молебен
+/author/nekrasov/text/2111/p.1 --- Молодые лошади
+/author/nekrasov/text/1158/p.1 --- Мороз Красный Нос
+/author/nekrasov/text/2097/p.1 --- Муж и жена
+/author/nekrasov/extract/11 --- Мужичок с ноготок
+/author/nekrasov/text/1254/p.1 --- Муза
+/author/nekrasov/text/1306/p.1 --- Музе
+/author/nekrasov/text/1516/p.1 --- Мы с тобой бестолковые люди
+/author/nekrasov/text/2149/p.1 --- Мысли журналиста при чтении программы обещающей не щадить литературных авторитетов
+/author/nekrasov/text/1117/p.1 --- На Волге
+/author/nekrasov/text/1511/p.1 --- На улице
+/author/nekrasov/text/1252/p.1 --- Наивная и страстная душа
+/author/nekrasov/text/1108/p.6 --- Накануне светлого праздника
+/author/nekrasov/text/2089/p.1 --- Наконец не горит уже лес
+/author/nekrasov/text/1125/p.1 --- Не говори „Забыл он осторожность
+/author/nekrasov/text/2118/p.1 --- Не гулял с кистенем я в дремучем лесу
+/author/nekrasov/text/2085/p.1 --- Не рыдай так безумно над ним
+/author/nekrasov/text/1117/p.1 --- Не торопись мой верный пес
+/author/nekrasov/text/2091/p.1 --- Непобедимое страданье
+/author/nekrasov/text/1106/p.1 --- Несжатая полоса
+/author/nekrasov/text/1254/p.1 --- Нет Музы ласково поющей и прекрасной
+/author/nekrasov/text/1517/p.1 --- Новый год
+/author/nekrasov/text/2081/p.1 --- Ночка сегодня морозная ясная
+/author/nekrasov/text/1107/p.1 --- Нравственный человек
+/author/nekrasov/text/1306/p.1 --- О Муза наша песня спета
+/author/nekrasov/text/2105/p.1 --- О Муза я у двери гроба
+/author/nekrasov/text/2148/p.1 --- О гласность русская ты быстро зашагала
+/author/nekrasov/extract/10 --- О двух великих грешниках
+/author/nekrasov/text/1724/p.1 --- О письма женщины нам милой
+/author/nekrasov/text/1532/p.1 --- О погоде
+/author/nekrasov/text/2118/p.1 --- Огородник
+/author/nekrasov/extract/11 --- Однажды в студеную зимнюю пору
+/author/nekrasov/text/2094/p.1 --- Он не был злобен и коварен
+/author/nekrasov/text/2086/p.1 --- Она была исполнена печали
+/author/nekrasov/text/1105/p.1 --- Они горят Их не напишешь вновь
+/author/nekrasov/text/1118/p.1 --- Опять я в деревне Хожу на охоту
+/author/nekrasov/text/1116/p.1 --- Орина мать солдатская
+/author/nekrasov/text/2096/p.1 --- Осень
+/author/nekrasov/text/1504/p.1 --- Отрадно видеть что находит
+/author/nekrasov/text/1252/p.1 --- Памяти Белинского
+/author/nekrasov/text/1024/p.1 --- Памяти Добролюбова
+/author/nekrasov/text/2146/p.1 --- Папаша
+/author/nekrasov/text/2147/p.1 --- Первый шаг в Европу
+/author/nekrasov/text/1723/p.1 --- Перед дождем
+/author/nekrasov/text/2106/p.1 --- Песня
+/author/nekrasov/text/2144/p.1 --- Песня Еремушке
+/author/nekrasov/text/2145/p.1 --- Пишите други — Начат путь
+/author/nekrasov/text/2152/p.1 --- Плач детей
+/author/nekrasov/text/1307/p.1 --- Пододвинь перо бумагу книги
+/author/nekrasov/text/2101/p.1 --- Подражание Шиллеру
+/author/nekrasov/text/1106/p.1 --- Поздняя осень Грачи улетели
+/author/nekrasov/text/1509/p.1 --- Поражена потерей невозвратной
+/author/nekrasov/text/1115/p.1 --- Поэт и гражданин
+/author/nekrasov/text/1304/p.1 --- Поэту
+/author/nekrasov/text/1308/p.1 --- Поэту
+/author/nekrasov/text/1725/p.1 --- Право не клуб ли вороньего рода
+/author/nekrasov/text/1727/p.1 --- Праздник жизни — молодости годы
+/author/nekrasov/text/2112/p.1 --- Праздному юноше
+/author/nekrasov/text/2096/p.1 --- Прежде — праздник деревенский
+/author/nekrasov/text/1732/p.1 --- Признание
+/author/nekrasov/text/22/p.1 --- Приложение Как опасно предаваться честолюбивым снам
+/author/nekrasov/text/2109/p.1 --- Приметы
+/author/nekrasov/text/2090/p.1 --- Прислушайте братцы Жил царь в старину
+/author/nekrasov/text/1511/p.2 --- Проводы
+/author/nekrasov/text/1125/p.1 --- Пророк
+/author/nekrasov/text/1697/p.1 --- Прости Не помни дней паденья
+/author/nekrasov/text/1722/p.1 --- Пускай мечтатели осмеяны давно
+/author/nekrasov/text/1025/p.1 --- Пускай нам говорит изменчивая мода
+/author/nekrasov/text/1108/p.2 --- Пчелы
+/author/nekrasov/text/2152/p.1 --- Равнодушно слушая проклятья
+/author/nekrasov/text/2110/p.1 --- Развенчан нами сей кумир
+/author/nekrasov/text/1733/p.1 --- Разговор
+/author/nekrasov/text/1026/p.1 --- Размышления у парадного подъезда
+/author/nekrasov/text/1028/p.1 --- Родина
+/author/nekrasov/text/1078/p.1 --- Русские женщины
+/author/nekrasov/extract/35 --- Русь
+/author/nekrasov/text/1120/p.1 --- Рыцарь на час
+/author/nekrasov/text/2083/p.1 --- С работы
+/author/nekrasov/text/1763/p.1 --- Саша
+/author/nekrasov/text/1532/p.5 --- Свечерело В предместиях дальних
+/author/nekrasov/text/1527/p.1 --- Сеятель знанья на ниву народную
+/author/nekrasov/text/1526/p.1 --- Скачу как вихорь из Рязани
+/author/nekrasov/text/2102/p.1 --- Скоро — приметы мои хороши
+/author/nekrasov/text/1503/p.1 --- „Скучно скучно Ямщик удалой
+/author/nekrasov/text/1532/p.1 --- Слава богу стрелять перестали
+/author/nekrasov/extract/32 --- Славная осень Здоровый ядреный
+/author/nekrasov/text/1763/p.1 --- Словно как мать над сыновней могилой
+/author/nekrasov/text/1511/p.4 --- Смешная сцена Ванька-дуралей
+/author/nekrasov/text/1721/p.1 --- Современная ода
+/author/nekrasov/text/1108/p.5 --- Соловьи
+/author/nekrasov/text/2098/p.1 --- Сон
+/author/nekrasov/text/1511/p.1 --- Спеша на званый пир по улице прегрязной
+/author/nekrasov/text/1030/p.1 --- Спи пострел пока безвредный
+/author/nekrasov/text/1108/p.1 --- Стихотворения посвященные русским детям
+/author/nekrasov/text/2144/p.1 --- — Стой ямщик жара несносная
+/author/nekrasov/text/1532/p.3 --- Сумерки
+/author/nekrasov/text/1024/p.1 --- Суров ты был ты в молодые годы
+/author/nekrasov/text/2101/p.1#p1 --- Сущность
+/author/nekrasov/text/2099/p.1 --- Так запой о поэт Чтобы всем матерям
+/author/nekrasov/text/2113/p.1 --- Так умереть — ты мне сказала
+/author/nekrasov/text/1530/p.1 --- Твои права на славу очень хрупки
+/author/nekrasov/text/1777/p.1 --- Тишина
+/author/nekrasov/text/1027/p.1 --- Тройка
+/author/nekrasov/text/1507/p.1 --- Ты всегда хороша несравненно
+/author/nekrasov/text/1303/p.1 --- Ты грустна ты страдаешь душою
+/author/nekrasov/text/1309/p.1 --- Ты еще на жизнь имеешь право
+/author/nekrasov/extract/35 --- Ты и убогая
+/author/nekrasov/text/2095/p.1 --- Ты не забыта
+/author/nekrasov/text/1695/p.1 --- Тяжелый год — сломил меня недуг
+/author/nekrasov/text/1729/p.1 --- Тяжелый крест достался ей на долю
+/author/nekrasov/text/1253/p.1 --- У бурмистра Власа бабушка Ненила
+/author/nekrasov/text/1721/p.1 --- Украшают тебя добродетели
+/author/nekrasov/text/1302/p.1 --- Умру я скоро Жалкое наследство
+/author/nekrasov/text/2104/p.1 --- Устал я устал я мне время уснуть
+/author/nekrasov/text/1532/p.1 --- Утренняя прогулка
+/author/nekrasov/text/1303/p.1 --- Утро
+/author/nekrasov/text/2101/p.1#p2 --- Форма
+/author/nekrasov/text/2117/p.1 --- Ходит он меланхолически
+/author/nekrasov/text/1528/p.1 --- Холодно голодно в нашем селении
+/author/nekrasov/text/1531/p.1 --- Хотите знать что я читал Есть ода
+/author/nekrasov/text/2093/p.1 --- Черный день Как нищий просит хлеба
+/author/nekrasov/text/2108/p.1 --- Что нового
+/author/nekrasov/text/1517/p.1 --- Что новый год то новых дум
+/author/nekrasov/text/2151/p.1 --- Что поделывает наша внутренняя гласность
+/author/nekrasov/text/2112/p.1 --- Что сидишь ты сложа руки
+/author/nekrasov/text/1733/p.1 --- Что ты душа так ноешь страждешь
+/author/nekrasov/text/1027/p.1 --- Что ты жадно глядишь на дорогу
+/author/nekrasov/text/2149/p.1 --- Что ты задумал несчастный
+/author/nekrasov/text/1116/p.1 --- Чуть живые в ночь осеннюю
+/author/nekrasov/text/1076/p.1 --- Школьник
+/author/nekrasov/text/2082/p.1 --- Эй Иван
+/author/nekrasov/text/1025/p.1 --- Элегия
+/author/nekrasov/text/2084/p.1 --- 〈Эпитафия〉
+/author/nekrasov/text/2095/p.1 --- „Я была вчера еще полезна
+/author/nekrasov/text/2146/p.1 --- Я давно замечал этот серенький дом
+/author/nekrasov/text/1505/p.1 --- Я за то глубоко презираю себя
+/author/nekrasov/text/1510/p.1 --- Я не люблю иронии твоей
+/author/nekrasov/text/1732/p.1 --- Я пленен я очарован
+/author/nekrasov/text/1519/p.1 --- Я посягну на неприличность
+/author/nekrasov/text/1529/p.1 --- Я примирился с судьбой неизбежною

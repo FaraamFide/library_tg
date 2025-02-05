@@ -1,0 +1,5 @@
+/author/soloviev/theme.26 --- Об искусстве
+/author/soloviev/form.3 --- Статьи
+/author/soloviev/text/16/p.1 --- Общий смысл искусства
+/author/soloviev/text/1003/p.1 --- Судьба Пушкина
+/author/soloviev/text/63/p.1 --- Три речи в память Достоевского

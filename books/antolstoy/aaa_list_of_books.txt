@@ -1,0 +1,17 @@
+/author/antolstoy/theme.2 --- О детях
+/author/antolstoy/theme.22 --- О войне
+/author/antolstoy/theme.23 --- Исторические
+/author/antolstoy/form.1 --- Романы
+/author/antolstoy/form.2 --- Повести
+/author/antolstoy/form.8 --- Рассказы
+/author/antolstoy/text/4316/p.1 --- Аэлита
+/author/antolstoy/text/1538/p.1 --- Гадюка
+/author/antolstoy/text/4308/p.1 --- Детство Никиты
+/author/antolstoy/text/4309/p.2 --- Как это началось
+/author/antolstoy/text/4309/p.4 --- Нина
+/author/antolstoy/text/4309/p.1 --- Ночью в сенях на сене
+/author/antolstoy/text/2174/p.1 --- Петр Первый
+/author/antolstoy/text/4309/p.1 --- Рассказы Ивана Сударева
+/author/antolstoy/text/4309/p.6 --- Русский характер
+/author/antolstoy/text/4309/p.3 --- Семеро чумазых
+/author/antolstoy/text/4309/p.5 --- Странная история

@@ -1,0 +1,17 @@
+/author/saltykov-schedrin/theme.18 --- Сатирические
+/author/saltykov-schedrin/form.1 --- Романы
+/author/saltykov-schedrin/form.13 --- Сказки
+/author/saltykov-schedrin/text/1265/p.1 --- Богатырь
+/author/saltykov-schedrin/text/2173/p.1 --- Господа Головлевы
+/author/saltykov-schedrin/text/1256/p.1 --- Дикий помещик
+/author/saltykov-schedrin/text/1261/p.1 --- Дурак
+/author/saltykov-schedrin/text/1248/p.1 --- История одного города
+/author/saltykov-schedrin/text/4573/p.1 --- Карась-идеалист
+/author/saltykov-schedrin/text/1264/p.1 --- Кисель
+/author/saltykov-schedrin/text/1263/p.1 --- Коняга
+/author/saltykov-schedrin/text/1262/p.1 --- Либерал
+/author/saltykov-schedrin/text/1260/p.1 --- Медведь на воеводстве
+/author/saltykov-schedrin/text/1258/p.1 --- Повесть о том как один мужик двух генералов прокормил
+/author/saltykov-schedrin/text/1255/p.1 --- Премудрый пискарь
+/author/saltykov-schedrin/text/1259/p.1 --- Пропала  совесть
+/author/saltykov-schedrin/text/1257/p.1 --- Самоотверженный  заяц
